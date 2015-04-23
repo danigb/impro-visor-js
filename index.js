@@ -11,8 +11,8 @@ var build = require('./lib/builder')
 function processFile(files, file, builder) {
   var buffer = files[file].contents.toString();
   var tokens = parse(buffer);
-  var txt = tokens.map(function(t) { return [t.type, t.key, t.value].join('|'); }).join('\n');
-  files[file + ".txt"] = { contents: new Buffer(txt) };
+//  var txt = tokens.map(function(t) { return [t.type, t.key, t.value].join('|'); }).join('\n');
+//  files[file + ".txt"] = { contents: new Buffer(txt) };
   var obj = builder(tokens);
   var json = JSON.stringify(obj, null, 2);
   files[file + ".json"] = { contents: new Buffer(json) };

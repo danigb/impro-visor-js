@@ -1,5 +1,0 @@
-PAIR|theme|(name Hedwig's Theme - John Williams )(notes r4 b4 e+4 g+4 f#+4 e+4 b+4 a+2 f#+2 e+4 g+4 f#+4 d#+2 f+4 b2 )
-PAIR|theme|(name Twinkle Twinkle Little Star )(notes c4 c4 g4 g4 a4 a4 g2 f4 f4 e4 e4 d4 d4 c2 )
-PAIR|theme|(name Jingle Bells )(notes e4 e4 e2 e4 e4 e2 e4 g4 c4 d4 e1 f4 f4 f4 f4 f4 e4 e4 e8 e8 g4 g4 f4 d4 c1 )
-PAIR|theme|(name demo 1)(notes r2 g#+8 g+8 f#+8 e+8 d#+16/3 e+16/3 c#+16/3 b8 )
-PAIR|theme|(name demo 2)(notes r2 f+8 f#+16 f+16 d#+16 d+16 c#+16 c+4+16 a#16 c#+16 c+16 a#16 b8 a8 g8 a#8 f#+8 c#+8 a8 )
