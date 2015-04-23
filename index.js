@@ -9,6 +9,7 @@ var build = require('./lib/builder')
 
 
 function processFile(files, file, builder) {
+  console.log("PROCESS", file);
   var buffer = files[file].contents.toString();
   var tokens = parse(buffer);
 //  var txt = tokens.map(function(t) { return [t.type, t.key, t.value].join('|'); }).join('\n');
