@@ -1,0 +1,69 @@
+PAIR|title|Invitation
+PAIR|composer|Bronislau Kaper
+PAIR|show|A Life of Her Own
+PAIR|year|1952
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|4
+PAIR|roadmap-layout|8
+BLOCK|style|latin
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|phrase|(style latin)
+LIT||Cm69 | / | / | / |
+PAIR|section|(style)
+LIT||Cm9 | F13 | Bb7#11_ | / |
+PAIR|phrase|(style)
+LIT||Ebm69 | / | / | / |
+PAIR|phrase|(style)
+LIT||Ebm9 | Ab13 | Db7#11_ | / |
+PAIR|phrase|(style swing)
+LIT||C#m9 | F#13 | Bm69 | / |
+PAIR|section|(style)
+LIT||Bm9 | E13 | Am69 | / |
+PAIR|phrase|(style)
+LIT||Am9 | D13 | Gm69 | / |
+PAIR|section|(style)
+LIT||Eb7#11 | / | D7#11 | Dm7b5 G13b9 |
+PAIR|phrase|(style latin)
+LIT||Cm69 | / | / | / |
+PAIR|section|(style)
+LIT||Cm9 | F13 | Bb7#11_ | / |
+PAIR|section|(style)
+LIT||Ebm69 | / | B7#11_ | / |
+LIT||F7#11 | Bb7#11 | Ebm69 | Dm9 G13b9 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||d4/3 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4+16+32/3

@@ -1,0 +1,61 @@
+PAIR|title|12-Bar Blues
+PAIR|composer|
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|180.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|62
+PAIR|drum-volume|42
+PAIR|chord-volume|22
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|no-style-but-swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|section|(style no-style-but-swing)
+LIT||F13 | Bb13 Bo7 | F13 | Cm9 F13b9 |
+LIT||Bb13 | Bo7 | F13 | D7#5#9 |
+LIT||Gm9 | C13b9 | F13 D7#5#9 | Gm9 C13b9 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||c+4+8 r4 a8 g8 f8
+LIT||e8 ab8 f8 c8 db8 r8 g8 d8
+LIT||eb8 a8 b4 f+8 r8 d+8 c+8
+LIT||f+4 eb+8 d+8 a8 gb8 r4
+LIT||c8 f8 e8 r8 g8 c+8 e+8/3 bb+8/3 g+8/3
+LIT||db+8 d+8 b8 r8 g#8 d8 f8 b8
+LIT||f+8 d+8 eb+4 d+8 r8 a8 c+8
+LIT||g#4 f#8 d8 f2
+LIT||g8/3 e8/3 bb8/3 r8 d+8 f+4+8 bb+8
+LIT||e+8 c+8 g4 db8 c8 eb8 r8
+LIT||c8 d8 f8 r8 f#8 bb8 eb+8 d+8
+LIT||f+8 db+8 c+8 a8 g8 db+8 e+8 c+8

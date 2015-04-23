@@ -1,0 +1,11 @@
+{
+  "equivs": {
+    "C CM CMajor CBass C2 C5 C6 CM6 CM7 CMaj7 CMaj9 CMaj13 Cmaj7 Cmaj9 Cmaj13": {},
+    "C7 CDominant": {}
+  },
+  "equiv": "C+ Caug",
+  "sub": "Co Co7 CoM7",
+  "subs": {
+    "C7 C7alt C7+ C+7 C7aug Caug7 C7#5 C7#5#9 C7#9b13 C7b9 C7b9b13 C7#9 C9 C5": {}
+  }
+}

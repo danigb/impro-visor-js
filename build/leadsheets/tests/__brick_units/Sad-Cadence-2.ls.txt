@@ -1,0 +1,47 @@
+PAIR|title|Sad Cadence 2
+PAIR|composer|
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|127
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|50
+PAIR|drum-volume|36
+PAIR|chord-volume|54
+PAIR|breakpoint|54
+PAIR|layout|
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|e--
+PAIR|chord-high|a
+PAIR|chord-low|d-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style swing)
+LIT||Dm7b5 | G7alt | Cm69 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1

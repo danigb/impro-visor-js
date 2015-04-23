@@ -1,0 +1,54 @@
+PAIR|title|Blue and Sentimental
+PAIR|composer|Count Basie, Jerry Livingston, Mack David
+PAIR|show|
+PAIR|year|1938
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-3
+PAIR|tempo|90.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g--
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|a--
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-3
+CLOSE||
+PAIR|section|(style swing)
+LIT||EbM7 Db7 C7 / | F7 Bb7 | F7 Bb7 | Gm7 C7b9 Fm7 Bb7b9 |
+LIT||Eb Db7 C7 / | F7 Bb7 | F7 Bb7 | Eb / Bbm7 Eb7 |
+PAIR|section|(style)
+LIT||Ab6 Ao7 | Eb/Bb / Bbm7 Eb7 | Ab6 Ao7 | Eb/Bb / Fm7 Bb7b9 |
+PAIR|section|(style)
+LIT||EbM7 Db7 C7 / | F7 Bb7 | F7 Bb7 | Eb7 D7 Db7 C7 |
+LIT||F7 Bb7 | Eb Eo7 Fm7 Bb7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|-3
+PAIR|stave|treble
+CLOSE||
+LIT||g8 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4+8

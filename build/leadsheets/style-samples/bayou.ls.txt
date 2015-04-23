@@ -1,0 +1,52 @@
+PAIR|title|After You've Gone
+PAIR|composer|Turner Layton and Henry Creamer
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-2
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|32
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|bayou
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|105
+PAIR|volume|65
+PAIR|key|-2
+CLOSE||
+PAIR|section|(style bayou)
+LIT||Eb6 | Ab7#11 | Bb6 | Dm7 G7 |
+LIT||C7 | F7 | Bb6 | Bb7 |
+LIT||Eb6 | Ab7#11 | Bb6 | Dm7 G7 |
+LIT||Cm7 G7 | Cm7 Ab7b5 | Bb6 D7/A | Gm7 Gm7/F Eo7 / |
+LIT||Bb6 G7 | Cm7 F7 | Bb6 | Bb7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|71
+PAIR|volume|85
+PAIR|key|-2
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

@@ -1,0 +1,70 @@
+PAIR|title|Birdland
+PAIR|composer|Joe Zawinul
+PAIR|show|
+PAIR|year|
+PAIR|comments|Obviously this is just an approximation
+PAIR|meter|4 4
+PAIR|key|1
+PAIR|tempo|130.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 2 4 4 4 4 4 2 3
+PAIR|roadmap-layout|8
+BLOCK|style|ska
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|1
+CLOSE||
+PAIR|section|(style ska)
+LIT||G7 | / | G7 | / |
+LIT||G7 | / | G7 | / |
+LIT||G7 | / | G7 | / |
+LIT||G7 | / | G7 | / |
+LIT||Gm F/G / / | F/Bb Eb/Bb | Dm7 | F/C Cm7 / / |
+LIT||F/B G6 | Gm/C F/Eb / / | G | Gm/C F/C / / |
+LIT||GBass | GBass | GBass | GBass |
+LIT||G7 | G7sus4 | / | / |
+LIT||G7 | G7sus4 | / | / |
+LIT||G7 | G7sus4 | / | / |
+LIT||G7 | G7sus4 | / | / |
+LIT||G7 | G7sus4 | / | / |
+LIT||G7 | C/E G7/D | G7 | / |
+LIT||G7 | C/E G7/D | / | / |
+LIT||/ | / | G7 | / |
+LIT||/ | / | / | / |
+LIT||/ | / | G G/B Em / | G/B CM7 C#m7b5 / |
+LIT||Bm7 E7 | Am G/B C6 C/D | G G/B Em / | G/B CM7 C#m7b5 / |
+LIT||Bm7 E7 | Am G/B C6 C/D | G G/B Em / | G/B CM7 C#m7b5 / |
+LIT||Bm7 E7 | Am G/B C6 C/D | G G/B Em / | G/B CM7 C#m7b5 / |
+LIT||Bm7 E7 | Am G/B C6 C/D | G Bm Em / | G/D C#m7 C7 / |
+LIT||Bm7 E7 | Am G/B C/D G | G Bm Em / | G/D C#m7 C7 / |
+LIT||Bm7 E7 | Am G/B C6 C/D | G |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

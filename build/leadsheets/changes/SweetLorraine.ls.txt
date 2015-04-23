@@ -1,0 +1,72 @@
+PAIR|title|Sweet Lorraine
+PAIR|composer|Cliff Burwell
+PAIR|show|
+PAIR|year|1928
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|1
+PAIR|tempo|120.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|34
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|b
+PAIR|chord-low|g--
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|1
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||G F7 E7 / | A7 / D7 B7 |
+PAIR|phrase|(style)
+LIT||Em | C7 B7 |
+PAIR|phrase|(style)
+LIT||E7 A7 | Am7 D7 | Bm7b5 E7 | Am7 D7+ |
+PAIR|phrase|(style)
+LIT||G F7 E7 / | A7 / D7 B7 |
+PAIR|phrase|(style)
+LIT||Em | C7 B7 |
+PAIR|phrase|(style)
+LIT||E7 A7 | Am7 D7 | G | Dm7 G7 |
+PAIR|phrase|(style)
+LIT||C E7 | Am C7 |
+PAIR|phrase|(style)
+LIT||F E7 | Am C7 |
+PAIR|phrase|(style)
+LIT||F7 E7 | Eb7 D7 | F7 E7 | A7 D7 |
+PAIR|phrase|(style)
+LIT||G F7 E7 / | A7 / D7 B7 |
+PAIR|phrase|(style)
+LIT||Em | C7 B7 |
+PAIR|phrase|(style)
+LIT||E7 A7 | Am7 D7 | G |
+PAIR|section|(style)
+LIT||Am7 D7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|85
+PAIR|key|1
+PAIR|stave|treble
+CLOSE||
+LIT||b4 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4

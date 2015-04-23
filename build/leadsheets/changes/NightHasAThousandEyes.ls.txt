@@ -1,0 +1,63 @@
+PAIR|title|The Night Has a Thousand Eyes
+PAIR|composer|Jerry Brainin and Buddy Bernier
+PAIR|show|Night Has a Thousand Eyes (film)
+PAIR|year|1948
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|1
+PAIR|tempo|200.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|48
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|4
+PAIR|roadmap-layout|8
+BLOCK|style|latin-pedal-bass-1
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|1
+CLOSE||
+PAIR|section|(style latin-pedal-bass-1)
+LIT||GM9 | / | Am7/G | / |
+LIT||GM9 | / | Am7/G | / |
+PAIR|section|(style swing)
+LIT||Dm9 | G13b9 | CM9 | F13#11 |
+LIT||Bm9 Bbo7 | Am9 D13b9 | GM9 | / |
+PAIR|section|(style latin-pedal-bass-1)
+LIT||GM9 | / | Am7/G | / |
+LIT||GM9 | / | Am7/G | / |
+PAIR|section|(style swing)
+LIT||Dm9 | G13b9 | CM9 | F13#11 |
+LIT||Bm9 Bbo7 | Am9 D13b9 | GM9 | / |
+LIT||Cm9 | F7+ | BbM9 | / |
+LIT||Bbm9 | Eb7+ | AbM9 | / |
+LIT||Am9 | D13 | Bm9 | E13 |
+LIT||Am9 | D13b9 | GM9 | D9sus4 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|1
+PAIR|stave|treble
+CLOSE||
+LIT||a1+2
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2

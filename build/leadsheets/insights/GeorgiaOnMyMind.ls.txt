@@ -1,0 +1,62 @@
+PAIR|title|Georgia On My Mind
+PAIR|composer|Hoagy Carmichael
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|120.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g--
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|a--
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||FM7 | Em7b5 A7 | Dm Dm7/C | Bm7b5 Bbm7 |
+PAIR|section|(style)
+LIT||Am7 D7 | Gm7 C7 | A7#9 D7 | Gm7 C7+ |
+PAIR|phrase|(style)
+LIT||FM7 | Em7b5 A7 | Dm Dm7/C | Bm7b5 Bbm7 |
+PAIR|section|(style)
+LIT||Am7 D7 | Gm7 C7 | FM7 / Bb Bo | FM7 / Em7b5 A7 |
+PAIR|phrase|(style)
+LIT||Dm A7 | Dm Bb7 | Dm A7 | Dm7 G7 |
+PAIR|section|(style)
+LIT||Dm A7 | Dm E7 | Am7 D7 | Gm7 C7 |
+PAIR|phrase|(style)
+LIT||FM7 | Em7b5 A7 | Dm Dm7/C | Bm7b5 Bbm7 |
+PAIR|section|(style)
+LIT||Am7 D7 | Gm7 C7 | FM7 / Bb Bo | FM7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

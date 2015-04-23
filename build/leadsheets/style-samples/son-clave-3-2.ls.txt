@@ -1,0 +1,72 @@
+PAIR|title|Begin the Beguine
+PAIR|composer|Cole Porter
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|43
+PAIR|drum-volume|60
+PAIR|chord-volume|29
+PAIR|breakpoint|54
+PAIR|layout|4
+PAIR|roadmap-layout|8
+BLOCK|style|son-clave-3-2
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style son-clave-3-2)
+LIT||CM | C6 | CM7 | C6 |
+LIT||CM | C6 C#o7 | Dm7 | G7 |
+LIT||Dm7 | / | Dm7 | / |
+LIT||Dm7 | G7 | CM7 | G7sus4 |
+LIT||CM | C6 | CM7 | C6 |
+LIT||CM | C6 C#o7 | Dm7 | G7 |
+LIT||Dm7 | / | Dm7 | / |
+LIT||Dm7 | G7 | CM6 | / |
+LIT||Cm7 | F7 | Bb6 | / |
+LIT||Bbm7 | Eb7 | AbM7 | Ab6 |
+LIT||Ao7 | / | G6 | Ab6 |
+LIT||G6 | Fm7 | G7sus4 | G7 |
+LIT||CM | C6 | CM7 | C6 |
+LIT||CM | C7 | Dm7 | G7 |
+LIT||Dm7b5 | / | Dm7b5 | / |
+LIT||Dm7 | G7 | CM7 | C6 |
+LIT||CM | C6 | CM7 | C6 |
+LIT||CM | C6 | G7/D | G7 |
+LIT||FM7 | Dm7 | Em7 | A7 |
+LIT||Dm7 | G7 | CM7 | C6 / G9sus4 G7b9 |
+LIT||CM | C6 | CM7 | C6 |
+LIT||CM | Dm7/C C6 | G7/D | G7 |
+LIT||FM7 | Dm7 | Em7 | A7b9 |
+LIT||Dm7 | / | Dm7b5 | Fm6 |
+LIT||G7sus4 | G7 | C6 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

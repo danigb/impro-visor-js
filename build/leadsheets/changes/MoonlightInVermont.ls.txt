@@ -1,0 +1,65 @@
+PAIR|title|Moonlight in Vermont
+PAIR|composer|John Blackburn and Karl Suessdorf
+PAIR|show|
+PAIR|year|1943
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-3
+PAIR|tempo|80.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|3 3 3 3 4 4 3 3
+PAIR|roadmap-layout|4
+BLOCK|style|ballad
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-3
+CLOSE||
+PAIR|section|(style ballad)
+LIT||Eb6 Cm7 | Fm7 E7#9 | Eb6 Cm7 | Db9 |
+LIT||Fm7 Bb7sus4 | Eb6 / Fm7 E7 |
+PAIR|section|(style ballad)
+LIT||Eb6 Cm7 | Fm7 E7#9 |
+LIT||Eb6 Cm7 | Db9 | Fm7 Bb7sus4 | EbM7 |
+PAIR|section|(style ballad)
+LIT||Am7 D7 | GM7 G#o7 | Am7 Ab9 | GM7 |
+PAIR|phrase|(style ballad)
+LIT||Bbm7 Eb7 | AbM7 Ao7 |
+PAIR|phrase|(style ballad)
+LIT||Bbm7 Eb7 |
+PAIR|section|(style ballad)
+LIT||AbM7 Bb7alt |
+PAIR|section|(style ballad)
+LIT||Eb6 Cm7 | Fm7 E7#9 | Eb6 Cm7 | Db9 |
+LIT||Fm7 Bb7sus4 | EbM7 |
+PAIR|section|(style ballad)
+LIT||F9 E7#9 | EbM7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|-3
+PAIR|stave|treble
+CLOSE||
+LIT||c+4 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4

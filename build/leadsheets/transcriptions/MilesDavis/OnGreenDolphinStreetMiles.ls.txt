@@ -1,0 +1,133 @@
+PAIR|title|On Green Dolphin Street
+PAIR|composer|
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|160.0
+PAIR|volume|127
+PAIR|playback-transpose|0
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+BLOCK|style|pedal-bass-3
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|On Green Dolphin Street
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|section|(style pedal-bass-3)
+LIT||EbM7 | / | Ebm7 | / |
+LIT||F/Eb | E/Eb | EbM7 |
+PAIR|section|(style swing)
+LIT||C7alt |
+LIT||Fm7 | Bb7 | EbM7 | Bbm7 Eb7 |
+LIT||Abm7 | Db7 | GbM7 | Fm7 Bb7 |
+LIT||EbM7 | / | Ebm7 | / |
+LIT||F/Eb | E/Eb | EbM7 Ab7 | Gm7 C7 |
+LIT||Fm Fm/Eb | Dm7b5 G7b9 | Cm Cm/Bb | Am7b5 D7 |
+LIT||Gm7 C7alt | Fm7 Bb7alt | Gm7 C7 | Fm7 Bb7 |
+LIT||Gm7 C7 | Fm7 Bb7 | EbM7 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Chorus 1
+PAIR|composer|Miles Davis
+PAIR|instrument|57
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||bb1+2
+LIT||r8 g8 bb8 d+8
+LIT||f+1+1
+LIT||g+1
+LIT||gb+4+8
+LIT||db+8 b4 r8 ab8
+LIT||bb1+8
+LIT||r1+8
+LIT||ab8 r8 bb4 r8 g8
+LIT||f2 r8 g8 r8 d8
+LIT||f8 d8 eb8 g8 bb8 g8 ab8 a8
+LIT||bb8 db+8 eb+2+4
+LIT||db+8 r4+8 bb4+8 r8
+LIT||ab8 r8 ab8 r8 ab8 r8 bb4
+LIT||gb2+4 r4
+LIT||f8 g8 ab8 bb8 cb8 c+8 d+8 f+4+8
+LIT||d+8 r8 bb2
+LIT||r1+8
+LIT||f+8 ab+2 f+8 eb+8
+LIT||db+2 r2
+LIT||a+4+8 g+8 f+2
+LIT||ab+8 gb+8 e+4 r2
+LIT||g+8 r8 f+8 r8 eb+4+8 f+8
+LIT||g+4 f+8 r8 eb+2
+LIT||r4 bb8 r8 f4 g8 r8
+LIT||ab8 bb8 b8 c+4 db+8 d+8 eb+8
+LIT||f+8 d+8 r2+4+8
+LIT||eb+4+8 c+2
+LIT||bb8 r8 bb2+4
+LIT||eb+2+8 r8 d+4
+LIT||bb8 r8 bb2+4
+LIT||r1+4
+LIT||g8 r8 bb8 r8 eb+8 r8
+LIT||g+1+1+1
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Chorus 2
+PAIR|composer|Miles Davis
+PAIR|instrument|57
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||d+8 f+8 d+8 bb8 g8 r8 g8 eb8
+LIT||g4 r1
+LIT||g8 ab8 bb8 c+8 db+8 eb+8
+LIT||f+8 ab+2+4+8
+LIT||g+4 f+8 eb+4+8 f+8 gb+4+8
+LIT||f+8 eb+2+8
+LIT||g+8 eb+8 f+8 d+4 eb+4+8
+LIT||r4+8 d+8 c+8 cb8 bb8 ab8
+LIT||r8 g8 r8 f8 bb4+8 r1+4+8
+LIT||f8
+LIT||d8 eb8 g8 bb8 d+8
+LIT||f+8 d+8 f+8 d+8 f+8 d+8 f+8 d+8
+LIT||eb+4 r8 db+2+8
+LIT||bb8 r8 bb4 ab2
+LIT||r2 ab8 f8 gb8 ab8
+LIT||a8 bb8 cb8 c+8 db+8 d+8 eb+8 f+8
+LIT||g+1+8
+LIT||r2 bb8 eb+8 f+8
+LIT||ab+1+4+8
+LIT||f+4+8 a+1
+LIT||r8 g#+2+4+8
+LIT||r4
+LIT||g+4+8 f+16 eb+16 d+4+8 c+16 bb16
+LIT||g4+8 f16 eb16 d4+8 r2
+LIT||bb8 r8 f8 r8 g8
+LIT||ab8 f8 bb8 g8 cb8 c+8 d+8 eb+4/3+16/3
+LIT||r8/3 f+8/3 eb+2 r2+8
+LIT||d+8 eb+4 c+8 r8
+LIT||bb2 r2+4+8
+LIT||d+2 c+8
+LIT||r8 bb8 bb2+4
+LIT||r4 d+8 eb+8 d+4+8 d+8
+LIT||bb4+8+16 d+16 eb+2
+LIT||ab4+8 d+2+4
+LIT||r1+2+4+8

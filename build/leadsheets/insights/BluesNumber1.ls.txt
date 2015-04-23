@@ -1,0 +1,51 @@
+PAIR|title|Blues Number 1
+PAIR|composer|John Elliott
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|180.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|31
+PAIR|drum-volume|48
+PAIR|chord-volume|37
+PAIR|breakpoint|54
+PAIR|layout|4
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style swing)
+LIT||CM7 | F7 | CM7 | Gm7 C7 |
+LIT||F7 | F#o7 | CM7 | A7 |
+PAIR|section|(style)
+LIT||Dm7 | G7 | CM7 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1

@@ -1,0 +1,50 @@
+PAIR|title|Wave
+PAIR|composer|Antonio Carlos Jobim
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|50
+PAIR|chord-volume|47
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|bossaB
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style bossaB)
+LIT||Dmaj7 | Bbdim | Am7 | D7 |
+LIT||Gmaj7 | Gm6 | F#13 F#9+ | B9 B7b9 |
+LIT||Bm7 E7 | Bb9 A7 | Dm7 G7 | Dm7 G7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1

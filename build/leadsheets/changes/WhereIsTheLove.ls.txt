@@ -1,0 +1,74 @@
+PAIR|title|Where Is The Love
+PAIR|composer|Ralph MacDonald and William Salter
+PAIR|show| Roberta Flack and Donny Hathaway
+PAIR|year|1972
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|1
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|rock-light-even
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|1
+CLOSE||
+PAIR|phrase|(style rock-light-even)
+LIT||G6 | Eb7 | Ab | Db7 |
+PAIR|phrase|(style)
+LIT||Gb6 | BM7 | Bb7sus4 | Bb7 |
+PAIR|phrase|(style)
+LIT||Eb | Gb7 | BM7 | Bb7sus4 Bb7 |
+PAIR|section|(style)
+LIT||Eb | Gb7 B | Bb7sus4 | / Bb7 |
+PAIR|phrase|(style)
+LIT||Eb | Eb7 | Ab | Db7 |
+PAIR|phrase|(style)
+LIT||Gb6 | BM7 | Bb7sus4 | Bb7 |
+PAIR|phrase|(style)
+LIT||Eb | Gb7 | BM7 | Bb7sus4 Bb7 |
+PAIR|section|(style)
+LIT||Eb | Gb7 B | Bb7sus4 | / Bb7 |
+PAIR|phrase|(style)
+LIT||Eb | Eb7 | AbM7 | Db7 |
+PAIR|phrase|(style)
+LIT||GbM7 | BM7 | Bb7sus4 | / Bb7 |
+PAIR|phrase|(style)
+LIT||Eb | Eb7 | Ab | Db7 |
+PAIR|section|(style)
+LIT||Gb6 | BM7 | Bb7sus4 | Bb7 |
+PAIR|phrase|(style)
+LIT||Eb | Gb7 | BM7 | Bb7sus4 Bb7 |
+PAIR|section|(style)
+LIT||Eb | Gb7 B | Bb7sus4 | / Bb7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|1
+PAIR|stave|treble
+CLOSE||
+LIT||r2 g8 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+4+8

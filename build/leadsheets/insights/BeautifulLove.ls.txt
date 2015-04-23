@@ -1,0 +1,63 @@
+PAIR|title|Beautiful Love
+PAIR|composer|Victor Young Young W. King King E. Van Alstyne
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||Em7b5 | A7b9 | Dm | D7 |
+PAIR|section|(style)
+LIT||Gm7 | C7 | FM7 | Em7b5 A7 |
+PAIR|phrase|(style)
+LIT||Dm7 | Gm7 | Bb7 | A7 |
+PAIR|section|(style)
+LIT||Dm | B7 | Em7b5 | A7 |
+PAIR|phrase|(style)
+LIT||Em7b5 | A7b9 | Dm | D7 |
+PAIR|section|(style)
+LIT||Gm7 | C7 | FM7 | Em7b5 A7 |
+PAIR|phrase|(style)
+LIT||Dm7 | Gm7 | Bb7 | A7 |
+PAIR|section|(style)
+LIT||Dm Bm7b5 | Bb7 A7 | Dm | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+LIT||r1+1+1+1+1+1

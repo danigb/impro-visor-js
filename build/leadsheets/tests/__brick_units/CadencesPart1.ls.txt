@@ -1,0 +1,118 @@
+PAIR|title|Cadences, Part 1
+PAIR|composer|Bob Keller
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|127
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|50
+PAIR|drum-volume|36
+PAIR|chord-volume|54
+PAIR|breakpoint|54
+PAIR|layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|e--
+PAIR|chord-high|a
+PAIR|chord-low|d-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style swing)
+LIT||FM7 | / | CM7 | / |
+LIT||NC |
+PAIR|section|(style swing)
+LIT||Dm7 | G7 | CM7 |
+LIT||FM7 | Bm7b5 | E7 | Am |
+LIT||NC |
+PAIR|section|(style swing)
+LIT||Dm | A7 | Dm7 |
+LIT||G7 | CM7 | / | NC |
+PAIR|section|(style swing)
+LIT||Dm7 | Eb7 | G#M7 | B7 |
+LIT||EM7 | G7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||G#m7 | C#7 | CM7 | / |
+LIT||NC |
+PAIR|section|(style swing)
+LIT||Dm | G#m7 | C#7 |
+LIT||CM7 | / | NC |
+PAIR|section|(style swing)
+LIT||Am7 |
+LIT||D7 | Dm7 | G7 | CM7 |
+LIT||/ | NC |
+PAIR|section|(style swing)
+LIT||A7 | Dm7 |
+LIT||G7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||Eb7 |
+LIT||Dm7 | G7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||FM7 | F#m7 B7 | Em7 | A7 |
+LIT||Dm7 | G7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||D7/C | DbM7/C | CM7 | / |
+LIT||NC |
+PAIR|section|(style swing)
+LIT||F#m7 | B7 | CM7 |
+LIT||/ | NC |
+PAIR|section|(style swing)
+LIT||Eb7 | G#M7 |
+LIT||C#7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||EbM7 |
+LIT||AbM7 | DbM7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||Em7 A7 | Dm7 G7 | CM7 | / |
+LIT||NC |
+PAIR|section|(style swing)
+LIT||Fm | / | C |
+LIT||/ | NC |
+PAIR|section|(style swing)
+LIT||AbM7 | G7 |
+LIT||CM7 | / | NC |
+PAIR|section|(style swing)
+LIT||CM7 |
+LIT||E7 | Am | / | NC |
+PAIR|section|(style swing)
+LIT||Ab7 | G7 | CM7 | / |
+LIT||NC |
+PAIR|section|(style swing)
+LIT||Ab7 | G7 | Cm |
+LIT||/ | NC |
+PAIR|section|(style swing)
+LIT||A7 | Ab7 |
+LIT||G7 | CM7 | NC |
+PAIR|section|(style swing)
+LIT||Dm |
+LIT||Em | Ebdim | Dm7 | G7 |
+LIT||CM7 | NC |
+PAIR|section|(style swing)
+LIT||F | Bb7 |
+LIT||CM7 | A7 | Dm7 | G7 |
+LIT||CM7 | NC |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

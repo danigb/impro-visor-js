@@ -1,0 +1,56 @@
+PAIR|title|
+PAIR|composer|
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|200.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|cabaret-oompah
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style cabaret-oompah)
+LIT||C7 | F7 | Bb | F7 |
+LIT||Bb | / | Bb | / |
+LIT||F7 | / | F7 | / |
+LIT||F7 | / | Bb Ab7 | G7 |
+LIT||C7 | / | F7 | F7 |
+LIT||Bb | / | Bb | / |
+LIT||D7 | / | Gm | Bb7 |
+LIT||Eb | Edim | Bb Ab7 | G7 |
+LIT||C7 | F7 | Bb | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

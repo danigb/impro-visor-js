@@ -1,0 +1,125 @@
+PAIR|title|Have You Met Miss Jones?
+PAIR|composer|
+PAIR|show|Harold Danko
+PAIR|year|Coincidence
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|176.0
+PAIR|volume|127
+PAIR|playback-transpose|0
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style swing)
+LIT||GM7 | E7 | Am7 | D7 |
+LIT||GM7 | E7 | Bbm7 Eb7 | Am7 D7 |
+LIT||GM7 | Bm7 E7 | Am7 | D7 |
+LIT||GM7 | Em7 A7 | Dm7 | G7 |
+LIT||CM7 | Bbm7 Eb7 | AbM7 | F#m7 B7 |
+LIT||EM7 | Bbm7 Eb7 | AbM7 | Am7 D7 |
+LIT||GM7 | Bm7 E7 | Am7 | D7 |
+LIT||Bm7 E7 | Am7 D7 | GM7 | Am7 D7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Chorus 1
+PAIR|composer|Tom Harrell
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+8
+LIT||e8 a8 d+8 e+4 d+4
+LIT||a1
+LIT||r4 r8 d+8 c+8 d+8 e+8 f#+8
+LIT||a+8 g+8 f#+8 e+8 d+8 b8 a8 g8
+LIT||f#8 d8 e8 f#8 a8 g8 f#8 g8
+LIT||c+8 eb+8 db+8 eb16 f16 ab8 c+8 bb8 b8
+LIT||r8 a4 g8 f#8/3 a8/3 c+8/3 eb+8 db+8
+LIT||d+8 b8 a8 g8 f#8 e8 d8 e8
+LIT||f4 g8 e4+8 r4
+LIT||r4 r8 d16/3 e16/3 f16/3 a16 g16 f16 e16 a16 b16 c+16/3 e+16/3 g+16/3
+LIT||f#+2+8 e+16 eb+16 d+16 b16 a16 g16
+LIT||f#2 r8 a8 g8 a8
+LIT||b8 c+8 d+8 e+8 f+8 g+8 a+8 c++8
+LIT||b+8 a+8 g+8 f#+8 f+8 ab8 a8/3 c+8/3 e+8/3
+LIT||d#+8/3 e+8/3 d#+8/3 c#+8 b8 bb8 ab8 g8 f8
+LIT||e8/3 g8/3 b8/3 d+8 b8 c+8 d+8 e+8 g+8
+LIT||ab+8 f+8 a8 bb8 c+8 a8 bb8 c+8
+LIT||db+8 eb+8 r4 eb+8 c+8 bb8 ab8
+LIT||f#4+8 g#8 a8 b8 c#+8 e+8
+LIT||d#+8 c#+8 b8 g#8 f#8 e8 d#4
+LIT||r4+8 eb8 db8 eb8 f8 ab8
+LIT||g4 r4 bb8 g8 g#8 a8+16
+LIT||c+16 e+16 g+16 f#+8 e+8 d+8 b8 f#8 d8
+LIT||a8 f8 g8/3 b8/3 d+8/3 f#+8/3 g+8/3 g#+8/3 a+8 f#+8
+LIT||g+8 f#+8 e+8 eb+8 d+8 db+8 c+8 b8
+LIT||a8 f#8 g8 f8 f#8 e8 d8 db8
+LIT||c8 d8 e8/3 g8/3 b8/3 d+8 b8 f#8 d8
+LIT||a4 r2+4
+LIT||r4+8 d+8 c+8 d+8 e+8 f#+8
+LIT||g+8 a+8 b+8 c++8 d++8/3 e++8/3 d++8/3 db++8 c++8
+LIT||r8 b+8 a+8 g+8 f#+8 eb+8 d+8 c+8
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Chorus 2
+PAIR|composer|Tom Harrell
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||b8 d+8 e+8 g+8 a+8 g+8 f#+8 e+8
+LIT||c++4 ab+8 a+8 f#+8 f+8 e+8 d+8
+LIT||c+8 g#8 b16/3 c+16/3 b16/3 g#8 a8 e8 g8 e8
+LIT||f#8 a8 c+8 eb+8 d+8 bb8 f#8 d8
+LIT||a8 f#8 g8/3 b8/3 d+8/3 f#+8 g+4+8
+LIT||d+2 r2
+LIT||f+8 db+8 bb8 f8 ab8 gb8 g8 eb+4+8
+LIT||c+8/3 a8/3 g8/3 f#8 e8 d8 c8
+LIT||b-8 c8 d8/3 f#8/3 a8/3 f#8 g8 b8/3 d+8/3 e+8/3
+LIT||g+4 eb+8/3 c+8/3 ab8/3 g4 f8 e2+8
+LIT||r4+8 b8
+LIT||c+8/3 e+8/3 g+8/3 b+8 a+8 ab+8 gb+8 f+8 eb+8
+LIT||d+8 c+8 b8 e8 d4 c8 bb-8
+LIT||b-4 d8/3 f#8/3 a8/3 g8 a8 b8 c+8
+LIT||d+8 e+8 f+8 c#+8 e+8 d+8 a8 c+8
+LIT||b8/3 c+8/3 c#+8/3 d+8 c+8 b8 a8 g8 f8
+LIT||e8/3 g8/3 b8/3 d+8 b8 c+8 g8 e4
+LIT||eb2 r2+8
+LIT||bb8 g16 ab16 c+16 eb+16 g+4 r4
+LIT||r4 g#+16/3 a+16/3 g#+16/3 e+8 d#+8 c#+8 b8 a#4+8
+LIT||c#+8 b4 g#8 f#8 e8
+LIT||f8 ab8 g8 bb8 db+8 f+8 r4
+LIT||r4+8 f+16 e+16 eb+8 c+8 bb8 ab8
+LIT||a8 b8 c+8 d+8 eb+8 f+8 f#+8 a+8
+LIT||f#+4 d+8 f#+8 d+4 b8 d+8
+LIT||b4+8 f#4+8 d4
+LIT||e2 r4+8 d+8
+LIT||c+8 d+8 e+8 f#+8 g+8 a+8 b+8 f#+8
+LIT||a+8 g+8 f#+8 e+8 f+8 d+8 bb8 ab8
+LIT||a8 b8 c+8 d+8 eb+8 f+8 d+8/3 e+8/3 d+8/3
+LIT||c#+4 e+8 d+8 r8 f#8 g8 b8
+LIT||c+8 b8 g4 a8 g8 f#4

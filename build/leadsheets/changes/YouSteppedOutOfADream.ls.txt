@@ -1,0 +1,64 @@
+PAIR|title|You Stepped out of a Dream
+PAIR|composer|Nacio Herb Brown
+PAIR|show|Ziegfield Girl
+PAIR|year|1940
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|176.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|latin
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style latin)
+LIT||CM7 | / | DbM7 | / |
+PAIR|phrase|(style swing)
+LIT||Bbm7 | Eb7 | AbM7 | / |
+PAIR|phrase|(style)
+LIT||Gm7 | C7 | FM7 | / |
+PAIR|section|(style)
+LIT||Am7 | D7 | Ebm7 Ab7 | Dm7 G7 |
+PAIR|section|(style latin)
+LIT||CM7 | / | DbM7 | / |
+PAIR|section|(style swing)
+LIT||Bbm7 | Eb7 | Gb7 | F7 |
+PAIR|phrase|(style)
+LIT||Dm7b5 | G7 | CM7 | A7 |
+PAIR|phrase|(style)
+LIT||Dm7 | G7 | CM7 |
+PAIR|section|(style)
+LIT||Dm7 G7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||e8 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4+8

@@ -1,0 +1,50 @@
+PAIR|title|Cold Duck Time
+PAIR|composer|Eddie Harris
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|120.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|33
+PAIR|chord-volume|48
+PAIR|breakpoint|12
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|tango
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|c--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|section|(style tango)
+LIT||F7 | Bb7 | F7 | Bb7 |
+LIT||F7 | Bb7 | F7 | Bb7 |
+LIT||DbM7 | EbM7 | F7 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1

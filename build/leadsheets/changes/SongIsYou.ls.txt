@@ -1,0 +1,79 @@
+PAIR|title|The Song Is You
+PAIR|composer|Jerome Kern
+PAIR|show|Music in the Air
+PAIR|year|1932
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|32
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||CM7 | Ebo7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||CM7 | Ebo7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||Bb7 | A7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||Bb7 | A7 | D7 | G7 |
+PAIR|phrase|(style)
+LIT||CM7 | Ebo7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||CM7 | Ebo7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||Bb7 | A7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||CM7 | / |
+PAIR|phrase|(style)
+LIT||F#m7b5 | B7#9 |
+PAIR|phrase|(style)
+LIT||EM7 | Fo7 | F#m7 | B7 |
+PAIR|phrase|(style)
+LIT||EM7 | / | Bbm7b5 | Eb7#9 |
+PAIR|phrase|(style)
+LIT||Abm | AbmM7 | Abm7 | Abm6 |
+PAIR|phrase|(style)
+LIT||Db7 | F#7 | B7 | G7 |
+PAIR|phrase|(style)
+LIT||CM7 | Ebo7 | Dm7 | G7 |
+PAIR|phrase|(style)
+LIT||CM7 | C7 | FM7 | Fm7 |
+PAIR|section|(style)
+LIT||CM7 | A7 | Dm7 | G7 |
+LIT||CM7 | Ebo7 | Dm7 | G7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||b8 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4+8

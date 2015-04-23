@@ -1,0 +1,56 @@
+PAIR|title|Walk On the Wild Side
+PAIR|composer|Elmer Bernstein and Mack David
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|12 8
+PAIR|key|0
+PAIR|tempo|120.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|rock-6-8
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style rock-6-8)
+LIT||C F7 | C | / F7 | C |
+LIT||G7 F7 | C | G7 F7 | C |
+LIT||C F7 | C | / F7 | C |
+LIT||G7 F7 | C | G7 F7 | C C7 |
+LIT||F7 | C | F7 | C C7 |
+LIT||F7 | C | F7 | C |
+LIT||G7 F7 | C | G7 F7 | C |
+LIT||C F7 | C | / F7 | C |
+LIT||G7 F7 | C | G7 F7 | C |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||g2+4+8 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+8

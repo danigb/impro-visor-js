@@ -1,0 +1,64 @@
+PAIR|title|On Green Dolphin Street
+PAIR|composer|Bronislau Kaper
+PAIR|show|Green Dolphin Street (film)
+PAIR|year|1947
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|164.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|amouri-A
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|phrase|(style amouri-A)
+LIT||EbM7 | / | Ebm7 | / |
+PAIR|section|(style)
+LIT||F/Eb | E/Eb | EbM7 | Gm7 C7 |
+PAIR|phrase|(style)
+LIT||Fm7 | Bb7 | EbM7 | / |
+PAIR|section|(style)
+LIT||Abm7 | Db7 | GbM7 | Fm7 Bb7 |
+PAIR|phrase|(style)
+LIT||EbM7 | / | Ebm7 | / |
+PAIR|section|(style)
+LIT||F/Eb | E/Eb | EbM7 | Gm7 C7 |
+PAIR|section|(style)
+LIT||Fm7 | Dm7b5 G7 | Cm7 | Am7b5 D7 |
+PAIR|phrase|(style)
+LIT||Gm7 C7 | Fm7 Bb7 | EbM7 |
+PAIR|section|(style)
+LIT||Fm7 Bb7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

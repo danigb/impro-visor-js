@@ -1,0 +1,77 @@
+PAIR|title|
+PAIR|composer|
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|50
+PAIR|drum-volume|36
+PAIR|chord-volume|54
+PAIR|breakpoint|54
+PAIR|layout|8
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|e--
+PAIR|chord-high|a
+PAIR|chord-low|d-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style swing)
+LIT||CBass | C | CM | CMajor |
+LIT||C5 | C6 | CM6 | C69 |
+LIT||CM69 | CM7 | Cmaj7 | CMaj7 |
+LIT||CM7add13 | CM9 | Cmaj9 | CMaj9 |
+LIT||CM13 | Cmaj13 | CMaj13 | NC |
+LIT||Cm | C- | Cminor | NC |
+LIT||Cm6 | C-6 | Cm69 | C-69 |
+LIT||Cm7 | Cm7 | C-7 | Cminor7 |
+LIT||Cm9 | C-9 | Cm11 | C-11 |
+LIT||Cm13 | C-13 | CmM7 | CmM9 |
+LIT||Cm7b5 | C-7b5 | Ch7 | Chalf-diminished |
+LIT||Cm9b5 | C-9b5 | Ch9 | Cm11b5 |
+LIT||C-11b5 | Ch11 | Caugmented | Caug |
+LIT||C+ | Cdiminished | Cdim | Co |
+LIT||Cmb5 | Co7 | Cdim7 | NC |
+LIT||CDominant | C7 | C9 | C7#5 |
+LIT||C7+ | Caug7 | C7aug | C+7 |
+LIT||C7#5#9 | C7alt | C7#9 | CBlues |
+LIT||C7b9 | C7b9#11 | C9b5 | C11 |
+LIT||C13 | C13b5 | C13b9 | C13b9#11 |
+LIT||C13#11 | C13#9#11 | C13#9 | NC |
+LIT||CMsus4 | Csus | Csus4 | NC |
+LIT||Csus2 | CMsus2 | C2 | Csus24 |
+LIT||C7sus | C7sus4 | C7susb9 | C7b9sus4 |
+LIT||C9sus | C9sus4 | C13sus | C13sus4 |
+LIT||CM13#11 | CM9#11 | Cmaj9#11 | CMaj9#11 |
+LIT||CM13#11 | Cmaj13#11 | CMaj13#11 | NC |
+LIT||CM6#11 | C6#11 | CM6b5 | CM69#11 |
+LIT||C69#11 | C11b9 | C | C |
+LIT||C | C | C | C |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

@@ -1,0 +1,54 @@
+PAIR|title|Giant Steps
+PAIR|composer|John Coltrane
+PAIR|show|Giant Steps
+PAIR|year|1960
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-3
+PAIR|tempo|220.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|32
+PAIR|bass-volume|41
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|4
+PAIR|roadmap-layout|4
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g--
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|a--
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-3
+CLOSE||
+PAIR|section|(style swing)
+LIT||BM7 D9 | GM7 Bb9 | EbM7 | Am9 D9 |
+PAIR|section|(style)
+LIT||GM7 Bb9 | EbM7 F#9 | BM7 | Fm9 Bb9 |
+PAIR|section|(style)
+LIT||EbM9 | Am9 D9 | GM7 | C#m7 F#9 |
+PAIR|section|(style)
+LIT||BM7 | Fm9 Bb9 | EbM7 | C#m7 F#9 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|-3
+PAIR|stave|treble
+CLOSE||
+LIT||f#+2 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2

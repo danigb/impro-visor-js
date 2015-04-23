@@ -1,0 +1,304 @@
+PAIR|title|12-Bar Blues
+PAIR|composer|Generated from grammars learned from solos of different players
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|180.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|31
+PAIR|drum-volume|48
+PAIR|chord-volume|37
+PAIR|breakpoint|54
+PAIR|layout|4
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|b--
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|section|(style swing)
+LIT||F13 | Bb13 Bo7 | F13 | Cm9 F13b9 |
+PAIR|section|(style swing)
+LIT||Bb13 | Bo7 | F13 | D7#5#9 |
+PAIR|section|(style swing)
+LIT||Gm9 | C13b9 | F13 D7#5#9 | Gm9 C13b9 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Clifford Brown
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||bb16 c+4+8+16 a4+8 g8
+LIT||ab8 g8 f8 d8 bb16 b16 bb16 g#16 f4
+LIT||a8 f8 g8 c4+8 f8 a8
+LIT||bb8 c+8 eb+8 g+8 a+4 b4
+LIT||bb4 ab8 g8 d8 bb4+8
+LIT||g#4 c#+16 d+16 f+16 g#+16 f+4 r2
+LIT||f+4 r8 eb+8 g+8 c+8
+LIT||d+8 r8 d+8 c+8 bb8/3 db+8/3 c+8/3 bb8 g#8
+LIT||f4 r4 d4 e16 g16 bb16 d+16
+LIT||e+8 gb+8 a+8 c+8 eb+4 gb+4
+LIT||r8 d+8 a8 f8 g#8 bb8 g#8 f8
+LIT||g8 a8 bb8 c+8 db+8 a8 gb8 g8
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Dizzy Gillespie
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||f+16/3 g+16/3 eb+16/3 d+8 c+8 eb+8 g+8 f+8 eb+8 d+8
+LIT||f+8 g+8 f+8 d+8 f+8 d+8 b8 c#+8
+LIT||eb+8 c+8 db+8 d+8 eb+16 e+16 eb+16 db+16 d+8 c+8
+LIT||d+16/3 eb+16/3 g16/3 c8 g8 bb8 d+8 c+8 a8 gb8
+LIT||bb8 c+8 bb8/3 ab8/3 e4/3+16/3 eb8 d8 c8
+LIT||d16/3 f16/3 b16/3 g#8 d8 f8 g#8 f8 d8 b8
+LIT||d+8 f+8 d+8/3 c+8/3 b4/3+16/3 bb8 a8 g8
+LIT||bb8 f#8 f8 d8 c16/3 d16/3 c16/3 bb8 f#4
+LIT||r4 d+4 g+8 f+8 r8 g+8
+LIT||r2+4 e+4
+LIT||eb+4 d+8 c+8 bb8 g#8 f#8 f8
+LIT||a16/3 bb16/3 d16/3 g8 d8 f8 a8 g8 e8 db8
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Freddie Hubbard
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||f8 g4+8 r4+8 bb8
+LIT||r2+8 b8 e+8 bb+8
+LIT||a+4 g+8 c+8 r8 b8 a8 f8
+LIT||c8 b8 bb8 a8 ab8 g8 gb8 r8
+LIT||g4 e8 f8 r2+4+8
+LIT||b8 g#4 g8 b8
+LIT||g4 c+8 eb+8 r2+4+8
+LIT||d+8 c+4 bb8 d+8
+LIT||r2+4+8 c+8
+LIT||e+8 c+8 eb+8 r8 db+2
+LIT||r2+4+8 bb+8
+LIT||a+8 f+4 bb+8 g+8 e+8 db+8 r8
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Lee Morgan
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r2 f4+8 a8
+LIT||r8 g+8 ab+4 d+4 r4
+LIT||eb+4+8 e+8 f+8 eb+8 d+8 r4
+LIT||g+4+32+120+480 a+16/3 g+16/3 eb+8 c+8 r4
+LIT||eb+8 c+8 ab16/3 bb16/3 ab16/3 g8 c+8 eb+8 f+8 ab+8
+LIT||bb+8 g#+8 b8 db+8 f+8 g+8 b8 bb8
+LIT||d8 e8 f8 g8 a8 bb8 f8 d8
+LIT||f8 f#8 g#4 r8 bb8 d8 eb8
+LIT||e8 d8 g8 c+8 f+8 a+8 d+8 c+8
+LIT||c8 db8 e8 gb8 g4 e8 db8
+LIT||eb8 c8 bb8 g8 bb8 f#8 f8 r8
+LIT||f8 d8 bb8 g8 db+8 gb8 bb8/3 c+8/3 db+8/3
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Miles Davis
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r2+4 d+8 r8
+LIT||e+1
+LIT||r8 c+8 r8 d+8 eb+8 c+8 f+8 d+8
+LIT||eb+8 c+8 db+8 d+8 eb+8 gb+8 ab+2+4
+LIT||r2
+LIT||b1
+LIT||r1+4
+LIT||bb8 r8 c+4 r8 g#8
+LIT||d+4 r1
+LIT||db+8 eb+8 e+8 gb+8 g+8 a+8
+LIT||f+4+8+16 a+16 d+2
+LIT||f+8 d+8 eb+8 e+8 g+8 bb+8 c+4
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Tom Harrell
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||a4+8 d+8 a4 f8 d8
+LIT||f4+8 bb8 g#8 r4+8
+LIT||f4+8 c4+8 g4
+LIT||r2+4+8 b8
+LIT||eb+8 c+8 d+8 f+8+16 g+16 ab+16 c+16 bb8 ab8
+LIT||d4 b8 db+2 eb+8
+LIT||d+4 c+8 a2+8
+LIT||r2 f+8 r8 d+8 bb8
+LIT||g8 f8 d8 bb8 ab8 a8 f8 d8
+LIT||db8 bb8 a8 gb8 c+4 g+4
+LIT||b2 r4+8 f8
+LIT||r8 g2+8 a8 bb8
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Bill Evans
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||g8 gb8 f8 c+8 a8 ab8 g4
+LIT||f4/3 d4/3 db8/3 c8/3 bb4 r1+4+8
+LIT||d4
+LIT||g4 d8 ab4
+LIT||d8 c8 g8 f8 bb8 g8 a8 bb8
+LIT||f8 eb8 d8 b8 g#8 gb8 f8 b8
+LIT||bb8 g8 eb8 c8 bb8 f8 r4+8
+LIT||eb+8 c+8 g#8 f#8 eb8 c8 g#8
+LIT||a8 e4 g4+32+120+480 e+4/3 bb+4/3
+LIT||gb+8 e+8 c+8 a8 r2+8
+LIT||f8 d8 c8 g#8 f8 f#16 g#16 f#16 f16
+LIT||g4/3 b4/3 c+4/3 e+4/3 a+4/3 e+4/3
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Red Garland
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||c+8 eb+8 f+8 c+8 d+4+8 f+2+8
+LIT||g#+8 b8 bb8 g#8
+LIT||a4+8 c+8 r8 a8 b8 d+8
+LIT||r4+8 c+8 d+4+8 gb+8
+LIT||r4 bb+8 e+8 d+4 ab8 c+8
+LIT||bb16 b16 g#16 f16 g#16 b16 g#16 f16 g#8 d8 f8 g8
+LIT||a8 d+8 r8 c+8 d+8 c+8 d+8 eb+8
+LIT||r4 g#+8 eb+8 d+4 bb8 d+8
+LIT||r2+8 e+8 f+8 g+8
+LIT||r4+8 e+8 g+4+8 bb+8
+LIT||a+16 c+16 b16 a16 b4 r2+4
+LIT||bb8 g8 bb8 g8 r4
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Charlie Parker
+PAIR|composer|
+PAIR|instrument|65
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||c+8 r8 db+8 d+8 eb+8 r8 f+8 e+8
+LIT||f+4 eb+8 ab8 d+4+8 g+8
+LIT||eb+4 c+8 f+8 g+8 c+8 b8 a8
+LIT||r8 d4+8 r2
+LIT||ab8 e8 c8 d4+8 r4
+LIT||d8/3 eb8/3 e8/3 f8 d8 e8 f8 r8 d8
+LIT||r8 c2+8 g8 f8
+LIT||bb8 g8 f#8 f8 d8 db8 c8/3 d8/3 f8/3
+LIT||g8 bb16 a16 gb8 f4 d8 db8 c8
+LIT||bb8 g8 eb8 c8 gb16/3 a16/3 gb4/3 eb8 a8
+LIT||f+16/3 g+16/3 c+4/3 bb8 g8 bb8 eb+8 c+8 d+8
+LIT||f+8 c+8 a8 b8 bb4 r4
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Jimmy Heath
+PAIR|composer|
+PAIR|instrument|66
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||a4 b4 c+2
+LIT||bb8 r8 bb8 ab8 g8 g#8 f8 e8
+LIT||eb2+4 f4
+LIT||g8 f8 eb8 db8 d8 c8 a8 ab8
+LIT||g8 r8 gb8 g16 gb16 f4+8 ab16 c+16
+LIT||d+8 e+8 d+8 bb8 g8 e8 g8 f8
+LIT||bb8 c+8 a8 c+8 eb+8 f+8 g+8 f+8
+LIT||g#+8 f#+8 eb+8 f+8 g#+8 f+8 d+8 c+8
+LIT||d+8 bb8 g8 d8 f8 e8 f8 gb8
+LIT||g8 r2+4 a16 g16
+LIT||r1+8
+LIT||d+4+8 eb+4 db+4
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|John Coltrane
+PAIR|composer|
+PAIR|instrument|66
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||g8 d8 eb8 g8 f8 d8 c8 r8
+LIT||c8 bb8 c+4 b8 d+4+8
+LIT||r4+8 f+2 d+8
+LIT||eb+8 f+8 g+8 bb+8 b8 c+8 d+8 b16 a16
+LIT||bb4+8 f8 d+8 bb16/3 d+16/3 c+4/3 bb8
+LIT||f8 g#8 bb8 d+8 f+8 bb8 d+8 db+8
+LIT||f+4 a+8 eb+8 g+8 c+8 eb+8 f+8
+LIT||d+8 c+8 b8 bb8 f#8 r8 f8 f#16 eb16
+LIT||a8 e8 bb8 g8 f+8 d+4 r8
+LIT||g+4+8 e+16 d+16 db+8 b8 c+8 bb8
+LIT||a8 g8 bb8 a8 c+8 d+8 g#8 c+8
+LIT||r2 c+8 a8 g8 e8
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Dave Liebman
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||d+4 r4 b16 c+16 d+16 eb+16 f+16 d+16 b16 g16
+LIT||bb16 c+16 e+16 f+16 d+4+8 b8 d+8 g+8
+LIT||gb+8 eb+2+8 a8 d8
+LIT||g8 c+8 bb4 r4+8 eb8
+LIT||e16 f16 g16 ab4+16 r2
+LIT||e16 g#16 b16 d+16 f+8 bb+8 r8 g#+2+8
+LIT||d+8 r2+4
+LIT||eb+16 f+16 r8 c+16 f+8/3+32/3 f#+4 d+16/3 bb16/3 f16/3 f#16/3 bb16/3
+LIT||d+4 e+8 d+8 bb8 a8 g8 a8
+LIT||c+8 e+8 db+2+4
+LIT||r4 eb+4 d+8 c+8 d+8 c+2
+LIT||a8 e4 db4
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|You
+PAIR|composer|
+PAIR|instrument|56
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1

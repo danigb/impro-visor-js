@@ -1,0 +1,72 @@
+PAIR|title|All or Nothing at All
+PAIR|composer|Arthur Altman
+PAIR|show|
+PAIR|year|1939
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|152.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||Am | AmM7 | Am7 | Am6 |
+PAIR|section|(style)
+LIT||Am7 | / | Bb7 | / |
+PAIR|section|(style)
+LIT||Gm7 Gm7/F | Em7b5 A7b9 | Dm7 | / D#o7 |
+LIT||Dm7 | G7 | CM7 | Bm7b5 E7b9 |
+PAIR|section|(style)
+LIT||Am | AmM7 | Am7 | Am6 |
+LIT||Am7 | / | Bb7 | / |
+PAIR|section|(style)
+LIT||Gm7 Gm7/F | Em7b5 A7b9 | Dm7 | / D#o7 |
+LIT||Dm7 | G7 | CM7 | Bbm7b5 Eb7b9 |
+PAIR|section|(style)
+LIT||AbM7 AbM7#5 | Ab6 AbM7#5 | AbM7 | Bbm7 Eb7 |
+LIT||AbM7 | Db/Ab AbM7 | Eb7 | / |
+PAIR|section|(style)
+LIT||Bbm7 | Eb7 | Bbm7 | Gm7b5 C7#5 |
+LIT||Fm7 | Db7 | C7 | E7b9 |
+PAIR|section|(style)
+LIT||Am | AmM7 | Am7 | Am6 |
+LIT||Am7 | / | Bb7 | / |
+PAIR|section|(style)
+LIT||Gm7 Gm7/F | Em7b5 A7b9 | Dm7 | E7b9 |
+LIT||Am7 | Fm6 | C6 | Bm7b5 E7b9 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||e1+4
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4

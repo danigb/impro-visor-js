@@ -1,0 +1,63 @@
+PAIR|title|Dream Dancing
+PAIR|composer|Cole Porter
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|130.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||E7#11 | Bb7#11 | AM7 | Eb7 |
+PAIR|section|(style)
+LIT||Dm7 | G7 | CM7 | Gm7 C7 |
+PAIR|phrase|(style)
+LIT||FM7 | F#o | C/G / B7 Bb7 | A7 |
+PAIR|section|(style)
+LIT||Ab7 | G7 | CM7 | C7 |
+PAIR|phrase|(style)
+LIT||FM7 | Bb7 | CM7 F7 | Em7 Am7 |
+PAIR|section|(style)
+LIT||D7 | Ab7 | G7 | / |
+PAIR|phrase|(style)
+LIT||CM7 Ab7 | Gm7 C7 | FM7 | Em7 A7 |
+PAIR|section|(style)
+LIT||Ab7 | G7 | Ab7 | G7 |
+LIT||Ab7 | G7 | CM7 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

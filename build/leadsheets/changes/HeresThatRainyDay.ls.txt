@@ -1,0 +1,63 @@
+PAIR|title|Here's That Rainy Day
+PAIR|composer|Jimmy Van Heusen
+PAIR|show|Carnival in Flanders
+PAIR|year|1953
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|1
+PAIR|tempo|140.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|40
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|latin
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|1
+CLOSE||
+PAIR|phrase|(style latin)
+LIT||GM7 | Bb7 | EbM7 | AbM7 |
+PAIR|section|(style)
+LIT||Am7 | D7 | GM7 | Dm7 G7 |
+PAIR|phrase|(style)
+LIT||Cm7 | F7 | BbM7 | EbM7 |
+PAIR|section|(style)
+LIT||Am7 | D7 | GM7 E7 | Am7 D7 |
+PAIR|phrase|(style)
+LIT||GM7 | Bb7 | EbM7 | AbM7 |
+LIT||Am7 | D7 | GM7 | Dm7 G7 |
+PAIR|phrase|(style)
+LIT||CM7 |
+PAIR|phrase|(style)
+LIT||Am7 D7 | Bm7 | Bbo |
+PAIR|section|(style)
+LIT||Am7 | D7 | GM7 E7 | Am7 D7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

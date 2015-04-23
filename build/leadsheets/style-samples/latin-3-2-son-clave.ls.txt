@@ -1,0 +1,57 @@
+PAIR|title|Agua de Beber
+PAIR|composer|Antonio Carlos Jobim
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|180.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|58
+PAIR|drum-volume|60
+PAIR|chord-volume|13
+PAIR|breakpoint|54
+PAIR|layout|4 4 4 4 4 4 2 2 4 4 4
+PAIR|roadmap-layout|8
+BLOCK|style|latin-3-2-son-clave
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|c---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|section|(style latin-3-2-son-clave)
+LIT||Dm9 | E7#9 A7#5 | Dm9 | E7#9 A7#5 |
+LIT||Dm9 | BbM9 | Dm9 | Am7b5 |
+LIT||Dm9 | E7#9 A7#5 | Dm9 | E7#9 A7#5 |
+LIT||Dm9 | BbM9 | Dm9 | / |
+LIT||E7b9 | A7#5b9 | Dm9 | / |
+LIT||Gm9 | C13 | FM9 | F69 |
+LIT||E13 Eb13 | Dm6 Dbo7 | F9/C F7#9/C | E7#9/B |
+LIT||E7b9 | A9sus4 | Dm9 | D7#5b9 |
+LIT||G13 | Gm9 | Dm9 | / |
+LIT||G13 | Gm9 | Dm9 | NC Am9b5 / / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

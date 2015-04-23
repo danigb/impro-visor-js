@@ -1,0 +1,58 @@
+PAIR|title|Corner Pocket (Until I Met You)
+PAIR|composer|Freddie Green and Don Wolf
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-2
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-2
+CLOSE||
+PAIR|section|(style swing)
+LIT||Cm7 F7 | Cm7 F7 | Dm7 G7 | Dm7 G7 |
+LIT||Cm7 F7 | Cm7 F7 | BbM7 | Dm7 G7 |
+PAIR|section|(style)
+LIT||Cm7 F7 | Cm7 F7 | Dm7 G7 | Dm7 G7 |
+LIT||Cm7 F7 | Cm7 F7 | BbM7 | / |
+PAIR|section|(style)
+LIT||Fm7 Bb7 | Fm7 Bb7 | EbM7 | / |
+LIT||Gm7 C7 | Gm7 C7 | F7 | Cm7 F7 |
+PAIR|section|(style)
+LIT||Cm7 F7 | Cm7 F7 | Dm7 G7 | Dm7 G7 |
+LIT||Cm7 F7 | Cm7 F7 | BbM7 | Dm7 G7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|-2
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

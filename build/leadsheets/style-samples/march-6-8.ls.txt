@@ -1,0 +1,55 @@
+PAIR|title|Hey, Look Me Over!
+PAIR|composer|Cy Coleman
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|6 8
+PAIR|key|1
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|march-6-8
+PAIR|swing|0.55
+PAIR|comp-swing|0.55
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|1
+CLOSE||
+PAIR|section|(style march-6-8)
+LIT||G | / | B7 F#m7/C# | Do7 B7/D# |
+LIT||E7 | / | Am | / |
+LIT||D7 | / | G B7 | E7 |
+LIT||A7 | / | D7 | / |
+LIT||G | / | B7 F#m7/C# | Do7 B7/D# |
+LIT||E7 | / | Am | / |
+LIT||CM7 | F9 | G | E7 |
+LIT||Am7 | D7 | G | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|1
+PAIR|stave|treble
+CLOSE||
+LIT||d4+8 r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+8

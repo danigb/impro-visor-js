@@ -1,0 +1,60 @@
+PAIR|title|I AY, ARRIBA arranged by george kuhns
+PAIR|composer|
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|90.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|ay-arriba-A
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style ay-arriba-A)
+LIT||Cmaj7 | / | Bbmaj7 | / |
+LIT||C7 E7 | F7 Eb7 | D7 G7+ | C7 Bb7 |
+LIT||C7 G7 | Cmaj7 | / | Bbmaj7 |
+LIT||/ | C7 E7 | F7 Eb7 | D7 G7+ |
+LIT||C7 Bb7 | C7 G7 |
+PAIR|section|(style)
+LIT||Cmaj7 | / |
+LIT||Bbmaj7 | / | C7 E7 | F7 Eb7 |
+LIT||D7 G7+ | C | Db7sus | / |
+LIT||/ | / | Bb/C | C |
+LIT||Bb/C | C | Bb/C | C |
+LIT||Bb/C | C | C | G7sus |
+LIT||G7sus |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|11
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

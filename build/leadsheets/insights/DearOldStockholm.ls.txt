@@ -1,0 +1,62 @@
+PAIR|title|Dear Old Stockholm
+PAIR|composer|Traditional
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|-1
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|4 4 4 4 4 2 4 4
+PAIR|roadmap-layout|8
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|-1
+CLOSE||
+PAIR|phrase|(style swing)
+LIT||Dm | Em7b5 A7 | Gm7 C7 | F |
+PAIR|section|(style)
+LIT||Em7b5 A7 | Dm | Bb7#11 | A7 |
+PAIR|section|(style)
+LIT||Gm13/A | / | / | / |
+PAIR|section|(style)
+LIT||F Dm7 | Gm7 C7 | F | Em7b5 A7 |
+PAIR|phrase|(style)
+LIT||Dm | Em7b5 A7 | Gm7 C7 | F |
+PAIR|section|(style)
+LIT||Em7b5 A7 | Dm |
+PAIR|section|(style pedal-bass-2)
+LIT||Gm7/C | / |
+LIT||/ | / | / | / |
+LIT||Gm7/C A7 | Dm |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|85
+PAIR|key|-1
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

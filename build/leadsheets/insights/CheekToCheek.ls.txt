@@ -1,0 +1,67 @@
+PAIR|title|Cheek to Cheek
+PAIR|composer|Irving Berlin
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|160.0
+PAIR|volume|80
+PAIR|playback-transpose|0
+PAIR|chord-font-size|16
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|60
+PAIR|breakpoint|54
+PAIR|layout|
+PAIR|roadmap-layout|8
+BLOCK|style|cha-cha-cha-2
+PAIR|swing|0.5
+PAIR|comp-swing|0.5
+PAIR|bass-high|c-
+PAIR|bass-low|c--
+PAIR|bass-base|g--
+PAIR|chord-high|c
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style cha-cha-cha-2)
+LIT||CM7 | Dm7 G7 | CM7 | Dm7 G7 |
+LIT||CM7 | / | Em7b5 | A7 D7 |
+PAIR|section|(style)
+LIT||G7 | / | Bb7#11 | A7 |
+LIT||Dm7 | G7 | Em7 Am7 | Dm7 G7 |
+PAIR|section|(style)
+LIT||CM7 | Dm7 G7 | CM7 | Dm7 G7 |
+LIT||CM7 | / | Em7b5 | A7 D7 |
+PAIR|section|(style)
+LIT||G7 | / | Bb7#11 | A7 |
+LIT||Dm7 | G7 | CM7 | / |
+PAIR|section|(style)
+LIT||Dm7 G7 | Em7 A7 | Dm7 G7 | Em7 A7 |
+LIT||Dm7 G7 | Em7 A7 | Dm7 G7 | CM7 |
+PAIR|section|(style)
+LIT||Dm7 G7 | Em7 A7 | Dm7 G7 | Em7 A7 |
+LIT||Dm7 G7 | Em7 A7 | Dm7 G7 | CM7 |
+PAIR|section|(style)
+LIT||Cm7 | / | Ebm7 | Ab7 |
+LIT||Dm7b5 | Bm7b5 E7 | Am7 | Dm7 G7 |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|
+PAIR|composer|
+PAIR|instrument|73
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||r1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1

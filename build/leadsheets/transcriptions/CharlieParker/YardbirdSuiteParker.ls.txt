@@ -1,0 +1,84 @@
+PAIR|title|Yardbird Suite
+PAIR|composer|Charlie Parker
+PAIR|show|
+PAIR|year|
+PAIR|comments|
+PAIR|meter|4 4
+PAIR|key|0
+PAIR|tempo|180.0
+PAIR|volume|127
+PAIR|playback-transpose|0
+PAIR|bass-instrument|33
+PAIR|bass-volume|60
+PAIR|drum-volume|60
+PAIR|chord-volume|48
+PAIR|breakpoint|54
+PAIR|layout|
+BLOCK|style|swing
+PAIR|swing|0.67
+PAIR|comp-swing|0.67
+PAIR|bass-high|g-
+PAIR|bass-low|g---
+PAIR|bass-base|c--
+PAIR|chord-high|a
+PAIR|chord-low|c-
+PAIR|chord-base|c- e- g-
+CLOSE||
+BLOCK|part|
+PAIR|type|chords
+PAIR|title|Untitled Part
+PAIR|composer|
+PAIR|instrument|0
+PAIR|volume|65
+PAIR|key|0
+CLOSE||
+PAIR|section|(style swing)
+LIT||DM7 | Gm7 C7 | DM7 C7 | B7 |
+LIT||E7 | A7 | F#m7 B7 | Em7 A7 |
+LIT||DM7 | Gm7 C7 | DM7 C7 | B7 |
+LIT||E7 | A7 | DM7 | / Db7 |
+LIT||F#m7 | Abm7b5 Db7 | F#m7 | B7 |
+LIT||Em7 | F#m7b5 B7 | E7 | Em7 A7 |
+LIT||DM7 | Gm7 C7 | DM7 C7 | B7 |
+LIT||E7 | A7 | DM7 | / |
+BLOCK|part|
+PAIR|type|melody
+PAIR|title|Chorus 1
+PAIR|composer|Charlie Parker
+PAIR|instrument|66
+PAIR|volume|85
+PAIR|key|0
+PAIR|stave|treble
+CLOSE||
+LIT||a8 f#8 r4+8 e+16 eb+16 d+8 a8
+LIT||c+8 d+16 c+16 b8 bb4 g8 f8 d8
+LIT||a16/3 b16/3 a16/3 g8 f#8 b-8 c8 e8 g8 a8
+LIT||f#8 e8 d#8/3 f#8/3 a8/3 c+8 d+16 c+16 b8 a8
+LIT||g#8 e8 d16/3 e16/3 d16/3 b-8 f#2
+LIT||r1
+LIT||a8 r8 f#8 g8 a8 d+8 c#+8 b8
+LIT||a8 g8 e8 b-8 f#4 a8 e4+8
+LIT||r2+8 b8
+LIT||c+8 b8 bb8 g8 f8 d8 a8 g8
+LIT||f#8 c8 r8 e8 g8 a8 f#8 e8
+LIT||d#8 f#8 c8 bb-8 b-8 g8 f8 d8
+LIT||e8 c#8 d8 e4 c#8 d8 e8
+LIT||c#8 b-4+8 r4+8+16 a-16
+LIT||d8 a-4+8 r1+2+4
+LIT||c#8
+LIT||d#16 f16 f#8 g#8 a8 b8
+LIT||c+16 c#+4+8+16 r4 d+8 e+16 d+16
+LIT||c#+8 a8 f#8 c#8 g#8/3 a8/3 a#8/3 b8 g8
+LIT||a8 f#4+8 r2+8
+LIT||b-16/3 c#16/3 d#16/3 e8 f#8 g8 a8 b8 c+4
+LIT||d+16/3 c+16/3 b16/3 a8 g8 f#8 e8 d#8 c#+4/3
+LIT||d+16/3 c#+16/3 b8 a8 ab8 g8 b-8 d8 f#8
+LIT||e8 b-8 d8 b-8 c#8 bb8 g8 g#8
+LIT||a4 r4+8 e+8 d+8 a8
+LIT||c+8 b8 r8 bb8 r8 g8 e8 d8
+LIT||a4+8 c16 e16 g8 a8 f#8 e8
+LIT||d#8 f#8 a8 c#+4+8 b4
+LIT||c#+8 f#4+8 r1
+LIT||d+8 r8 d+8 d+4+8
+LIT||r4 c+8 d+16 c+16 a8 b8
+LIT||a8 g8 f8 d8 e4 d8 a-8
