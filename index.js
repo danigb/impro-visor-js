@@ -1,7 +1,6 @@
 
 'use strict';
 
-var parse = require('./lib/parser.js');
 var extname = require('path').extname;
 var Metalsmith = require('metalsmith');
 
@@ -29,6 +28,13 @@ function sheetBuilder(parent) {
   }
 }
 
+function parse(buffer) {
+  var lines = buffer.split('\n').filter(function(line) { return !/^\s*$/m.test(line); })
+  return lines.map(function() {
+
+  }):
+}
+
 
 function leadsheets() {
   return function(files, metalsmith, done) {
@@ -37,9 +43,8 @@ function leadsheets() {
         var name = file.slice(0, -3);
         console.log("PROCESSING: " + name);
         var contents = files[file].contents.toString();
-        var obj = {};
-        parse(contents, sheetBuilder(obj));
-        var json = JSON.stringify(obj, null, 2);
+        //var json = JSON.stringify(obj, null, 2);
+        var json = parse(buffer).join('\n');
         files[name + ".json"] = {
           contents: new Buffer(json)
         }
