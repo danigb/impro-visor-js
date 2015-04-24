@@ -36,7 +36,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "Dm7b5 | G7alt | Cm69 | / |"
     },
     {

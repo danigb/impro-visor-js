@@ -1,0 +1,5417 @@
+[
+  {
+    "notes": "b4 ab8 gb8 eb8",
+    "name": "blues",
+    "chords": "Ab7"
+  },
+  {
+    "notes": "r4 bb8 bb8 b16/3 bb16/3 ab16/3 f8 eb8 f8",
+    "name": "blues",
+    "chords": "Bb"
+  },
+  {
+    "notes": "bb4 bb8 ab4 bb8 f4",
+    "name": "blues",
+    "chords": "Bb7"
+  },
+  {
+    "notes": "bb4 bb8 ab4 f8 bb4",
+    "name": "blues",
+    "chords": "Bb7"
+  },
+  {
+    "notes": "f8 g8 bb8 d4",
+    "name": "blues",
+    "chords": "Bb7"
+  },
+  {
+    "notes": "r8 f8 bb8 d+8 bb8 g8 bb4",
+    "name": "blues",
+    "chords": "Bb7"
+  },
+  {
+    "notes": "db+8 d+8 g+8 db+8 c+8 bb8 g8 bb8",
+    "name": "blues",
+    "chords": "Gm"
+  },
+  {
+    "notes": "ab8 a8 c+8 bb8 a8",
+    "name": "chromatic",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "ab8 a8 c+8 bb8 d+8",
+    "name": "chromatic",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "c+8 b8 bb8 a8 g8 f8 e8 d8",
+    "name": "chromatic",
+    "chords": "C7"
+  },
+  {
+    "notes": "ab8 a8 b8 c+8 a8",
+    "name": "chromatic",
+    "chords": "CM Am Dm"
+  },
+  {
+    "notes": "ab8 a8 b8 c+8 ab8",
+    "name": "chromatic",
+    "chords": "CM Am Dm"
+  },
+  {
+    "notes": "ab8 a8 b8 c+8 d+8",
+    "name": "chromatic",
+    "chords": "CM Am Dm"
+  },
+  {
+    "notes": "ab8 a8 b8 c+8 e+8",
+    "name": "chromatic",
+    "chords": "CM Am Dm"
+  },
+  {
+    "notes": "ab8 a8 bb8 b8 a8",
+    "name": "chromatic",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "ab8 a8 bb8 b8 c+8",
+    "name": "chromatic",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "ab8 a8 c+8 b8 a8",
+    "name": "chromatic",
+    "chords": "CM Am"
+  },
+  {
+    "notes": "ab8 a8 c+8 b8 d+8",
+    "name": "chromatic",
+    "chords": "CM Am"
+  },
+  {
+    "notes": "e8 eb8 gb8 e8 b8",
+    "name": "chromatic",
+    "chords": "CM Am"
+  },
+  {
+    "notes": "c+8 b8 a8 ab8 g8",
+    "name": "chromatic",
+    "chords": "CM Am7 Dm"
+  },
+  {
+    "notes": "g8 f#8 f8 e8 d8",
+    "name": "chromatic",
+    "chords": "CM Am7 Dm"
+  },
+  {
+    "notes": "g8 gb8 f8 g8 e8",
+    "name": "chromatic",
+    "chords": "CM Am7 Dm"
+  },
+  {
+    "notes": "g8 a8 f#8 e8 d8",
+    "name": "chromatic",
+    "chords": "CM Am7"
+  },
+  {
+    "notes": "c+8 eb+8 d+8 c+8 b8",
+    "name": "chromatic",
+    "chords": "CM Cm Am7b5"
+  },
+  {
+    "notes": "g8 f#8 f8 g8 a8",
+    "name": "chromatic",
+    "chords": "CM Dm7"
+  },
+  {
+    "notes": "g8 f#8 f8 g8 e8",
+    "name": "chromatic",
+    "chords": "CM Dm7"
+  },
+  {
+    "notes": "g8 f#8 g8 a8 b8",
+    "name": "chromatic",
+    "chords": "CM Dm7"
+  },
+  {
+    "notes": "g8 f#8 g8 a8 g8",
+    "name": "chromatic",
+    "chords": "CM"
+  },
+  {
+    "notes": "g8 f#8 g8 ab8 a8",
+    "name": "chromatic",
+    "chords": "CM"
+  },
+  {
+    "notes": "bb8 r8 ab8 c8 eb8 g8 f8",
+    "name": "chromatic",
+    "chords": "G7"
+  },
+  {
+    "notes": "a8 f#8 c8 e8 eb8 g8 f8 g8",
+    "name": "chromatic",
+    "chords": "F7"
+  },
+  {
+    "notes": "ab8 f8 g8 f8 eb8 e8 f8 f#8",
+    "name": "chromatic",
+    "chords": "G7"
+  },
+  {
+    "notes": "e+8 eb+8 db+8 c+8 bb8 c+8 d+8 e+8",
+    "name": "chromatic",
+    "chords": "C7"
+  },
+  {
+    "notes": "b8 d+8 f+8 g+8 ab+8 bb+16 ab+16 g+8 f+8",
+    "name": "chromatic",
+    "chords": "G7"
+  },
+  {
+    "notes": "e+8 a8 c+8 e+8 d#+8 f#+8 b+8 a+8",
+    "name": "chromatic",
+    "chords": "G7"
+  },
+  {
+    "notes": "b8 c+8 g#8 a8 f8 f#8 d8 d#8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c+8 b8 a8 ab8 gb8 f8 eb8 d8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c+8 b8 c+8 d+8 eb+8 b8 d+8 c+8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c+8 d#+8 d+8 b8 c+8 a8 b8 ab8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c+8 d+8 b8 c+8 eb+8 b8 d+8 c+8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c+8 d+8 eb+8 b8 a8 c+8 b8 a8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c+8 d+8 eb+8 b8 d+8 c+8 a8 b8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c8 d8 eb8 f8 gb8 ab8 a8 b8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "c8 eb8 d8 f8 eb8 gb8 f8 ab8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "d8 c8 f8 eb8 ab8 gb8 b8 a8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "r8 a8 c+8 a8 b8 d+8 c+8 b8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "r8 b8 d+8 eb+8 c+8 b8 d+8 c+8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "r8 b8 eb+8 d+8 a8 ab8 c+8 b8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "r8 c+8 b8 a8 d+8 a8 c+8 b8",
+    "name": "diminished",
+    "chords": "Co"
+  },
+  {
+    "notes": "a8 f8 f#8 a4 a#8 b8 d8",
+    "name": "dominant",
+    "chords": "A7"
+  },
+  {
+    "notes": "bb8 d+8 c+8 bb8 g8",
+    "name": "dominant",
+    "chords": "C7 Cm7 Gm"
+  },
+  {
+    "notes": "c+8 d+8 bb8 a8 c+8",
+    "name": "dominant",
+    "chords": "C7 Cm7 Gm"
+  },
+  {
+    "notes": "c+8 d+8 bb8 a8 e8",
+    "name": "dominant",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "c8 e8 g8 c+8 bb8",
+    "name": "dominant",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "e8 g8 a8 c+8 bb8",
+    "name": "dominant",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "e8 g8 c+8 d+8 bb8",
+    "name": "dominant",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "g8 a8 c+8 e+8 bb8",
+    "name": "dominant",
+    "chords": "C7 Gm"
+  },
+  {
+    "notes": "e+8 db+8 c+8 bb8",
+    "name": "dominant",
+    "chords": "C7 Gm7b5"
+  },
+  {
+    "notes": "e8 db+8 c+8 bb8",
+    "name": "dominant",
+    "chords": "C7 Gm7b5"
+  },
+  {
+    "notes": "a8 c+8 e+8 g+8 bb+8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "b-8 c8 e8 g8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "bb8 c8 e8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "bb8 c8 g8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "bb8 e8 c8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "bb8 e8 g8 c8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "bb8 g8 c8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "bb8 g8 e8 c8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c+8 bb8 a8 g#8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 bb8 e8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 bb8 g8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 d8 e8 g8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 e8 bb8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 e8 g8 a8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 e8 g8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 g8 bb8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "c8 g8 e8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "d8 f8 e8 f8 g8 a8 d8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e8 bb8 c8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e8 bb8 g8 c8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e8 c8 bb8 g8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e8 c8 g8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e8 g8 bb8 c8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e8 g8 c8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "g8 bb8 c8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "g8 bb8 e8 c8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "g8 c8 bb8 e8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "g8 c8 e8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "g8 e8 bb8 c8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "g8 e8 c8 bb8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "r8 e4 f8 g8 a8 bb8 c+8",
+    "name": "dominant",
+    "chords": "C7"
+  },
+  {
+    "notes": "e+8 c+8 a8 e+4 a8 e+4",
+    "name": "dominant",
+    "chords": "D7"
+  },
+  {
+    "notes": "r4 a8 b8 d+8 b8 a4",
+    "name": "dominant",
+    "chords": "D7"
+  },
+  {
+    "notes": "fb+8 eb+8 db+8 bb8",
+    "name": "dominant",
+    "chords": "Gb7"
+  },
+  {
+    "notes": "r4 f#8/3 g8/3 g#8/3 a8 g8 f#8 e8",
+    "name": "dominant",
+    "chords": "D7"
+  },
+  {
+    "notes": "r8 c+8 a8 a#8 b8 d+8 c+8 a#8",
+    "name": "dominant",
+    "chords": "D7"
+  },
+  {
+    "notes": "f+8 eb+8 db+8 f8",
+    "name": "dominant",
+    "chords": "Eb7"
+  },
+  {
+    "notes": "r8 f#8 g8 bb8 eb+8 c+8 db+8 f+8",
+    "name": "dominant",
+    "chords": "Eb7"
+  },
+  {
+    "notes": "g8/3 a8/3 g8/3 eb8 f8 g8 c+8 b8 a8",
+    "name": "dominant",
+    "chords": "F7"
+  },
+  {
+    "notes": "bb8 db8 eb8 e8 gb8 bb8 ab8 gb8",
+    "name": "dominant",
+    "chords": "Gb7"
+  },
+  {
+    "notes": "r8 c+8 b8 c+8 g+8 c+8 bb8 c+8",
+    "name": "dominant",
+    "chords": "Bb7"
+  },
+  {
+    "notes": "a8 b8 c+8 d+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "a8 b8 c+8 eb+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "a8 c+8 d+8 eb+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "a8 g8 eb8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "a8 g8 eb8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b-8 c8 d8 b-8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b-8 c8 d8 eb8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b-8 c8 eb8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b-8 c8 eb8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 a8 f8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 a8 g8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 g8 eb8 c8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 g8 eb8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 g8 eb8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 g8 f8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8 g8 f8 eb8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c+8 a8 f8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c+8 a8 g8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c+8 b8 a8 d+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c+8 b8 a8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c+8 b8 g8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c+8 b8 g8 eb8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c8 d8 eb8 c8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c8 d8 eb8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c8 eb8 f8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c8 eb8 f8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c8 eb8 g8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "c8 eb8 g8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 b8 a8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 b8 g8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 b8 g8 eb8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 c+8 a8 eb+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 c+8 a8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 c+8 b8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d+8 c+8 g8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d8 eb8 g8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d8 eb8 g8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d8 f8 g8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "d8 f8 g8 eb8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb+8 c+8 a8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb+8 c+8 a8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb+8 c+8 b8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb+8 d+8 b8 c+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb+8 d+8 b8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb+8 d+8 c+8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 d8 c8 b-8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 d8 c8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 f8 g8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 f8 g8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 g8 b8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 g8 b8 c+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "eb8 g8 b8 d+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f+8 d+8 a8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f+8 d+8 b8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 a8 c+8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 a8 c+8 d+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 a8 c+8 eb+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 a8 c+8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 eb8 d8 g8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 eb8 db8 c8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 g8 a8 b8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 g8 a8 c+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 g8 a8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "f8 g8 a8 eb8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 a8 b8 c+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 a8 b8 d#8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 a8 b8 d+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 a8 b8 f8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 b8 d+8 eb+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 b8 d+8 f+8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 eb8 c8 d8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 eb8 d8 b-8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 f8 eb8 a8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "g8 f8 eb8 c8",
+    "name": "dominant-altered",
+    "chords": "B7#5#9"
+  },
+  {
+    "notes": "b8/3 bb8/3 a8/3 ab8 g8 f8 eb8 d8 db8",
+    "name": "dominant-altered",
+    "chords": "G7alt | C"
+  },
+  {
+    "notes": "ab8 bb8 b8 eb+8+8+8 db+8 b8",
+    "name": "dominant-altered",
+    "chords": "G7alt |"
+  },
+  {
+    "notes": "ab8/3 bb8/3 ab8/3 g8 ab8 eb+8 db+8 bb8 b8",
+    "name": "dominant-altered",
+    "chords": "G7alt |"
+  },
+  {
+    "notes": "db8 eb8 f8 ab8 bb8 b8 eb+8 db+8",
+    "name": "dominant-altered",
+    "chords": "G7alt |"
+  },
+  {
+    "notes": "f8 g8 ab8 bb8 b8 eb+8 db+8 b8",
+    "name": "dominant-altered",
+    "chords": "G7alt |"
+  },
+  {
+    "notes": "g8 ab8 a8 bb8 eb+8 db+8 bb8 b8",
+    "name": "dominant-altered",
+    "chords": "G7alt |"
+  },
+  {
+    "notes": "ab8 b8 eb+8 db+8 g+8 f+8 eb+8 db+8",
+    "name": "dominant-altered",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "ab8 b8 f8 g8 ab8 b8 eb+8 db+8",
+    "name": "dominant-altered",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "ab8 f8 g8 b8 db+8 f+8 eb+8 db+8",
+    "name": "dominant-altered",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "b8 ab8 db+8 eb+8 f+8 ab+8 g+8 f+8",
+    "name": "dominant-altered",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "b8 eb8 f8/3 gb8/3 g8/3 ab8 b8 eb+8 db+8",
+    "name": "dominant-altered",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "db+8/3 d+8/3 eb+8/3 f+8 eb+8 b8 ab8 g8 f8",
+    "name": "dominant-altered",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "ab8 db+8 f+8 b8 eb8 ab8 c#+8 g8",
+    "name": "dominant-altered quartal",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "b8 eb+8 bb8 f8 eb8 ab8 db+8 bb8",
+    "name": "dominant-altered quartal",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "cb8 f8 bb8 eb8 ab8 db+8 f+8 bb8",
+    "name": "dominant-altered quartal",
+    "chords": "G7alt"
+  },
+  {
+    "notes": "b8 c+8 a8 b8 c+8",
+    "name": "major #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 c+8 a8 c+8 d+8",
+    "name": "major #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 c+8 e+8 a8 c+8",
+    "name": "major #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 c+8 e+8 d+8 b8",
+    "name": "major #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 c+8 e8 d+8 b8",
+    "name": "major #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 d+8 b8 e8 a8",
+    "name": "major #4",
+    "chords": "F"
+  },
+  {
+    "notes": "a8 b8 e+8 d+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 a8 e+8 d+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 e+8 d+8 e8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "b8 g8 d8 e+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "d+8 c+8 a8 e+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "d+8 e+8 g8 d+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 b8 d+8 c+8 a8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 b8 g8 d+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 f+8 e+8 d+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e8 a8 b8 e+8 d+8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e8 a8 c+8 e+8 b8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e8 b8 g8 b8 d+8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e8 e+8 d+8 b8 c+8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e8 g8 b8 g8 d+8",
+    "name": "major 7 #4",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 c+8 a8 g+8 e+8",
+    "name": "major 7",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 d+8 a+8 g+8 e+8",
+    "name": "major 7",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 f+8 g+8 a+8 e+8",
+    "name": "major 7",
+    "chords": "F"
+  },
+  {
+    "notes": "e+8 f+8 g+8 a8 e+8",
+    "name": "major 7",
+    "chords": "F"
+  },
+  {
+    "notes": "e8 a8 d+8 g8 c+8",
+    "name": "major quartal",
+    "chords": "F"
+  },
+  {
+    "notes": "eb+8 c+8 ab8 bb8 g8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "eb+8 c+8 ab8 f8 g8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "eb+8 c+8 bb8 ab8 c+8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "eb+8 c+8 d+8 bb8 ab8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "eb+8 c+8 d+8 f+8 c+8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "f8 ab8 c+8 bb8 g8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "f8 e8 g8 ab8 e8",
+    "name": "major",
+    "chords": "Ab Fm7"
+  },
+  {
+    "notes": "eb8 b-8 bb-8 b-8 d8 b-8 ab-8 e-8",
+    "name": "major",
+    "chords": "B7#9 |"
+  },
+  {
+    "notes": "a+8 e+8 d+8 g+8 e+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a+8 g+8 d+8 c+8 e+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 c+8 e+8 g+8 d+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 c+8 g8 a8 d+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 d+8 c+8 g8 e8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 d+8 e+8 c+8 d+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 e8 g8 c+8 d+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 g8 c+8 a8 e8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 a8 d+8 c+8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 a8 e8 d8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 d+8 a8 c+8 e+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 d+8 g+8 a+8 e+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 e+8 d+8 a8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 e+8 g+8 d+8 e+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 g8 a8 d+8 e+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "c+8 g8 e8 a8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d+8 a8 c+8 e+8 g+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d+8 a8 g8 c+8 a8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d+8 c+8 e+8 d+8 a8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d+8 c+8 g8 e8 a8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d+8 g+8 e+8 c+8 a8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d8 e8 a8 c+8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d8 e8 c8 d8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "d8 g8 a8 e8 g8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e+8 a+8 g+8 d+8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e+8 c+8 a8 d+8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e+8 c+8 d+8 g+8 a+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e+8 d+8 a8 g8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e+8 d+8 g+8 e+8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e+8 g+8 d+8 e+8 a+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e8 a8 c+8 g8 a8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e8 d8 g8 a8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "e8 g8 c+8 d+8 a8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g+8 d+8 c+8 e+8 d+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g+8 e+8 c+8 a8 d+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g8 a8 d+8 e+8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g8 a8 e8 g8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g8 c+8 a8 e8 d8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g8 c+8 d+8 a8 c+8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "g8 e8 a8 g8 d8",
+    "name": "major",
+    "chords": "C Am F C7 Dm7"
+  },
+  {
+    "notes": "a8 g8 e8 c8 b-8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "a8 g8 e8 c8 d8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 a8 g8 e8 d8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 d+8 b8 a8 e8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 d+8 b8 a8 g8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 d+8 b8 c+8 a8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 g8 e8 c8 b-8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 g8 e8 c8 d8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 g8 e8 d8 c8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "c+8 g8 e8 d8 e8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "d+8 c+8 g8 e8 b-8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "d+8 c+8 g8 e8 b8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "d+8 c+8 g8 e8 d+8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "d+8 c+8 g8 e8 d8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "d+8 c+8 g8 e8 g8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "e+8 c+8 a8 g8 b8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "e+8 c+8 a8 g8 d+8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "e+8 c+8 a8 g8 d8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "e+8 c+8 a8 g8 e8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "e+8 d+8 c+8 g8 a8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "e+8 d+8 c+8 g8 e8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g+8 e+8 c+8 a8 b8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g+8 e+8 c+8 a8 d+8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g+8 e+8 c+8 a8 g8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g8 e8 d8 c8 b-8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g8 e8 d8 c8 d8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g8 e8 d8 c8 e8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g8 e8 d8 c8 g8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "g8 f8 e8 g8 b8",
+    "name": "major",
+    "chords": "C Am7 Dm"
+  },
+  {
+    "notes": "r8 b8 a8 g8 b8 a8 c+8 d+8",
+    "name": "major",
+    "chords": "C G"
+  },
+  {
+    "notes": "r8 b-8 c8 e8 g8 gb8 f8 e8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "a8 b8 c+8 e+8 g8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "a8 e+8 b8 e8 a8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "a8 e8 b8 e+8 a8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "b8 d+8 b8 e8 g8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "b8 g8 g#8 a4",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "d+8 b8 c+8 e+8 g+8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "d8 d#8 e8 g8 b8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "e+8 c+8 r8 a8 c+8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "e8 g8 b8 d+8 a8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "eb8 e8 g8 b8 d+8 db+8 c+8 b8",
+    "name": "major",
+    "chords": "C"
+  },
+  {
+    "notes": "b8 d+8 c+8 b8 g8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "c+8 b8 c+8 d+8 e+8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "c+8 d+8 b8 a8 b8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "c+8 d+8 b8 a8 c+8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "c+8 d+8 b8 a8 e8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "c+8 g8 e8 g8 a8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "d8 c8 e8 g8 a8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "d8 c8 e8 g8 d8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "d8 c8 g8 e8 d8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "e8 c8 d8 g8 a8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "e8 c8 d8 g8 e8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "e8 d8 c8 g8 a8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "e8 d8 c8 g8 e8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "g8 c8 d8 e8 a8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "g8 c8 d8 e8 d8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "g8 e8 c8 d8 b-8",
+    "name": "major",
+    "chords": "CM Am Dm7"
+  },
+  {
+    "notes": "c8 e8 g8 a8 e8",
+    "name": "major",
+    "chords": "CM C7 Am Dm7"
+  },
+  {
+    "notes": "a8 c+8 e+8 g+8 a+8",
+    "name": "major",
+    "chords": "CM C7"
+  },
+  {
+    "notes": "a8 c+8 e+8 g+8 d+8",
+    "name": "major",
+    "chords": "CM C7"
+  },
+  {
+    "notes": "b-8 c8 e8 g8 a8",
+    "name": "major",
+    "chords": "CM C7"
+  },
+  {
+    "notes": "c8 d8 e8 g8 a8",
+    "name": "major",
+    "chords": "CM C7"
+  },
+  {
+    "notes": "b8 c+8 a8 b8 d+8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c+8 a8 b8 g8 a8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c+8 a8 b8 g8 e8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c+8 b8 d+8 c+8 a8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c+8 b8 d+8 c+8 e+8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c+8 d+8 b8 d+8 c+8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c+8 d+8 b8 d+8 e+8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c8 d8 e8 c8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c8 d8 g8 e8 a8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c8 d8 g8 e8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c8 e8 g8 c+8 b8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c8 g8 d8 e8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "d8 g8 e8 c8 a-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "d8 g8 e8 c8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 c8 g8 d8 a8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 c8 g8 d8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 d8 g8 c8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 d8 g8 c8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 a8 c+8 b8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 a8 c+8 d+8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 c+8 d+8 b8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 c+8 d+8 e+8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 c+8 g8 b8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 c+8 g8 e8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 d8 c8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 d8 c8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "e8 g8 d8 c8 e8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "g8 c8 e8 d8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "g8 d8 e8 c8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "g8 d8 e8 c8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am"
+  },
+  {
+    "notes": "c8 d8 e8 c8 g8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "c8 e8 g8 e8 a8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "c8 e8 g8 e8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "c8 g8 e8 d8 a8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "c8 g8 e8 d8 c8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "d8 e8 g8 c8 b-8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "d8 e8 g8 c8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "e8 c+8 b8 a8 d+8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "e8 c+8 b8 a8 g8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "e8 g8 b8 a8 d8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "e8 g8 b8 a8 g8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "g8 a8 c+8 e+8 b8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "g8 a8 c+8 e+8 d+8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "g8 a8 c+8 e+8 g+8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "g8 c+8 d+8 e+8 b8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "g8 c+8 d+8 e+8 d+8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "g8 c+8 d+8 e+8 g+8",
+    "name": "major",
+    "chords": "CM Dm7 Am7"
+  },
+  {
+    "notes": "a8 c+8 e+8 g+8 b+8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "b-8 c8 e8 g8 b8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "c8 d8 e8 g8 b8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "c8 d8 e8 g8 e8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "c8 e8 g8 a8 b8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "g8 c+8 e+8 c+8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "g8 d8 c8 e8 a8",
+    "name": "major",
+    "chords": "CM"
+  },
+  {
+    "notes": "r8 d#8 g#8 b8 d#+8 c#+8 b8 g#8",
+    "name": "major",
+    "chords": "EM7"
+  },
+  {
+    "notes": "g+8 e+8 f+8 g+8 e+8",
+    "name": "major",
+    "chords": "F"
+  },
+  {
+    "notes": "c+8 b8 a8 e8 a-8 d8 g4",
+    "name": "major",
+    "chords": "FM |"
+  },
+  {
+    "notes": "b8 c+8 r8 a8 b2",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "b8 c+8 r8 e+8 b2",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "b8 c+8 g8 e8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "b8 e+8 r8 b8 d+2",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "b8 g8 r8 d+8 b2",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "d+8 g+8 c+8 e+8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 f8 a8 c+8 e+8 d+8 b8 g8 e8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 f8 a8 e+8 c+8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 f8 b8 c+8 a8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 f8 d8 e8 f8 g8 a8 c+8 a8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 g8 r8 a8 e+8 d+8 b8 g8 e8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 g8 r8 b8 g2",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "e8 g8 r8 e+8 d+8 c+8 g8 e8 d8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "g8 e8 b8 g8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "r4 c8 d8 f8 g8 a8 c+8 a8",
+    "name": "major",
+    "chords": "FM7"
+  },
+  {
+    "notes": "b8 d+8 b8 c+8 b8",
+    "name": "major",
+    "chords": "GM"
+  },
+  {
+    "notes": "r4 d+8 c+8 b8 d+8 a8 g8 b8",
+    "name": "major",
+    "chords": "GM7"
+  },
+  {
+    "notes": "bb8 d+8 bb8 c+8 bb8",
+    "name": "major",
+    "chords": "Gm"
+  },
+  {
+    "notes": "b8 d+8 g8 g#8 a8",
+    "name": "major",
+    "chords": ""
+  },
+  {
+    "notes": "c+8 a8 b8 c+8 a8",
+    "name": "major",
+    "chords": ""
+  },
+  {
+    "notes": "e+8 c+8 d+8 e+8 c+8",
+    "name": "major",
+    "chords": ""
+  },
+  {
+    "notes": "e8 f8 g8 d8",
+    "name": "major",
+    "chords": ""
+  },
+  {
+    "notes": "d+8 c+8 ab8 e8 b8",
+    "name": "major chromatic",
+    "chords": "C"
+  },
+  {
+    "notes": "c8 e8 a8 g8 e8 g8 d+8 c+8 g8 c+8 f+8 e+8",
+    "name": "major upper neighbors",
+    "chords": "C"
+  },
+  {
+    "notes": "f8 e8 a8 g8 b8 a8 d+8 c+8 e+8 d+8 f+8 e+8",
+    "name": "major upper neighbors",
+    "chords": "C"
+  },
+  {
+    "notes": "eb+8 b8 d+8 eb+8 c+8 g8 d+8 c#+8",
+    "name": "minor chromatic",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a+8 f+8 d+8 a8 c#+8 a8 c+8 a8",
+    "name": "minor chromatic",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d+8 db+8 c+8 a8",
+    "name": "minor chromatic",
+    "chords": "Dm"
+  },
+  {
+    "notes": "r8 db+8 d+8 e+8 f+8 a8 c+8 e+8",
+    "name": "minor chromatic",
+    "chords": "Dm"
+  },
+  {
+    "notes": "r4 c8 d8 e8 d8 c8 d8",
+    "name": "minor",
+    "chords": "Am"
+  },
+  {
+    "notes": "r8 c4 e8 b8 a8 g8 e8",
+    "name": "minor",
+    "chords": "Am"
+  },
+  {
+    "notes": "r8 e-8 a-8 b-8 c8 e8 a8 b8 c+8",
+    "name": "minor",
+    "chords": "Am7"
+  },
+  {
+    "notes": "c8 g8 d8 eb8 b-8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "d8 eb8 g8 c8 b-8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "d8 eb8 g8 c8 d8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "d8 g8 eb8 c8 a-8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 c+8 b8 a8 g8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 bb8 a8 d8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 bb8 a8 g8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 c+8 g8 bb8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 c+8 g8 eb8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 d8 c8 bb-8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 d8 c8 d8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "eb8 g8 d8 c8 eb8",
+    "name": "minor",
+    "chords": "Cm Am7b5"
+  },
+  {
+    "notes": "c8 d8 eb8 c8 b-8",
+    "name": "minor",
+    "chords": "Cm Gm"
+  },
+  {
+    "notes": "a8 bb8 c+8 d+8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 bb8 c+8 eb+8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 bb8 eb+8 d+4",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 bb8 eb8 a4",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 c+8 eb+8 g+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 eb+8 d+8 a8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 eb+8 g+8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 eb8 b8 d+8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 eb8 bb8 d+8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 eb8 g8 c+8 d+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "a8 eb8 g8 d+4",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "bb8 d+8 bb8 eb8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "bb8 eb+8 c+8 g8 d+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "bb8 g8 g#8 a4",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c+8 d+8 eb+8 b8 d+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c+8 eb+8 d+8 b8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c+8 g8 eb8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 d8 eb8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 d8 g8 eb8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 d8 g8 eb8 d8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 eb8 bb8 ab8 b8 ab8 g8 b8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 eb8 g8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 eb8 g8 eb8 d8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 g8 eb8 d8 c8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c8 g8 eb8 d8 eb",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 b8 eb+8 c+8 b8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 bb8 c+8 eb+8 g+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 bb8 eb+8 d+4",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 bb8 g+8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 eb+8 b8 ab8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 eb+8 b8 d+8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 eb+8 bb8 eb8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d+8 eb+8 c+8 d+8 b8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "d8 eb8 f8 g8 d8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "eb+8 b8 d+8 bb8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "eb+8 c+8 r8 a8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "eb8 g8 a8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "eb8 g8 b8 d+8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "eb8 g8 c+8 d+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "eb8 g8 c+8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "g8 a8 c+8 eb+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "g8 ab8 bb8 c+8 g8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "g8 c+8 d+8 eb+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "g8 c+8 eb+8 c+8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "r8 c+8 eb+8 b8 g8 eb8 bb8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "r8 eb8 d8 eb8 g8 bb8 d+8 a8",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "r8+8+8 d+8 eb+8 d+8 bb8 eb8 a4",
+    "name": "minor",
+    "chords": "Cm"
+  },
+  {
+    "notes": "c+8 d+8 bb8 a8 eb8",
+    "name": "minor",
+    "chords": "Cm7 Gm"
+  },
+  {
+    "notes": "c+8 d+8 eb+8 b8 d+8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "c8 g8 d8 eb8 bb-8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "d+8 c+8 g8 eb+8 a8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "d+8 c+8 g8 eb+8 b8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "eb+8 d+8 f+8 eb+8 a8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "eb+8 d+8 f+8 eb+8 b8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "eb+8 d+8 f+8 eb+8 c+8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "eb8 c+8 bb8 a8 g8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "r8 eb8 c8 f8 d8",
+    "name": "minor",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "a8 c+8 d+8 f+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 c+8 e+8 f+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 c+8 e8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 c+8 f+8 d+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 c+8 f8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 c+8 f8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 c+8 g8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 e8 d8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 e8 f8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 g8 d8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "a8 g8 f8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c+8 a8 f8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c+8 a8 g8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 a8 d8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 a8 e8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 a8 f8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 a8 f8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 a8 f8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 a8 g8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 d8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 d8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 e8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 e8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 f8 a8 d+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 f8 a8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 f8 a8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 f8 d8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 f8 e8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 f8 g8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 g8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "c8 g8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d+8 a8 f8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d+8 c+8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 a8 c+8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 a8 e8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 a8 f8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 a8 f8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 a8 f8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 a8 g8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 c+8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 c+8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 e8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 e8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 f8 a8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 f8 a8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 f8 a8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 f8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 f8 e8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 f8 g8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 g8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "d8 g8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e+8 c+8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e+8 d+8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 a8 c+8 f+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 a8 c+8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 a8 d8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 a8 f8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 a8 f8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 c+8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 c+8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 d8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 d8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 f8 a8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 f8 a8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 f8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "e8 f8 d8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 c+8 d+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 c+8 e+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 c+8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 d+8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 d8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 d8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 d8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 e+8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 e8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 g8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 a8 g8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 a8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 a8 e8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 a8 g8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 d+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 e+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 e8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 c+8 g8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 d+8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 d8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 d8 e8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 d8 g8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 e8 a8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 e8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 e8 d8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 e8 d8 c8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 g8 a8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 g8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "f8 g8 d8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g+8 f+8 a8 c+8 e+8 d+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 a16 g16 e8 g8 f8 g16 f16 d8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 a8 c+8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 a8 d8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 a8 f8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 a8 f8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 c+8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 c+8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 d8 a8 f8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 d8 f8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 f8 a8 c+8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 f8 a8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 f8 c+8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 f8 d8 a8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 f8 d8 c8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "g8 f8 e8 d8",
+    "name": "minor",
+    "chords": "Dm"
+  },
+  {
+    "notes": "r8 e+8 c+8 a8 f+8 e+8 c+4",
+    "name": "minor",
+    "chords": "Dm7 |"
+  },
+  {
+    "notes": "r4 g8 e8 b8 g8 a8 b8",
+    "name": "minor",
+    "chords": "Em"
+  },
+  {
+    "notes": "b8 g8 e8 a8 f#8 d8 g4",
+    "name": "minor",
+    "chords": "Em7"
+  },
+  {
+    "notes": "e+8 b+8 r8 e+8 a+2",
+    "name": "minor",
+    "chords": "Em7"
+  },
+  {
+    "notes": "e8 d8 b-4 a-4 a-8 d8",
+    "name": "minor",
+    "chords": "Em7"
+  },
+  {
+    "notes": "r8 e8 g8 b8 c#+4 b4",
+    "name": "minor",
+    "chords": "Em7"
+  },
+  {
+    "notes": "g+8 eb+8 f+8 g+8 eb+8",
+    "name": "minor",
+    "chords": "F"
+  },
+  {
+    "notes": "r8 c8 bb8 ab8 g8 f8",
+    "name": "minor",
+    "chords": "Fm"
+  },
+  {
+    "notes": "b-8 eb8 bb8 ab8 g8 f8 eb8 c8 b-8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "bb8 a8 ab8 g8 f8 eb8 d8 c8 b-8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "c+8 ab8 g8 e8 f8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "e8 f8 ab8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "e8 f8 g8 ab8 e8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "e8 f8 g8 e8 ab8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "eb8 f8 bb8 c+8 ab8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "eb8 f8 d+8 c+8 ab8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "eb8 f8 d8 eb8 f8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "r4 ab8 eb+8 c+8 g8 ab8 c+8 g8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "r4 c8 d8 f8 g8 ab8 c+8 ab8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "r4 d+8 eb+8 c+8 g8 ab8 c+8 g8",
+    "name": "minor",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "a8 bb8 c+8 bb8 a8 g8 f#8 a8 g8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "a8 bb8 c+8 d+8 eb+8 d+8 c+8 bb8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "a8 bb8 c+8 eb+8 d+8 c+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "a8 bb8 c+8 f#8 a8 g8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "a8 bb8 f#8 bb8 a8 c+8 eb+8 f#+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "a8 eb+8 d+8 c+8 bb8 a8 c+8 f#8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 d+8 f#+8 d+8 a+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 a8 d+8 c+8 f#8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 a8 f#8 g8 a8 bb8 f#8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 a8 f#8 g8 d8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 a8 f#8 g8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 c+8 bb8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 g8 a8 bb8 c+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "bb8 f#8 g8 a8 bb8 f#8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "c+8 a8 bb8 d+8 c+8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "c+8 a8 bb8 d+8 c+8 f#8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "c+8 a8 bb8 f#8 a8 d8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "c+8 bb8 a8 g8 f#8 eb+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "c+8 d+8 f#8 c+8 bb8 d8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "c+8 eb+8 d+8 c+8 bb8 c+8 eb+8 f#+8 g+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 bb8 a8 g8 f#8 eb+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 bb8 a8 gb8 g8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 bb8 c+8 a8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 bb8 c+8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 c+8 bb8 a8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 c+8 f+8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 bb8 a8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 c+8 bb8 a8 bb8 c+8 eb+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 c+8 bb8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 c+8 d+8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 e+8 eb+8 d+8 c+8 bb8 f#8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 f+8 eb+8 bb8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 eb+8 f+8 f#+8 g+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 f#+8 f+8 d+8 e+8 eb+8 d+8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 g+8 f#+8 d+8 f+8 eb+8 d+8 bb8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d+8 g+8 f#+8 d+8 f+8 eb+8 d+8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d8 f#8 bb8 f#8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "d8 g8 a8 bb8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "f#8 a8 c+8 a8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "f#8 a8 c+8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "f#8 a8 f#8 g8 a8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "f#8 g8 a8 bb8 a8 d+8 f#+8 g+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "f#8 g8 a8 bb8 c+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "g8 a8 bb8 eb+8 d+8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "g8 a8 bb8 f#8 a8 g8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "g8 f#8 a8 bb8 f#8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "g8 f#8 c+8 bb8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "g8 f#8 g8 a8 bb8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r4 g8 bb8 c+8 f+8 d+8 e+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r8 d+8 eb+8 d+8 c+8 bb8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r8 eb+8 d+8 c+8 bb8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r8 eb+8 d+8 c+8 eb+8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r8 f#8 a8 a#8 c+8 bb8 d+8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r8 f#8 a8 bb8 f#8 a8",
+    "name": "minor",
+    "chords": "Gm"
+  },
+  {
+    "notes": "r4 d+8 c+8 bb8 d+8 a8 g8 bb8",
+    "name": "minor",
+    "chords": "Gm7"
+  },
+  {
+    "notes": "r4 e8 a8 f8 g8 bb8 e+8 a8",
+    "name": "minor",
+    "chords": "Gm7"
+  },
+  {
+    "notes": "r4 e8 f8 e+8 c+8 bb8 g8 a8",
+    "name": "minor",
+    "chords": "Gm7"
+  },
+  {
+    "notes": "r4 e8 f8 g8 a8 bb8 c+8 a8",
+    "name": "minor",
+    "chords": "Gm7"
+  },
+  {
+    "notes": "a8 c+8 eb+8 g+8 d+8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "a8 c+8 g+8 eb+8 d+8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "a8 eb+8 c+8 g+8 d+8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "a8 eb8 f8 g8 d8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "c+8 a8 bb8 c+8 a8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "c+8 d+8 eb+8 c+8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "f#8 a8 d+8 eb+8 d+8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "g8 eb8 f8 g8 c+8 g8",
+    "name": "minor",
+    "chords": ""
+  },
+  {
+    "notes": "db+4 bb8 gb8 eb8 f8 gb8 ab8",
+    "name": "minor7",
+    "chords": "Abm7"
+  },
+  {
+    "notes": "r8 d+4. c+8 bb8 g8 bb8",
+    "name": "minor7",
+    "chords": "Cm7"
+  },
+  {
+    "notes": "f8 d8 d8 c8 d4",
+    "name": "minor7",
+    "chords": "Dm7"
+  },
+  {
+    "notes": "ab8 c8 f8 ab8 bb8 c+8 ab8",
+    "name": "minor7",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "e8 f8 ab8 eb+8 c+8",
+    "name": "minor7",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "e8 f8 c+8 ab8 eb+8",
+    "name": "minor7",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "e8 f8 c+8 ab8 g8",
+    "name": "minor7",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "eb+8 bb8 c+8 ab8 g8",
+    "name": "minor7",
+    "chords": "Fm7"
+  },
+  {
+    "notes": "r8 a8 d+8 f#+8 e+8 c#+8",
+    "name": "minor7",
+    "chords": "F#m7"
+  },
+  {
+    "notes": "r8 f8 a8 f8 g8 a8 bb8 c+8",
+    "name": "minor7",
+    "chords": "Gm7"
+  },
+  {
+    "notes": "c8 eb8 a8 g8 eb8 g8 d+8 c+8 g8 c+8 f+8 eb+8",
+    "name": "minor upper neighbors",
+    "chords": "Cm"
+  },
+  {
+    "notes": "f8 eb8 a8 g8 bb8 a8 d+8 c+8 eb+8 d+8 f+8 eb+8",
+    "name": "minor upper neighbors",
+    "chords": "Cm"
+  },
+  {
+    "notes": "f4. f8 e8 f8 d+8 c+8",
+    "name": "minor7b5",
+    "chords": "Bm7b5 Dm"
+  },
+  {
+    "notes": "bb8/3 ab8/3 gb8/3 f8",
+    "name": "minor7b5",
+    "chords": "Cm7b5 Ebm"
+  },
+  {
+    "notes": "ab8 c+8 e8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 c+8 f+8 d+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 c+8 f8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 c+8 f8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 c+8 g8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 e8 d8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 e8 f8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "ab8 g8 d8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 ab8 d8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 ab8 e8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 ab8 f8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 ab8 f8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 ab8 f8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 ab8 g8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 d8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 d8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 e8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 e8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 ab8 d+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 ab8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 ab8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 ab8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 d8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 e8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 f8 g8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 g8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "c8 g8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 ab8 c+8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 ab8 e8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 ab8 f8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 ab8 f8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 ab8 f8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 ab8 g8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 c+8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 c+8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 e8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 e8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 f8 ab8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 f8 ab8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 f8 ab8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 f8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 f8 e8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 f8 g8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 g8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "d8 g8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 ab8 c+8 f+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 ab8 c+8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 ab8 d8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 ab8 f8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 ab8 f8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 c+8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 c+8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 c8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 d8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 d8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 f8 ab8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 f8 ab8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 f8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "e8 f8 d8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 c+8 d+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 c+8 e+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 c+8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 d+8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 d8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 d8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 d8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 e+8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 e8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 g8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 ab8 g8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 ab8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 ab8 e8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 ab8 g8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 d+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 e+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 e8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 c+8 g8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 d+8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 d8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 d8 e8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 d8 g8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 e8 ab8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 e8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 e8 d8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 g8 ab8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 g8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "f8 g8 d8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 ab8 c+8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 ab8 d8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 ab8 f8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 ab8 f8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 c+8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 c+8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 d8 ab8 f8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 d8 f8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 f8 ab8 c+8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 f8 ab8 d8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 f8 c+8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "g8 f8 d8 ab8",
+    "name": "minor7b5",
+    "chords": "Dm7b5 Fm"
+  },
+  {
+    "notes": "r8 c#8 d#8 g#8 c#8 f#8 b8 e8",
+    "name": "minor quartal",
+    "chords": "Em"
+  },
+  {
+    "notes": "f8 bb8 a8 db+8 c+8 f+8",
+    "name": "dominant quartal",
+    "chords": "F7"
+  },
+  {
+    "notes": "bb+8 gb+8 ab+8 bb+8 gb+8 d+8 bb8 gb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 ab8 bb8 gb8 ab8 e8 gb8 d8 e8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 ab8 bb8 r8 ab8 e8 f#8 r8 e8 c8 d8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 ab8 e+8 d+8 bb8 gb8 d+8 c+8 ab8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 ab8 e8 b8 bb8 gb8 d8 a8 ab8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 e+8 bb8 ab8 gb8 bb8 e8 d8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 e+8 bb8 d+8 ab8 c+8 gb8 bb8 e8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 e+8 d+8 b8 bb8 d+8 c+8 a8 ab8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 e+8 d+8 bb8 ab8 c+8 bb8 gb8 e8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 e+8 d+8 bb8 ab8 d+8 c+8 gb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 f#8 bb8 e8 ab8 d8 gb8 c8 e8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 g#8 bb8 f#8 ab8 e8 gb8 d8 bb-8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 g#8 e8 bb8 f#8 d8 ab8 e8 c8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 g#8 e8 bb8 gb+8 d+8 bb8 g#8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 gb+8 bb+8 ab8 bb8 e+8 ab+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 gb+8 bb8 e+8 ab8 d+8 gb8 c+8 e8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 gb+8 e+8 ab8 e+8 d+8 gb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c8 e8 ab8 c+8 d+8 bb8 gb8 d8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c8 e8 d8 f#8 e8 g#8 f#8 bb8 c+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c8 e8 d8 r8 e8 g#8 f#8 r8 g#8 c+8 bb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c8 e8 g#8 d8 f#8 a#8 e8 g#8 c+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "d+8 bb8 c+8 d+8 bb8 gb8 d8 bb-8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "d+8 bb8 gb8 d8 c8 e8 ab8 c+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "d+8 e+8 gb8 d+8 c+8 e8 ab8 c+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "d+8 gb8 e+8 c+8 e8 d+8 bb8 d8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8 ab8 c+8 bb8 f#8 bb8 d+8 c+8 ab8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8 ab8 d+8 bb8 gb8 c+8 e+8 d+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8 c+8 g#8 e8 bb8 gb+8 d+8 bb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8 c+8 g#8 e8 gb8 d+8 bb8 gb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8 g#8 c+8 e+8 f#8 a#8 d+8 f#+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8 g#8 c+8 e+8 g#8 c+8 e+8 g#+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "g#+8 e+8 c+8 g#8 e+8 c+8 g#8 e8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "gb+8 d+8 e+8 gb+8 d+8 bb8 gb8 d8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8/3 bb8/3 c+8/3 d8/3 ab8/3 bb8/3 c8/3 gb8/3 ab8/3",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "e8/3 gb8/3 c+8/3 d8/3 e8/3 bb8/3 c8/3 d8/3 ab8/3",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8 e+8 d+8 c+8 bb8 d+8 c+8 bb8 ab8 c+8 bb8 ab8 gb8 bb8 ab8 gb8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8/3 bb8/3 e8/3 bb8/3 ab8/3 d8/3 ab8/3 gb8/3 c8/3",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c+8/3 bb8/3 gb8/3 bb8/3 ab8/3 e8/3 ab8/3 gb8/3 d8/3 gb8/3 e8/3 c8/3",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c8 d8 e8 d8 e8 f#8 g#8 f#8 g#8 a#8 c+8 a#8 c+8 d+8 e+8 c+8",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "notes": "c8/3 d8/3 gb8/3 d8/3 e8/3 ab8/3 e8/3 gb8/3 bb8/3 gb8/3 ab8/3 c+8/3",
+    "name": "whole-tone",
+    "chords": "C7 Gb7"
+  },
+  {
+    "name": "sus4",
+    "chords": "Gsus4 D7sus4",
+    "notes": "d8 g8 c+8 g8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Gsus4 D7sus4",
+    "notes": "d8 c+8 g8 d8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Gsus4 D7sus4",
+    "notes": "d8 c+8 g8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c+8 f+8 g+8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c+8 f+8 g+8 g8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c+8 f+8 g8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c+8 f8 c+8 g8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c+8 f8 g8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c+8 g8 f8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "c8 g8 c+8 f8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "f+8 c+8 g+8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "f+8 c+8 g8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "f8 c+8 g8 f+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "g8 c+8 f+8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "g8 c+8 f+8 g+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "g8 c+8 f+8 g8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "g8 c+8 f8 c+8"
+  },
+  {
+    "name": "sus4",
+    "chords": "Csus4 G7sus4",
+    "notes": "g8 c+8 g8 c8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 d8 g8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 d8 g8 d+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 d8 g8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 f+8 d+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 f+8 d+8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 f+8 d+8 g+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 f+8 f8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 f+8 f8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 f+8 g8 d+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 d+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 d+8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 d+8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 d8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 f+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 f+8 d+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "c+8 g8 f8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "d+8 g8 c+8 f+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "d+8 g8 c+8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 c+8 g8 d8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 d8 g8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 f+8 g8 d+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 c+8 d+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 c+8 d8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 c+8 f+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 d+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 d+8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 d8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 f+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "f8 g8 f+8 d+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 d+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 d+8 f+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 d+8 g+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 d+8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 d8 f8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 f8 d8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 c+8 f8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 f+8 d+8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 f+8 d+8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 f+8 f8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 f+8 g8 c+8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 f8 d+8 g8"
+  },
+  {
+    "name": "7sus4",
+    "chords": "G7sus4",
+    "notes": "g8 f8 f+8 c+8"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "g8 d+8+8+8 f#8 d+8+8+8 f8 d+8+8+8 e2"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "g8 bb8 d+4 f#8 bb8 d+4 f8 bb8 d+4 e2"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "g8 bb8 d+8 bb8 f#8 bb8 d+8 bb8 f8 bb8 d+4 e2"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "d+8 bb8 g8 r8 d+8 bb8 f#8 r8 d+8 bb8 f8 r8 e2"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "g8 bb8 d+8 bb8 f#8 bb8 d+8 bb8 f8 bb8 d+8 bb8 e2"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "g8 r8 g8/3 bb8/3 d+8/3 f#8 r8 g8/3 bb8/3 d+8/3 f8 r8 g8/3 bb8/3 d+8/3 e2"
+  },
+  {
+    "name": "chromatic sevenths",
+    "chords": "Gm",
+    "notes": "c+8 bb8 d+8/3 bb8/3 g8/3 f#8 d+8 r8 f#8 f8 g8 bb8 d+8 e2"
+  },
+  {
+    "name": "leading tone",
+    "chords": "Gm",
+    "notes": "a8 bb8 f#8/3 g8/3 d+8/3 c+8 bb8 d+8"
+  },
+  {
+    "name": "minor",
+    "chords": "Gm",
+    "notes": "a8 bb8 d+8/3 c+8/3 bb8/3 g8 bb8 d+8"
+  },
+  {
+    "name": "leading tone",
+    "chords": "Gm",
+    "notes": "a8 d+8 c+8/3 bb8/3 g8/3 f#8 bb8 d+8"
+  },
+  {
+    "name": "leading tone",
+    "chords": "Gm",
+    "notes": "a8 bb8 d+8/3 c+8/3 bb8/3 a8 f#8 g8"
+  },
+  {
+    "name": "leading tone",
+    "chords": "Gm",
+    "notes": "g8 a8 bb8/3 f#8/3 g8/3 bb8 a8 f#8"
+  },
+  {
+    "name": "leading tone",
+    "chords": "Gm",
+    "notes": "f#8 a8 d+8/3 c+8/3 bb8/3 a8 g8 f#8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "a8 g8 f8 b8 d+8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "b8 d+8 a8 b8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "b8 g8 a8 f8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "d+8 b8 c+8 a8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "d8 f8 a8 c+8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "d8 f8 a8 f8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "d8 f8 c#8 e8 d8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "e8 d8 a8 g8 f8/3 a8/3 e+8/3 d+8 b8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "e8 d8 f8 a8 e+8/3 d+8/3 c+8/3 b8 ab8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "e8 g8 b8 g8 a8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 b8 d+8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 b8 d+8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 b8 g8 a8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 bb8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 c+8 a8 b8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 c+8 a8 b8/3 c+8/3 b8/3 a8 ab8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 c+8 a8 e+8/3 d+8/3 c+8/3 b8 ab8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 c+8 e+8 d+8/3 c+8/3 b8/3 bb8 ab8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 d+8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 g#8 b8 eb8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 g#8 e8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 g8 d8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 a8 g8 e8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 c+8 b8 d+8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 c+8 b8 g8 d8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 e+8 d+8 b8 a8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 e+8 d+8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 e8 d8 a8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 e8 eb8 d8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 g8 a8 c+8 b8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 g8 a8 e8 g8 f8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 g8 a8 e8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "f8 g8 b8 g8 a8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "g8 gb8 a8 bb8 b8 g8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "g8 gb8 a8 bb8 e+8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "g8 gb8 a8 g8 e+8 b8"
+  },
+  {
+    "name": "dominant",
+    "chords": "G7",
+    "notes": "g8 gb8 f8 a8 e+8 b8"
+  },
+  {
+    "name": "major",
+    "chords": "C",
+    "notes": "g8 e8 a8 d+8 b8 e8"
+  },
+  {
+    "name": "major",
+    "chords": "C",
+    "notes": "g8 b8 a8 d+8 b8 e8"
+  },
+  {
+    "name": "major",
+    "chords": "C",
+    "notes": "a8 b8 d8 d+8 b8 a8"
+  },
+  {
+    "notes": "bb8 r8 eb+8 bb8 g8 g8 f8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 r8 f+8 c+8 eb+8 f+8 eb+8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 g8 g8 eb8 eb8 c8 eb8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 bb-8 bb-8 eb8 r8 eb8 eb8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 c8 c8 f8 eb8 f8 r8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 c+8 eb+8 r8 eb+8 f+8 r8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 f+8 f+8 f+8 g+8 g+8 r8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 c8 r8 f8 g8 bb8 g8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb+8 bb+8 c++8 g+8 c++8 c++8 r8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 eb+8 r8 g+8 g+8 f+8 f+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb+8 eb+8 f+8 f+8 c+8 c+8 g8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 c+8 eb+8 f+8 c+8 eb+8 f+8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 bb-8 bb-8 eb8 eb8 bb-8 bb-8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 g8 g8 eb8 bb-8 eb8 f8 bb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 eb8 g8 bb8 c+8 r8 bb8 f8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 bb8 eb+8 r8 eb+8 eb+8 g+8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 bb-8 c8 c8 r8 c8 c8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 eb8 c8 c8 f8 c8 f8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 c8 eb8 g8 g8 eb8 c8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 eb+8 c+8 eb+8 eb+8 g+8 g+8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 c+8 c+8 f+8 c+8 eb+8 eb+8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 g8 f8 c8 eb8 r8 r8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 c+8 c+8 c+8 bb8 r8 c+8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 f8 r8 f8 c8 eb8 eb8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 eb+8 eb+8 c+8 f+8 eb+8 bb8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 bb8 r8 c+8 c+8 f+8 g+8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 f8 c8 c8 f8 r8 f8 bb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 g8 g8 r8 r8 c+8 c+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 r8 bb+8 c++8 g+8 f+8 f+8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb+8 g+8 bb+8 f+8 bb+8 bb+8 c++8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb+8 eb+8 c+8 bb8 g8 f8 eb8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 r8 bb-8 c8 c8 c8 eb8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 bb8 bb8 bb8 bb8 bb8 c+8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 f+8 bb+8 f+8 r8 eb+8 eb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 f+8 g+8 g+8 bb+8 bb+8 bb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 eb+8 f+8 r8 bb+8 g+8 r8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 bb8 f8 c8 bb-8 r8 eb8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 c8 f8 bb8 g8 c+8 eb+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 bb8 r8 f8 eb8 bb-8 c8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 bb+8 g+8 c++8 g+8 eb+8 bb8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c8 r8 f8 eb8 bb-8 bb-8 bb-8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 r8 f+8 bb+8 g+8 eb+8 bb8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c++8 bb+8 g+8 eb+8 r8 c+8 r8 bb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c++8 g+8 bb+8 f+8 eb+8 bb8 f8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 bb8 c+8 eb+8 f+8 bb+8 r8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 f+8 eb+8 c+8 r8 g8 f8 bb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c8 r8 f8 g8 r8 bb8 eb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 eb8 bb-8 c8 f8 bb8 c+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 f+8 eb+8 bb8 g8 f8 eb8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 eb8 c8 f8 r8 g8 c+8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 eb8 bb-8 c8 f8 bb8 eb+8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 bb8 f8 c8 eb8 bb-8 eb8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 c8 eb8 f8 g8 c+8 eb+8 bb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c8 f8 eb8 g8 c+8 f+8 g+8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 eb8 c8 f8 bb8 c+8 f+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 r8 r8 f8 c8 eb8 g8 bb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c++8 g+8 f+8 eb+8 bb8 f8 c8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c8 bb-8 eb8 f8 r8 g8 bb8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 eb+8 f+8 c+8 g8 f8 c8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 c8 f8 bb8 eb+8 f+8 g+8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 g+8 eb+8 c+8 bb8 g8 f8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 bb+8 f+8 eb+8 r8 c+8 g8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 r8 eb8 f8 bb8 c+8 eb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb+8 c++8 g+8 f+8 c+8 eb+8 bb8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 c8 f8 eb8 g8 bb8 eb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 c8 eb8 f8 g8 c+8 bb8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 eb8 c8 bb-8 eb8 g8 bb8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 eb8 g8 r8 bb8 c+8 eb+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 f8 eb8 bb-8 c8 eb8 r8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c++8 g+8 bb+8 f+8 c+8 bb8 eb+8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 r8 eb8 c8 bb-8 c8 r8 f8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 c8 eb8 bb-8 bb-8 c8 r8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 bb+8 c++8 g+8 eb+8 bb8 g8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 f8 c8 bb-8 eb8 g8 c+8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb+8 c+8 r8 g8 bb8 r8 f8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 c+8 bb8 eb+8 g+8 c++8 bb+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c++8 bb+8 g+8 eb+8 c+8 g8 bb8 f8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 g8 eb8 f8 bb8 eb+8 g+8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 bb+8 c++8 g+8 eb+8 r8 c+8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 c8 f8 bb8 g8 c+8 eb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c++8 g+8 f+8 r8 c+8 r8 g8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 eb+8 f+8 c+8 g8 bb8 f8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 g8 r8 f8 r8 c8 eb8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g8 eb8 r8 c8 f8 bb8 r8 eb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb8 r8 f8 eb8 c8 bb-8 bb-8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 eb8 g8 bb8 eb+8 r8 g+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 g+8 c++8 bb+8 f+8 eb+8 c+8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 eb8 g8 c+8 bb8 eb+8 f+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 bb-8 c8 f8 bb8 eb+8 f+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb-8 eb8 f8 r8 bb8 c+8 eb+8 f+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 c8 f8 g8 c+8 f+8 g+8 bb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 f+8 eb+8 bb8 g8 eb8 f8 c8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb+8 f+8 eb+8 c+8 r8 bb8 g8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 bb+8 f+8 g+8 eb+8 bb8 r8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb+8 r8 r8 bb8 r8 f8 c8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 f+8 eb+8 bb8 r8 g8 r8 eb8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 c++8 bb+8 f+8 eb+8 c+8 r8 g8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb+8 g+8 f+8 bb+8 c++8 g+8 bb+8 bb+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f+8 r8 c+8 r8 r8 eb+8 g+8 c++8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "f8 bb8 g8 c+8 eb+8 f+8 bb+8 g+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "eb8 g8 c+8 eb+8 bb8 f8 c8 bb-8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "c+8 f+8 bb+8 c++8 g+8 eb+8 bb8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "bb+8 g+8 r8 r8 f+8 c+8 g8 r8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "g+8 f+8 bb+8 c++8 g+8 eb+8 bb8 f8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "r8 eb8 bb-8 c8 f8 g8 r8 c+8",
+    "chords": "Cm7",
+    "name": "minor pentatonic"
+  },
+  {
+    "notes": "d+4 a8 bb2/3+16/3",
+    "chords": "Gm",
+    "name": "minor"
+  },
+  {
+    "notes": "bb8 d+8 eb+8 e+8 d+8 b8 bb8 f#8",
+    "chords": "C7",
+    "name": "dominant"
+  },
+  {
+    "notes": "bb8 d+8 eb+8 e+8 eb+8 e+8 g+8 e+8",
+    "chords": "C7",
+    "name": "dominant"
+  },
+  {
+    "notes": "e+8 a+8 g+4 bb+8 e+8 d#+8 c+8",
+    "chords": "C7",
+    "name": "dominant"
+  },
+  {
+    "notes": "g16/3 ab16/3 g16/3 f8 eb8 f8",
+    "chords": "Cm7",
+    "name": "parker"
+  },
+  {
+    "notes": "e+8/3 f+8/3 f#+8/3 g+8/3 f#+8/3 f+8/3 e+8 c+8",
+    "chords": "F7",
+    "name": "parker"
+  },
+  {
+    "notes": "e8 g8/3 bb8/3 d+8/3 g+8 gb+8 f+8 e+8",
+    "chords": "Gm7",
+    "name": "parker"
+  },
+  {
+    "notes": "e+8/3 f+8/3 f#+8/3 g+8/3 f#+8/3 f+8/3",
+    "chords": "Bo7",
+    "name": "parker"
+  },
+  {
+    "notes": "f+8 eb+8 a#8 f#8",
+    "chords": "D7alt",
+    "name": "altered dominant"
+  },
+  {
+    "notes": "r8 gb8 d8 f8 a#4",
+    "chords": "D7alt",
+    "name": "altered dominant"
+  },
+  {
+    "notes": "b8 ab8 gb8/3 d8/3 c8/3",
+    "chords": "Ab7#11",
+    "name": "dominant #11"
+  },
+  {
+    "notes": "f+8 f#+8 g#+8 a#+8",
+    "chords": "D7alt",
+    "name": "altered dominant"
+  },
+  {
+    "notes": "d8 e8 f8 a8 c+2/3+16/3",
+    "chords": "Dm7",
+    "name": "minor7"
+  },
+  {
+    "notes": "c#8 d8 g#8 g8 b8 f+8 g#+8 d+8",
+    "chords": "",
+    "name": "diminished"
+  },
+  {
+    "notes": "gb2/3+16/3 eb8 a8 d+8 eb+8 c+8",
+    "chords": "Co",
+    "name": "diminished"
+  },
+  {
+    "notes": "a8 c+8 d+8 eb+8 bb8 d+8 f+8 g+8",
+    "chords": "Cm7",
+    "name": "Minor seventh"
+  },
+  {
+    "notes": "ab+4 g+8 eb+8 c+4 g4",
+    "chords": "AbM7",
+    "name": "Major"
+  },
+  {
+    "notes": "eb+8 f+8 db+8/3 b8/3 ab8/3 f4 eb8 r8",
+    "chords": "Db9",
+    "name": "dominant"
+  },
+  {
+    "notes": "eb+8 e+8 db+8/3 bb8/3 ab8/3 e4 eb8",
+    "chords": "Bbm7b5",
+    "name": "Half diminsished"
+  },
+  {
+    "notes": "c+8 f+4 d+4 a4 r8",
+    "chords": "Eb",
+    "name": "major"
+  },
+  {
+    "notes": "g+8/3 a+8/3 b+8/3 a+8/3 g+8/3 f+8/3 eb+8/3 db+8/3 b8/3 a8/3 g8/3 f8",
+    "chords": "G7",
+    "name": "whole-tone"
+  },
+  {
+    "notes": "e8/3 f#8/3 g#8/3 bb8/3 c+8/3 d+8/3 e+8/3 d+8/3 c+8/3 bb8/3 ab8/3 gb8",
+    "chords": "C7",
+    "name": "whole-tone"
+  },
+  {
+    "notes": "f8/3 e8/3 d8/3 f8/3 g8/3 a8/3 b8/3 db+8/3 eb+8/3 b8/3 a8/3 g8",
+    "chords": "G7",
+    "name": "whole-tone"
+  },
+  {
+    "notes": "g+8/3 e+8/3 db+8/3 e+8/3 db+8/3 bb8/3 db+8/3 bb8/3 g8/3 bb8/3 g8/3 e8",
+    "chords": "Eo7",
+    "name": "diminished"
+  },
+  {
+    "notes": "e8/3 g8/3 bb8/3 g8/3 bb8/3 db+8/3 bb8/3 db+8/3 e+8/3 db+8/3 e+8/3 g+8/3",
+    "chords": "Eo7",
+    "name": "diminished"
+  },
+  {
+    "notes": "e8/3 g8/3 bb8/3 db+8/3 bb8/3 g8/3 bb8/3 db+8/3 e+8/3 g+8/3 e+8/3 db+8/3",
+    "chords": "Eo7",
+    "name": "diminished"
+  },
+  {
+    "notes": "db+8/3 e+8/3 g+8/3 e+8/3 db+8/3 bb8/3 g8/3 bb8/3 db+8/3 bb8/3 g8/3 e8/3",
+    "chords": "Eo7",
+    "name": "diminished"
+  },
+  {
+    "notes": "g+8 ab+8 g+8 f+8 e+8 f+8 e+8 d+8 c#+8 d+8 c#+8 b8 a#8 b8 a#8 g#8 r8",
+    "chords": "NC",
+    "name": "diminished"
+  },
+  {
+    "notes": "g8 a8 bb8 a8 bb8 c+8 db+8 c+8 db+8 eb+8 e+8 eb+8 e+8 gb+8 g+8 gb+8",
+    "chords": "NC",
+    "name": "diminished"
+  },
+  {
+    "notes": "g8 a8 bb8 a8 c+8 db+8 c+8 bb8",
+    "chords": "NC",
+    "name": "diminished"
+  }
+]

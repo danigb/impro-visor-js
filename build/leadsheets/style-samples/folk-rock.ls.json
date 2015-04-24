@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style folk-rock)",
+      "section": {
+        "style": "folk-rock"
+      },
       "lit": "C | / G7 | C | G7 |C G7 | C G7 | C G7 | C |F | C | / G7 | C |F | C | / G7 | C |"
     },
     {

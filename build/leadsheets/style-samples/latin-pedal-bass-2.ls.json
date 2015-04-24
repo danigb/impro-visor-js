@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "1",
-      "section": "(style latin-pedal-bass-2)",
+      "section": {
+        "style": "latin-pedal-bass-2"
+      },
       "lit": "GM9 | / | Am7/G | / |GM9 | / | Am7/G | / |"
     },
     {

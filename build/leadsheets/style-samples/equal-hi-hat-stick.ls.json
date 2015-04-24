@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "3",
-      "section": "(style equal-hi-hat-stick)",
+      "section": {
+        "style": "equal-hi-hat-stick"
+      },
       "lit": "A5 | / | G5 | / |D5 | / | A5 | / |/ | / | G5 | / |D5 | / | A5 | / |F#m | D | A | / |F#m | D | / | / D/E |A5 | / | G5 | / |D5 | / | A5 | / |"
     },
     {

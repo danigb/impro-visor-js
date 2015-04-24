@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style african)",
+      "section": {
+        "style": "african"
+      },
       "lit": "DbM7#11 | / | DbM7#11 | / |Cm11 | / | Cm11 | / |DbM7#11 | / | DbM7#11 | / |AbM7#11 | / | AbM7#11 | / |GbM7#11 | / | GbM7#11 | / |Fm7 | GbM7#11 | Fm7 | GbM7#11 |Gm7b5 | CM7#11 |"
     },
     {

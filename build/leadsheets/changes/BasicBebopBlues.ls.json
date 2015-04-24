@@ -37,9 +37,13 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style)",
+      "section": {
+        "style": ""
+      },
       "lit": "FM7 F7 | Bb7 Bo | FM7 | Cm7 F7 |BbM7 | Bo | FM7 | Am7 D7 |Gm7 | C7 | FM7 Dm7 | Gm7 C7 |",
-      "phrase": "(style)"
+      "phrase": {
+        "style": ""
+      }
     },
     {
       "type": "melody",

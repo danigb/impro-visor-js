@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style pedal-bass-5)",
+      "section": {
+        "style": "pedal-bass-5"
+      },
       "lit": "FM7/C Gm7/C | Am7/C Gm7/C | FM7/C Gm7/C | Am7/C Gm7/C |FM7/C Gm7/C | Am7/C Gm7/C | FM7/C Gm7/C | Am7/C Gm7/C |"
     },
     {

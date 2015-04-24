@@ -37,9 +37,13 @@
       "instrument": "0",
       "volume": "65",
       "key": "-2",
-      "phrase": "(style ballad)",
+      "phrase": {
+        "style": "ballad"
+      },
       "lit": "BbM7 | Eb7#11 | BbM7 | Dm7b5 G7 |Cm7 | F7 |Dm7 G7 | Cm7 F7 |BbM7 | Eb7#11 | BbM7 | Dm7b5 G7 |Cm7 | F7 | BbM7 F7sus | BbM7 |Fm7 Bb7 | Fm7 Bb7 | EbM7 Bb7 | EbM7 |Gm7 C7 | Gm7 C7 | Gm7 C7 | Cm7 F7 |BbM7 | Eb7#11 | BbM7 | Dm7b5 G7 |Cm7 | F7 | BbM7 F7sus | BbM7 |",
-      "section": "(style)"
+      "section": {
+        "style": ""
+      }
     },
     {
       "type": "melody",

@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-3",
-      "section": "(style footprints)",
+      "section": {
+        "style": "footprints"
+      },
       "lit": "Cm7 | / | Cm7 | / |Fm7 | / | Cm7 | / |F#m7b5 B7#9 | E7#9 A7#9 | Cm7 | / |"
     },
     {

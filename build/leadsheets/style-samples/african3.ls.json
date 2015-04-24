@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-2",
-      "section": "(style african3)",
+      "section": {
+        "style": "african3"
+      },
       "lit": "Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Eb7 | / | Db7 Eb7 | Fm7 |Eb7 | / | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Eb7 | / | Db7 Eb7 | Fm7 |Eb7 | / | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Fm7 | Bbm7 | Db7 C7#9 | Fm7 |Eb7 | / | Db7 Eb7 | Fm7 |Eb7 | / | Db7 C7#9 | Fm7 |"
     },
     {

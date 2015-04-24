@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style boogie-shuffle-2)",
+      "section": {
+        "style": "boogie-shuffle-2"
+      },
       "lit": "G | / | / | / |C7 | / | G | / |D | C | G | / |G6 | / | / | / |C7 | / | G6 | / |D | C | G6 |"
     },
     {

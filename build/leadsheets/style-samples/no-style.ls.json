@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style no-style)",
+      "section": {
+        "style": "no-style"
+      },
       "lit": "F13 | Bb13 Bo7 | F13 | Cm9 F13b9 |Bb13 | Bo7 | F13 | D7#5#9 |Gm9 | C13b9 | F13 D7#5#9 | Gm9 C13b9 |"
     },
     {

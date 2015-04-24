@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style irish-jig)",
+      "section": {
+        "style": "irish-jig"
+      },
       "lit": "G | / D7 G / | C G | A7 D7 |G | / | C G | A7 D7 |/ / G Am7 | G Am7 G / | Am7 D7 G Am7 | G A7 |D7 / G Am7 | G Am7 G / | Am7 D7 G D7 | G / Am7 D7 |G D7 / / | G |"
     },
     {

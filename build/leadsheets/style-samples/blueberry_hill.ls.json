@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-2",
-      "section": "(style blueberry-hill)",
+      "section": {
+        "style": "blueberry-hill"
+      },
       "lit": "Bb7 | Eb7 | Bb7 | / |Eb7 | / Eo7 | Bb7 | Dm7 G7 |F7 | Eb7 | Bb7 | F7 |"
     },
     {

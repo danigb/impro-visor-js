@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style funk)",
+      "section": {
+        "style": "funk"
+      },
       "lit": "Ab7 | / | Ab7 | / |Ab7 | / | Ab7 | / |Gb7 | / | Gb7 | / |Ab7 | / | Ab7 | / |Abm7 | Db7 | Bbm7 | Eb7alt |Ab7 | / | Ab7 | / |"
     },
     {

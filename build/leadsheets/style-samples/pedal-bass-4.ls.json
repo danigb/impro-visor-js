@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-3",
-      "section": "(style pedal-bass-4)",
+      "section": {
+        "style": "pedal-bass-4"
+      },
       "lit": "Fm9/Bb | Fm7/Bb | EM7#11 | / |"
     },
     {

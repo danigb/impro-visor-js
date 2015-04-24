@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style rock-brushes)",
+      "section": {
+        "style": "rock-brushes"
+      },
       "lit": "C7 | / | / | / |F7 | / | C7 | / |Dm7 | G7 | C7 | / |NC C7 | NC C7 | NC | NC C7 |F7 | / | C7 | / |Dm7 | G7 | C7 | / |"
     },
     {

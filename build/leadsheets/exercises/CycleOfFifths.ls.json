@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style no-style)",
+      "section": {
+        "style": "no-style"
+      },
       "lit": "C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |C F | Bb Eb | Ab Db | F# B |E A | D G | C F | Bb Eb |Ab Db | F# B | E A | D G |"
     },
     {

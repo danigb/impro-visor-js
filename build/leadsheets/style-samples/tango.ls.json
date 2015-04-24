@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style tango)",
+      "section": {
+        "style": "tango"
+      },
       "lit": "F7 | Bb7 | F7 | Bb7 |F7 | Bb7 | F7 | Bb7 |DbM7 | EbM7 | F7 | / |"
     },
     {

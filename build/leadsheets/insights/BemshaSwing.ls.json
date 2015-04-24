@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "CM7 Eb7 | AbM7 Db7 | CM7 Eb7 | D7 Db7 |CM7 Eb7 | AbM7 Db7 | CM7 Ab7 | DbM7 Gb7 |FM7 Ab7 | DbM7 Gb7 | FM7 Eb7 | AbM7 Db7 |CM7 Eb7 | AbM7 Db7 | CM7 Eb7 | AbM7 Db7 |"
     },
     {

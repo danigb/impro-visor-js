@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-2",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "Am7b5 D7b9 | Gm7 C7 | BM7 / Cm7b5 F7b9 | BbM7 |Bm7 E7 | AM7 F#m7 | Ebm7b5 Ab7b9 | DbM7 |C7alt B7#11 | BbM7 |"
     },
     {

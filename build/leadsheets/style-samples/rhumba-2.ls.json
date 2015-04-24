@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style rhumba-2)",
+      "section": {
+        "style": "rhumba-2"
+      },
       "lit": "C | Em7 A7 | Dm7 G7 | C G7+ |C | Em7 A7 | Dm7 G7 | C G7+ |C / Bb7 A7 | / | Dm7 / / G7 | / |C7 | F F#dim | Dm7 G7 | C |"
     },
     {

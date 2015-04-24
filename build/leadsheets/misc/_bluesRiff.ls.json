@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "F13 | Bb13 Bo7 | F13 | Cm9 F13b9 |"
     },
     {

@@ -38,7 +38,11 @@
   "bass-channel": "7",
   "drum-channel": "10",
   "recent-style-file": "swing.sty",
-  "improv-menu-setting": "(Use Improvise Button)",
+  "improv-menu-setting": {
+    "Use": "Improvise Button"
+  },
   "language": "en",
-  "language_list": "(en , fr)"
+  "language_list": {
+    "en": ", fr"
+  }
 }

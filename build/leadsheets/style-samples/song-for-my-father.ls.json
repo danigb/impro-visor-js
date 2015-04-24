@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-4",
-      "section": "(style song-for-my-father)",
+      "section": {
+        "style": "song-for-my-father"
+      },
       "lit": "Fm7 | / | Eb7 | / |Db7 | C7alt | Fm7 | / |Fm7 | / | Eb7 | / |Db7 | C7alt | Fm7 | / |Eb9 | / | Fm9 | / |Eb9 Db9 | C7#9 | Fm11 | / |"
     },
     {

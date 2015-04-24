@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style rock-light)",
+      "section": {
+        "style": "rock-light"
+      },
       "lit": "F Dm | Gm C7 | F Dm | Gm C7 |F Dm | Bb C7 | F Dm | Bb C7 |F Dm | Gm C7 | F Dm | Gm C7 |F Dm | Bb C7 | F Bb | F F7 |Bb | Am | Gm C7 | F F7 |Bb | Am | G7 | C7 |F Dm | Gm C7 | F Dm | Gm C7 |F Dm | Bb C7 | F Dm | Bb C7 |F Bb | F / / C7 |"
     },
     {

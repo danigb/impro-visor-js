@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "section": "(style rhythm-and-blues)",
+      "section": {
+        "style": "rhythm-and-blues"
+      },
       "lit": "Fm7 | Bbm7 | Fm7 | / |Bbm7 | / | Fm7 | / |C7 | Bbm7 | Fm7 | C7 |"
     },
     {

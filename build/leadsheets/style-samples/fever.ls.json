@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style fever)",
+      "section": {
+        "style": "fever"
+      },
       "lit": "Am | / | / | / |/ | / | E7 | Am |Am | / | / | / |/ | / | E7 | Am |"
     },
     {

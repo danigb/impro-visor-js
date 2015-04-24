@@ -37,7 +37,9 @@
       "instrument": "26",
       "volume": "65",
       "key": "0",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "NC | / | / | / |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |E7#9 | / | / | / |/ | / | / | / |/ | / | / | / |E7#9 | / | / | / |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |E7#9 | / | / | / |/ | / | / | / |/ | / | / | / |E7#9 | / | / | / |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |E7#9 | / | / | / |/ | / | / | / |/ | / | / | / |E7#9 | / | / | / |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm7 |E7#9 | / | / | / |/ | / | / | / |/ | / | / | / |E7#9 | / | / | / |A7b9 | Dm | A7b9 | Dm |A7b9 | Dm | Em7b5 A7b9 | Dm |"
     },
     {

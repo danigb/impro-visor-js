@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style labomba)",
+      "section": {
+        "style": "labomba"
+      },
       "lit": "C F | G F | C F | G F |C F | G F | C F | G F |C F | G F | C F | G F |C F | G F | C F | G F |"
     },
     {

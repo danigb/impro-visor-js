@@ -35,7 +35,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-3",
-      "section": "(style waltz)",
+      "section": {
+        "style": "waltz"
+      },
       "lit": "Am7b5 | D7b9 | Gm7b5 | C7b9 |Fm7 | Bb7b9 | EbM7 | A7#11 |AbM7 | / | Abm7 | Db7 |Cm7 | F7 | F#m7 B7 | Fm7 Bb7 |Am7b5 | D7b9 | Gm7b5 | C7b9 |Fm7 | Bb7b9 | EbM7 | A7#11 |AbM7 | / | Abm7 | Db7 |Cm7 | Cm7/Bb | Am7b5 | Abm7 / Db7 |F#M7 | C7b9 | BM7 | EM7#11 |Fm7/Bb | Bb7 | Fm7/Bb | Bb7 |Fm7/Bb | Bb7 | Fm7/Bb | Bb7 |"
     },
     {

@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-2",
-      "section": "(style reggae-2)",
+      "section": {
+        "style": "reggae-2"
+      },
       "lit": "Bb | Eb7 Eo7 | Bb | Bb/F E13 |Eb7 | Eo7 | Bb/F | G7b9 |Cm7/F | / | Bb Db9 | C7 B7 |"
     },
     {

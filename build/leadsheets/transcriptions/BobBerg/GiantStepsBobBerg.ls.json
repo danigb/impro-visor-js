@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-3",
-      "section": "(style)",
+      "section": {
+        "style": ""
+      },
       "lit": "C#M7 E9 | AM7 C9 | FM7 | Bm9 E9 |AM7 C9 | FM7 G#9 | C#M7 | Gm9 C9 |FM9 | Bm9 E9 | AM7 | Ebm7 G#9 |C#M7 | Gm9 C9 | FM7 | Ebm7 G#9 |"
     },
     {

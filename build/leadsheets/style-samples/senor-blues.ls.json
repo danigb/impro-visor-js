@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-6",
-      "section": "(style senor-blues)",
+      "section": {
+        "style": "senor-blues"
+      },
       "lit": "Ebm69 | / | / | / |B7#11 | / | Ebm69 | / |Bb7 | Ab7 | Ebm69 | / |"
     },
     {

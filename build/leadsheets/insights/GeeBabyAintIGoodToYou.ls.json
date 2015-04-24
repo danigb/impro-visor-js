@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style)",
+      "section": {
+        "style": ""
+      },
       "lit": "C7 Ab7 | G7 C7 | F7 Bb7 | EbM7 / Dm7b5 G7 |C7 Ab7 | G7 C7 | F7 Bb7 | EbM7 Eb7 |Ab7 Ao7 | Eb6/Bb Eb7 | Ab7 Ao7 | Dm7 G7 |C7 Ab7 | G7 C7 | F7 Bb7 | EbM7 / Dm7b5 G7 |"
     },
     {

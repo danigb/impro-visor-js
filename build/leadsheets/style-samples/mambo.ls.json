@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style mambo)",
+      "section": {
+        "style": "mambo"
+      },
       "lit": "D Am7 | D Am7 | D Am7 | D Am7 |D Am7 | D Am7 | D Am7 | D Am7 |D Am7 | D Am7 | D Am7 | D Am7 |D Am7 | D Am7 | D | / |"
     },
     {

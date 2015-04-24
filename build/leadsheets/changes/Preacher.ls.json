@@ -37,9 +37,13 @@
       "instrument": "0",
       "volume": "65",
       "key": "-1",
-      "phrase": "(style)",
+      "phrase": {
+        "style": ""
+      },
       "lit": "F | F7 | Bb7 Bo7 | F |F | / |G7 | C7 |F | F7 | Bb7 | A7 |Bb Bo7 | F D7 |Gm7 C7 | F |",
-      "section": "(style)"
+      "section": {
+        "style": ""
+      }
     },
     {
       "type": "melody",

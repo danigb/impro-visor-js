@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style bossaB)",
+      "section": {
+        "style": "bossaB"
+      },
       "lit": "Dmaj7 | Bbdim | Am7 | D7 |Gmaj7 | Gm6 | F#13 F#9+ | B9 B7b9 |Bm7 E7 | Bb9 A7 | Dm7 G7 | Dm7 G7 |"
     },
     {

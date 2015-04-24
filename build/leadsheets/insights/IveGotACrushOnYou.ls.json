@@ -37,9 +37,13 @@
       "instrument": "0",
       "volume": "65",
       "key": "-2",
-      "section": "(style)",
+      "section": {
+        "style": ""
+      },
       "lit": "Dm7 Dbo | Cm7 F7 | Dm7 Dbo | Cm7 F7 |BbM7 |Gm7 C7 | Gm7 C7 | Cm7 F7 |Dm7 Dbo | Cm7 F7 | Dm7 Dbo | Cm7 / Am7b5 D7 |Gm7 |Em7b5 Eb7#11 | Dm7 G7 | Cm7 F7 |BbM7 | / |",
-      "phrase": "(style)"
+      "phrase": {
+        "style": ""
+      }
     },
     {
       "type": "melody",

@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "1",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "G7 | C7 Dbo7 | G7 | Dm7 G7 |C7 | / Dbo7 | G7 | E7alt |Am7 | D7 | G7 E7alt | Am7 D7 |"
     },
     {

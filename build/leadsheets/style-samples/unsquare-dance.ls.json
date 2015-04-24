@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style unsquare-dance)",
+      "section": {
+        "style": "unsquare-dance"
+      },
       "lit": "Am6 / G / Am / / | Am6 / G / Am / / | Dm / C / Dm / / | Am6 / G / Am / / |Em / Dm / Em / / | Am6 / G / Am / / |"
     },
     {

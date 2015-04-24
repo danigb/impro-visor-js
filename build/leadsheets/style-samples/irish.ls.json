@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style irish)",
+      "section": {
+        "style": "irish"
+      },
       "lit": "F | / | F | C7 |C7 | / | / | F |F | / | F F7 | Bb |Bb Bo7 | F/C D7 | G7 C7 | F |"
     },
     {

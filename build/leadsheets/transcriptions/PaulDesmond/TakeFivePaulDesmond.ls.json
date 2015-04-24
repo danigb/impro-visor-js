@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "-3",
-      "section": "(style)",
+      "section": {
+        "style": ""
+      },
       "lit": "Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / | Cm / / Gm7 / |"
     },
     {

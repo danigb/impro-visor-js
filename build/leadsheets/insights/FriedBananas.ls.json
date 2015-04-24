@@ -37,9 +37,13 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "phrase": "(style)",
+      "phrase": {
+        "style": ""
+      },
       "lit": "EbM7 | Gm7b5 C7alt | Fm7 | Am7b5 D7alt |EbM7 | G#M7 | G7alt | C7alt |Fm7 | G#m7 C#7 | EbM7 | Dm7 G7 |Cm7 | F7 | Fm7 | Bb7 |EbM7 | Gm7b5 C7alt | Fm7 | Am7b5 D7alt |EbM7 | G#M7 | G7alt | C7alt |Fm7 | G#m7 C#7 | EbM7 | Gm7b5 C7alt |Fm7 | Bb7 | EbM7 C7alt | Fm7 Bb7 |",
-      "section": "(style)"
+      "section": {
+        "style": ""
+      }
     },
     {
       "type": "melody",

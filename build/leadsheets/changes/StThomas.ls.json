@@ -37,9 +37,13 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "phrase": "(style)",
+      "phrase": {
+        "style": ""
+      },
       "lit": "C | A7 |Dm7 G7 | C |C | A7 |Dm7 G7 | C |Em7b5 | A7 | Dm7 | G7 |C C7 | F F#o | C/G G7 |C G7 |",
-      "section": "(style)"
+      "section": {
+        "style": ""
+      }
     },
     {
       "type": "melody",

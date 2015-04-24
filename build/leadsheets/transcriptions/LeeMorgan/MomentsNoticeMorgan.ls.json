@@ -35,7 +35,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style pedal-bass-2)",
+      "section": {
+        "style": "pedal-bass-2"
+      },
       "lit": "F#m7 B7 | Gm7 C7 | FM7 | Bbm7 Eb7 |Em7 A7 | Fm7 Bb7 | EbM7 | Em7b5 A7 |Dm7 | Cm7 F7 | BbM7 | Eb9 |A7 D7 | Bbm7 Eb7 | AbM7 | Gm7 C7 |F#m7 B7 | Gm7 C7 | FM7 | Bbm7 Eb7 |Em7 A7 | Fm7 Bb7 | EbM7 | Em7b5 A7 |Dm7 | Cm7 F7 | BbM7 | Eb9 |A7 D7 | Gm7 C7 |F/C | Gm/C |Am/C | Gm/C | F/C Gm/C | Am/C Gm/C |F NC / / | / |"
     },
     {

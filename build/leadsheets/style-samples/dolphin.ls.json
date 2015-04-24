@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style dolphin)",
+      "section": {
+        "style": "dolphin"
+      },
       "lit": "Cmaj7 | / | F#m7 | B7 |Gm7 | / | Em7 | A7 |Fm7 | / | Dm7 | G9 |CM7 | C#o7 | Dm7 | G7b5 G7 |Cmaj7 | / | F#m7 | B7 |Gm7 | / | Em7 | A7 |Fm7 | / | Dm7 | G9 |CM7 | C#o7 | Dm7 | G7b5 G7 |"
     },
     {

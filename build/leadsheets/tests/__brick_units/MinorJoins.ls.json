@@ -36,7 +36,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style swing)",
+      "section": {
+        "style": "swing"
+      },
       "lit": "Dm7b5 | G7alt | Cm69 | / |Dm7b5 | G7alt | Cm69 | NC |Dm7b5 | G7alt | Cm69 | / |Ebm7b5 | G#7alt | C#m69 | NC |Dm7b5 | G7alt | Cm69 | / |Em7b5 | A7alt | Dm69 | NC |Dm7b5 | G7alt | Cm69 | / |Fm7b5 | Bb7alt | Ebm69 | NC |Dm7b5 | G7alt | Cm69 | / |F#m7b5 | B7alt | Em69 | NC |Dm7b5 | G7alt | Cm69 | / |Gm7b5 | C7alt | Fm69 | NC |Dm7b5 | G7alt | Cm69 | / |G#m7b5 | C#7alt | F#m69 | NC |Dm7b5 | G7alt | Cm69 | / |Am7b5 | D7alt | Gm69 | NC |Dm7b5 | G7alt | Cm69 | / |Bbm7b5 | Eb7alt | G#m69 | NC |Dm7b5 | G7alt | Cm69 | / |Bm7b5 | E7alt | Am69 | NC |Dm7b5 | G7alt | Cm69 | / |Cm7b5 | F7alt | Bbm69 | NC |Dm7b5 | G7alt | Cm69 | / |C#m7b5 | F#7alt | Bm69 | NC |"
     },
     {

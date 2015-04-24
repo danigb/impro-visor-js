@@ -37,7 +37,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style rock-6-8)",
+      "section": {
+        "style": "rock-6-8"
+      },
       "lit": "C F7 | C | / F7 | C |G7 F7 | C | G7 F7 | C |C F7 | C | / F7 | C |G7 F7 | C | G7 F7 | C C7 |F7 | C | F7 | C C7 |F7 | C | F7 | C |G7 F7 | C | G7 F7 | C |C F7 | C | / F7 | C |G7 F7 | C | G7 F7 | C |"
     },
     {

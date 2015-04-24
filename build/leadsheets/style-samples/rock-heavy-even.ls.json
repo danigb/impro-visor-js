@@ -36,7 +36,9 @@
       "instrument": "0",
       "volume": "65",
       "key": "0",
-      "section": "(style rock-heavy-even)",
+      "section": {
+        "style": "rock-heavy-even"
+      },
       "lit": "C7 | / | / | / |F7 | / | C7 | / |Dm7 | G7 | C7 | / |NC C7 | NC C7 | NC | NC C7 |F7 | / | C7 | / |Dm7 | G7 | C7 | / |"
     },
     {
