@@ -9,6 +9,8 @@ var toJSON = require('./lib/toJSON');
 var directives = require('./lib/directives.js');
 var builder = require('./lib/builder.js');
 
+var indexer = require('./lib/metalsmith-index.js');
+
 var noFile = function() {
   return {};
 }
@@ -26,6 +28,11 @@ Metalsmith(__dirname)
     '**/My.prefs': noFile,
     '**/My.themes': noFile
   }))
+  .use(indexer({
+    "leadsheets.index.json": {
+      pattern: "**/*.ls.json",
+      key: "title"
+  }}))
   .build(function(err) {
     if (err) throw err;
     console.log("Done!!");
