@@ -10,5 +10,8 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "metalsmith": "~1.6.0"
+  },
+  "dependencies": {
+    "lista": "~0.1.0"
   }
 }
