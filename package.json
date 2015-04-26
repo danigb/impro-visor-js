@@ -2,12 +2,13 @@
   "name": "impro-visor-js",
   "version": "0.1.0",
   "description": "\"Impro-visor data converted to json\"",
-  "main": "index.js",
+  "main": "build.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/danigb/impro-visor-js.git"
   },
   "scripts": {
+    "start": "node build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

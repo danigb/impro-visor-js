@@ -1,9 +1,17 @@
 impro-visor-js
 ==============
 
-An attempt to provide the incredible
+Here are the awesome
 [impro-visor](http://www.cs.hmc.edu/~keller/jazz/improvisor/)
-data to the javascript world.
+knowledge data converted to json format in order to use
+it in browser/node environments.
 
+The original files are in `./source` and the converted
+output are in `./build`.
 
-**Build:** `node_modules/.bin/metalsmith`
+To process the files I used metalsmith. If you want to
+do the conversion process: `node start`
+
+### License
+
+The same license as impro-visor: GNU Public License 2.0
