@@ -16,6 +16,7 @@
     "metalsmith": "~1.6.0"
   },
   "dependencies": {
-    "lista": "~0.1.0"
+    "lista": "~0.1.0",
+    "minimatch": "~2.0.4"
   }
 }

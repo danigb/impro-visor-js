@@ -1,0 +1,50 @@
+{
+  "Approach": {
+    "cost": 45
+  },
+  "Cadence": {
+    "cost": 25
+  },
+  "CESH": {
+    "cost": 10
+  },
+  "Deceptive-Cadence": {
+    "cost": 60
+  },
+  "Dropback": {
+    "cost": 30
+  },
+  "Ending": {
+    "cost": 30
+  },
+  "Invisible": {
+    "cost": 2000
+  },
+  "Overrun": {
+    "cost": 30
+  },
+  "On-Off": {
+    "cost": 1005
+  },
+  "Off-On": {
+    "cost": 1010
+  },
+  "On-Off+": {
+    "cost": 100
+  },
+  "On": {
+    "cost": 550
+  },
+  "Opening": {
+    "cost": 25
+  },
+  "Pullback": {
+    "cost": 45
+  },
+  "Turnaround": {
+    "cost": 20
+  },
+  "Misc": {
+    "cost": 40
+  }
+}

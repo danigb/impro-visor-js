@@ -1,0 +1,7881 @@
+{
+  "GenMinor": {
+    "var 2": {
+      "mode": "Minor",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "GenDom": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenII",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "GenII": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7b5",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "LiberalII": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "GenIII": {
+    "var 3": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Em7b5",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "GenVI": {
+    "var 3": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Am7b5",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Gen7": {
+    "var 2": {
+      "mode": "Dominant",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "An-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenII",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Liberal-Approach": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenII",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "SuperGenDom": {
+    "var 3": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenII",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Db7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "GenMajorTonic": {
+    "iii": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off": {
+    "diminished": {
+      "mode": "Minor",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Co7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "TonicOrDom": {
+    "dom": {
+      "mode": "Dominant",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "MajorOrDom": {
+    "dom": {
+      "mode": "Dominant",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "DomOrMinor": {
+    "dom": {
+      "mode": "Dominant",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ascending-Minor-CESH": {
+    "4 step": {
+      "mode": "Minor",
+      "type": "CESH",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm+",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm6",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ascending-Minor-CESH-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm+",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm6",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Descending-Minor-CESH": {
+    "4 step": {
+      "mode": "Minor",
+      "type": "CESH",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Descending-Minor-CESH",
+          "key": [
+            "3",
+            "step"
+          ],
+          "duration": "C"
+        },
+        {
+          "type": "chord",
+          "name": "Cm6",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ascending-Major-CESH": {
+    "4 step": {
+      "mode": "Major",
+      "type": "CESH",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C+",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C6",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ascending-&-Descending-Minor-CESH": {
+    "5 step": {
+      "mode": "Minor",
+      "type": "CESH",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm+",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm6",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm6",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ascending-&-Descending-Major-CESH": {
+    "default": {
+      "mode": "Major",
+      "type": "CESH",
+      "key": "Ab",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Ab",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "AbM7#5",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Ab",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "AbM7#5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "AbM7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "7-Chord-Dropback": {
+    "rainy": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebo",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Amen-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "TonicOrDom",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Autumn-Leaves-Opening": {
+    "with overrun": {
+      "mode": "Major",
+      "type": "Opening",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Cadence",
+          "key": "A",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Autumnal-Approach": {
+    "var 3": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Autumnal-Cadence": {
+    "var 2": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenMinor",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Cadence",
+          "key": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Bemsha-Turnaround-1": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Db7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Bemsha-Turnaround-2": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "DbM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gb7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Bemsha-Turnaround-3": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "EbM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Body-&-Soul-Approach": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-Somewhere",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Body-&-Soul-Cadence": {
+    "minor": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Body-&-Soul-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Chromatic-Dropback": {
+    "main": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "B7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Chromatic-Major-Walkup": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Bb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Major-bII",
+          "key": "B",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "Chromatic-Minor-Ascending": {
+    "4 steps": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Chromatic-Minor-Ascending",
+          "key": [
+            "3",
+            "steps"
+          ],
+          "duration": "B"
+        },
+        {
+          "type": "brick",
+          "name": "GenII",
+          "key": "Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Chromatic-Minor-Descending": {
+    "4 steps": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Chromatic-Minor-Descending",
+          "key": [
+            "3",
+            "steps"
+          ],
+          "duration": "C#"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Chromatically-Descending-Dominants": {
+    "6 steps": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Chromatically-Descending-Dominants",
+          "key": [
+            "5",
+            "steps"
+          ],
+          "duration": "C"
+        }
+      ]
+    }
+  },
+  "Coltrane-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "Ab",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "E",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Cyclic-Approach": {
+    "3": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Cyclic-Approach",
+          "key": [
+            "2"
+          ],
+          "duration": "G"
+        },
+        {
+          "type": "chord",
+          "name": "Gm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-Walkup": {
+    "ii-iii-iv-V7": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-ii-iii-ii": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-ii-iii-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-ii-iii-biii": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-ii-iii-IV-V-vi": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-IV-iii-ii": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-ii-iii-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-ii-iii-IV-V": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Diatonic-ii-iii-IV",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-ii-iii-IV-iii-ii": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dizzy-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Db7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dizzy-Cadence": {
+    "short": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Db7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Dogleg-Approach": {
+    "long": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "G",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Dogleg-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dogleg-Approach",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Dogleg-Cycle": {
+    "6 steps": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "B",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dogleg-Cycle",
+          "key": [
+            "5",
+            "steps"
+          ],
+          "duration": "C"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-2-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-3-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-4-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "E7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-3-Steps",
+          "key": "C",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-5-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "B7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-4-Steps",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-6-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F#7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-5-Steps",
+          "key": "C",
+          "duration": "5"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-7-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Db7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-6-Steps",
+          "key": "C",
+          "duration": "5"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-8-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-7-Steps",
+          "key": "C",
+          "duration": "5"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle": {
+    "8-step": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-8-Steps",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dominant-Cycle-Cadence": {
+    "var": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "Bb",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "Dominant-Turnaround": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Donna-Lee-Start": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "G",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Donna-Lee-Opening": {
+    "Dizzy cadence ending": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Donna-Lee-Start",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Dizzy-Cadence",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Doo-Wop": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Double-Pullback": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "E",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Dropback": {
+    "var 3": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "II-n-Back",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dropback-Approach": {
+    "main": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Extended-Approach",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Extended-Approach": {
+    "var 1": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenVI",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Extended-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Extended-Approach",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Foggy-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Foggy-Turnaround": {
+    "var": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Foolish-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Raindrop",
+          "key": "Bb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Four-Star-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "E",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Long-Approach",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Four-Star-Ending": {
+    "var 1": {
+      "mode": "Major",
+      "type": "Ending",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Ab",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Approach-from-iii",
+          "key": "F",
+          "duration": "6"
+        },
+        {
+          "type": "brick",
+          "name": "Body-&-Soul-Cadence",
+          "key": "Eb",
+          "duration": "6"
+        }
+      ]
+    }
+  },
+  "GDS-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "D/C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Db/C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Giant-Step": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "B",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "G",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Giant-Steps": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Giant-Step",
+          "key": "G",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "Eb",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Giant-Step-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "A",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Db",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "E7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Happenstance-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "E",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Happenstance-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        },
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "E",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Honeysuckle-Bridge": {
+    "supertension end": {
+      "mode": "Dominant",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "Bb",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Tension-Cadence",
+          "key": "C",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "II-n-Back": {
+    "var": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D#o",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "II-n-Bird-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "G",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Yardbird-Approach",
+          "key": "F",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "II-n-Bird-POT": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "Eb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "POT",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "II-n-Bird-SPOT": {
+    "var 1": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "Eb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Rainy-Turnaround",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "To-IV": {
+    "main": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Cadence",
+          "key": "F",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Yak": {
+    "var": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "Bb",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "IV-n-Back": {
+    "blues": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bo7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7_",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Back": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Eb",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Bbm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Ao7",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "IV-n-Yak": {
+    "var 5": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Bb",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Yak-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "SuperGenDom",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "MajorOrDom",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "IV-n-Yak-To": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "IV-n-Yak",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "IV-n-Hack": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "TonicOrDom",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Happenstance-Cadence",
+          "key": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Hack": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "SuperGenDom",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "IV-n-Hack",
+          "key": "C",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "IV-n-Mack": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-Plagal-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Mack": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "To-IV",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-Plagal-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Mack-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "To-IV",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "F",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "IV-n-Bird": {
+    "default": {
+      "mode": "Major",
+      "type": "Deceptive-Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "TonicOrDom",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "E",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Bird": {
+    "default": {
+      "mode": "Major",
+      "type": "Deceptive-Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "SuperGenDom",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "IV-n-Bird",
+          "key": "C",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Back-SPOT": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "FM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Surge",
+          "key": "Bb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "SPOT",
+          "key": "F",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "IV-n-Bird-SPOT": {
+    "rainy": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "IV-n-Bird",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Rainy-Turnaround",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Bird-SPOT": {
+    "var": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "IV-n-Bird-SPOT",
+          "key": "F",
+          "duration": "6"
+        }
+      ]
+    }
+  },
+  "IV-n-Bauble": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Upslide",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "A",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "ITCHY-Opening": {
+    "var": {
+      "mode": "Major",
+      "type": "Opening",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "G",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Cadence",
+          "key": "A",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C#m7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F#7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "La-Bomba": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ladybird-Turnaround": {
+    "var": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "*"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Db",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Ladybird-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Ladybird-Turnaround",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Light-&-Day-Approach": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dbm",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Lonely-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "E",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Lonely-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Lonely-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Long-Approach": {
+    "sus": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Surprise-Minor-Cadence",
+          "key": "D",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "F/G",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Long-Cadence": {
+    "main": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Long-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Minor-Chromatic-Walkdown": {
+    "4 step": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-Chromatic-Walkdown",
+          "key": [
+            "3",
+            "step"
+          ],
+          "duration": "Ab"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-Chromatic-Walkdown-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-Chromatic-Walkdown",
+          "key": "Db",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-Dropback": {
+    "default": {
+      "mode": "Minor",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7b5",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-Plagal-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-Perfect-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Moment's-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Moment's-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Moment's-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "B",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Night-&-Day-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "AbM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Nobody's-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Nowhere-Approach": {
+    "var 5": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Nowhere-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Nowhere-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Nowhere-Minor-Cadence": {
+    "var 1": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "Gb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7/Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Nowhere-Turnaround": {
+    "minor var 1": {
+      "mode": "Minor",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Nowhere-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Nowhere-Turnaround+On": {
+    "minor": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Nowhere-Turnaround",
+          "key": [
+            "minor"
+          ],
+          "duration": "C"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Passacaglia": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Major-bVII",
+          "key": "Bb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Major-VII",
+          "key": "Gb",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "POT": {
+    "Spring sub": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "A",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-+-Dropback",
+          "key": "A",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "II-n-Bird-Approach",
+          "key": "A",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "POT-Spring-sub": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "POT+On": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "POT",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Minor-POT": {
+    "altered dominant": {
+      "mode": "Minor",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "A7#11",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7+",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-POT+On": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-POT",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Pennies-Approach": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "IV-n-Yak",
+          "key": "C",
+          "duration": "6"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-Perfect-Cadence",
+          "key": "D",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Pennies-Ending": {
+    "Yardbird": {
+      "mode": "Major",
+      "type": "Ending",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "IV-n-Yak",
+          "key": "C",
+          "duration": "5"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-Perfect-Cadence",
+          "key": "A",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "C",
+          "duration": "5"
+        }
+      ]
+    }
+  },
+  "Pennies-Turnaround": {
+    "TTFA": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "TTFA-Dropback",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Pennies-Turnaround-Two-Goes": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Raindrop",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Perfect-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Pullback": {
+    "tritone": {
+      "mode": "Major",
+      "type": "Pullback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Rainy-Pullback": {
+    "default": {
+      "mode": "Major",
+      "type": "Pullback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Raindrop",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Pullback-Extended": {
+    "yardbird": {
+      "mode": "Major",
+      "type": "Pullback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Pullback-to-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Pullback-Extended",
+          "key": "C",
+          "duration": "6"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Pullback-Cadence-with-Dropback": {
+    "rainy": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "7-Chord-Dropback",
+          "key": [
+            "rainy"
+          ],
+          "duration": "C"
+        }
+      ]
+    }
+  },
+  "Rainbow-Cadence": {
+    "var 4": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "G",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "B7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Rainbow-Overrun": {
+    "sub 1": {
+      "mode": "Major",
+      "type": "Overrun",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "G",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off-On-Major-VII",
+          "key": "Ab",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "Ab",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Raindrop": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Misc",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "A7/E",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebdim",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Rainy-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Raindrop",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Rainy-Cadence": {
+    "minor chromatic": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-Chromatic-Walkdown",
+          "key": "D",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "C",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "Reverse-Dominant-Cycle-2-Steps": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Dropback",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Reverse-Dominant-Cycle-3-Steps": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Dropback",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Reverse-Dominant-Cycle-2-Steps",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Reverse-Dominant-Cycle-4-Steps": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Dropback",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Reverse-Dominant-Cycle-3-Steps",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "E7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Reverse-Dominant-Cycle-5-Steps": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Dropback",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Reverse-Dominant-Cycle-4-Steps",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "B7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Reverse-Dominant-Cycle-6-Steps": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Dropback",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Reverse-Dominant-Cycle-5-Steps",
+          "key": "C",
+          "duration": "5"
+        },
+        {
+          "type": "chord",
+          "name": "F#7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Rhythm-Bridge": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "A",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "G",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Rhythm-Turnaround": {
+    "var": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Upslide",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "G7/D",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebo",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Rhythm-Turnaround+On": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dbdim",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Surge",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Sad-Approach": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Sad-Cadence": {
+    "var": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F7#11",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-Perfect-Cadence",
+          "key": "Eb",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Sad-Cadence-with-Overrun": {
+    "var": {
+      "mode": "Minor",
+      "type": "Overrun",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Cadence",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Sad-Dropback": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Sad-SPOT": {
+    "default": {
+      "mode": "Minor",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Satin-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "G",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "Gb",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Side-Slip": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C#m7b5",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Side-Slips": {
+    "6": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Side-Slips",
+          "key": [
+            "2"
+          ],
+          "duration": "E"
+        },
+        {
+          "type": "brick",
+          "name": "Side-Slips",
+          "key": [
+            "4"
+          ],
+          "duration": "C"
+        }
+      ]
+    }
+  },
+  "Sharp-Fourpenny-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F#m7b5",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Yardbird-Cadence",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Sharp-Fourpenny-Ending": {
+    "var": {
+      "mode": "Major",
+      "type": "Ending",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Side-Slip",
+          "key": "Bb",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "D",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Sus-Cadence",
+          "key": "C",
+          "duration": "8"
+        }
+      ]
+    }
+  },
+  "Sixpenny-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Am",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Yardbird-Cadence",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Sixpenny-Ending": {
+    "default": {
+      "mode": "Major",
+      "type": "Ending",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sixpenny-Approach",
+          "key": "C",
+          "duration": "6"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Spring-Approach": {
+    "extended": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenII",
+          "key": "A",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "E7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Spring-Cadence": {
+    "main": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Spring-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Somewhere/Nowhere-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "SPOT": {
+    "sideslip": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Ebm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Multi-Sub-POT": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Bbm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Eb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Abm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Db7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Stablemates-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "Db",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Stablemates-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Stablemates-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Starlight-Approach": {
+    "tritone start": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "E",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "SPOT",
+          "key": "C",
+          "duration": "6"
+        }
+      ]
+    }
+  },
+  "Starlight-Cadence": {
+    "Night-&-Day": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Starlight-Approach",
+          "key": [
+            "Night-&-Day"
+          ],
+          "duration": "C"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Starlight-Dropback": {
+    "default": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "E",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "D",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Starlight-Opening": {
+    "default": {
+      "mode": "Major",
+      "type": "Opening",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "Bb",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Straight-Approach": {
+    "var": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Gm7",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7/Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Straight-Cadence": {
+    "main": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Straight-Cadence-with-Dropback": {
+    "default": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Surge": {
+    "dominant var": {
+      "mode": "Dominant",
+      "type": "Misc",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Surge",
+          "key": [
+            "dominant"
+          ],
+          "duration": "C"
+        },
+        {
+          "type": "chord",
+          "name": "G/D",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Supertension-Ending": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C7#4",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Surprise-Minor-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Surprise-Major-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Sus-Approach": {
+    "var 1": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "D",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gsus",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Sus-Cadence": {
+    "var 5": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7/G",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "CM7",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Tension-Cadence": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Cadence",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Suprise-Major-Tension-Cadence": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Cadence",
+      "key": "A",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "A",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Tension-Pullback": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "D",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Tension-SPOT": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "A",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "G",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "To-II-n-Back": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "D",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebm7b5",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "To-Somewhere": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Cadence": {
+    "surge": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "TonicOrDom",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F#o",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "To-IV-n-Bird-POT": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "FM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "POT",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "TTFA-Dropback": {
+    "minor chromatic descent": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-Chromatic-Walkdown",
+          "key": "D",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Twopenny-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Yardbird-Cadence",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Twopenny-Ending": {
+    "var 3": {
+      "mode": "Major",
+      "type": "Ending",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "II-n-Bird-SPOT",
+          "key": "Eb",
+          "duration": "12"
+        },
+        {
+          "type": "chord",
+          "name": "EbM7",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Upslide": {
+    "default": {
+      "mode": "Major",
+      "type": "Invisible",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dbdim",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dizzy/Straight-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "G",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "F",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "C7/Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "An-Approach",
+          "key": "F",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Nowhere-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Nowhere-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Nowhere-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Nowhere-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Nowhere-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Pullback": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Pullback",
+          "key": [
+            "basic"
+          ],
+          "duration": "C"
+        },
+        {
+          "type": "brick",
+          "name": "Pullback",
+          "key": [
+            "basic"
+          ],
+          "duration": "C"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Pullback-Extended": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Pullback",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Pullback+Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Pullback-Extended",
+          "key": "C",
+          "duration": "6"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Rainy-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Rainy-Turnaround",
+          "key": "Bb",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Rainy-Turnaround",
+          "key": "Bb",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Sad-Approach": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Sad-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Sad-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Starlight-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "G",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Starlight-Approach",
+          "key": "Eb",
+          "duration": "6"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Straight-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Straight-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Straight-Cadence-with-Overrun": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Straight-Cadence",
+          "key": "C",
+          "duration": "5"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Pullback": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Pullback",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Pullback",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Pullback-Extended": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Pullback",
+          "key": "C",
+          "duration": "6"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Pullback+Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Pullback-Extended",
+          "key": "C",
+          "duration": "6"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Sad-Approach": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Sad-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Sad-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Sad-Approach",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Straight-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Straight-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Straight-Approach",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Nowhere-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Nowhere-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Nowhere-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Nowhere-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Nowhere-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Four-Goes-Straight-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Two-Goes-Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Four-Goes-Straight-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Four-Goes-Straight-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Four-Goes-Sad-Approach": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Sad-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Two-Goes-Sad-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Four-Goes-Sad-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Four-Goes-Sad-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Cm",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Tritone-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Dizzy-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Dizzy-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Dizzy-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Dizzy-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Dizzy-Approach",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Three-Goes-Dizzy-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Dizzy-Approach",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Four-Goes-Dizzy-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Three-Goes-Dizzy-Approach",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Four-Goes-Dizzy-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Four-Goes-Dizzy-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Dominant-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Dominant-Cycle-2-Steps",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Dizzy-Straight-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Two-Goes-Dizzy-Straight-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Two-Goes-Dizzy-Straight-Approach",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Whoopee-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Upslide",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Whoopee-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dbdim",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "C",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "Wonderful-Opening": {
+    "default": {
+      "mode": "Major",
+      "type": "Opening",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Surge",
+          "key": "Bb",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Cadence",
+          "key": "Bb",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Yardbird-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Fm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Yardbird-Cadence": {
+    "var": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Yardbird-Sub-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "GenDom",
+          "key": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Yardbird-Sub-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "A",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Major-On": {
+    "default": {
+      "mode": "Major",
+      "type": "On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-On": {
+    "var 3": {
+      "mode": "Minor",
+      "type": "On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-V": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-bII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Db",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-Somewhere": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "D",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-bIII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-III": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "E",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-#IV": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F#",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-Nowhere": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Ab",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-VI": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "A",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-VII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "B",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-bII": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Db",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-Somewhere": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "D",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-bIII": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-III": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "E",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-IV": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-#IV": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F#",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-V": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "GenMinor",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-Nowhere": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Ab",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-VI": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "A",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-bVII": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Minor-VII": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "B",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-bII": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Db",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-Somewhere": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "D",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-bIII": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-III": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "E",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-#IV": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F#",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-Nowhere": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Ab",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-VI": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "A",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Bb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Major-VII": {
+    "default": {
+      "mode": "Major",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "B",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-bII": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Db",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-Somewhere": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "D",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-bIII": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-III": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "E",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-IV": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-#IV": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "F#",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-Nowhere": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Ab",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-VI": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "A",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-bVII": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "Bb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Off-On-Minor-VII": {
+    "default": {
+      "mode": "Minor",
+      "type": "Off-On",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Off",
+          "key": "B",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-To-V": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-On-To-IV-Major": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Amen-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-On-+Dropback-IV-Major": {
+    "default": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-On-To-IV-Major",
+          "key": "C",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "SuperGenDom",
+          "key": "D",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-On-To-IV-Minor": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Fm",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-On-To-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-On-To-IV-Major",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Amen-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-Thrice-To-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Major-IV",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Major-IV",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Major-IV",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-Thrice-On-To-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Twice-On-To-IV",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Amen-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-Four-Times-On-To-IV": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Thrice-On-To-IV",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Amen-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-On-To-V": {
+    "sus": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gsus",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-On-To-V": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-On-To-V",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-Thrice-On-To-V": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Twice-On-To-V",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-Four-Times-On-To-V": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Thrice-On-To-V",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "brick",
+          "name": "Perfect-Cadence",
+          "key": "C",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "On-Off-On-To-II": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-To-II": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-On-To-II": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-On-To-II",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Thrice-On-To-II": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Twice-On-To-II",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Four-Times-On-To-II": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Thrice-On-To-II",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-To-IV-Twice-Major-then-Minor": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Major-IV",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-IV",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Major-Minor-V": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Major-V",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-V",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-Minor-V": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-V",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-V",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Thrice-Minor-V": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Twice-Minor-V",
+          "key": "C",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-V",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-On-Minor-V": {
+    "default": {
+      "mode": "Minor",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-V",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "GenMinor",
+          "key": "C",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "On-Off-On-Twice-Minor-V": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Twice-Minor-V",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "GenMinor",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-On-To-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-On-To-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-On-To-bVII",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Thrice-On-To-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Twice-On-To-bVII",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Four-Times-On-To-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Thrice-On-To-bVII",
+          "key": "C",
+          "duration": "4"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-ii-iii": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "G",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "A",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "B",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-I-ii-iii-vi": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "GM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Am7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-to-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "MajorOrDom",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-Off-Twice-to-bVII": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-to-bVII",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "On-Off-to-bVII",
+          "key": "F",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Diatonic-Walk-Down": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Minor-ii-to-Minor-v": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-Somewhere",
+          "key": "D",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Off-On-Minor-VII",
+          "key": "A",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "G",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "To-IV-+-Bird-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "Bb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Bb",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Daahoud-Cadence": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Abm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "F7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "EM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "EbM7",
+          "duration": "4"
+        }
+      ]
+    }
+  },
+  "Rainy-Pullback-Extended": {
+    "default": {
+      "mode": "Dominant",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ebo",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Chromatic-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "*"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "*"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "*"
+        }
+      ]
+    }
+  },
+  "Major-Off-On": {
+    "iv-I": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Abm",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Major-Off-On-Off": {
+    "default": {
+      "mode": "Major",
+      "type": "On-Off+",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-Off-On",
+          "key": "Eb",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Fm7b5",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Diatonic-ii-I": {
+    "default": {
+      "mode": "Major",
+      "type": "Cadence",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Minor-On",
+          "key": "F",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Eb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Approach-from-iii": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Sad-Cadence",
+          "key": "G",
+          "duration": "3"
+        },
+        {
+          "type": "brick",
+          "name": "Nowhere-Approach",
+          "key": "F",
+          "duration": "3"
+        }
+      ]
+    }
+  },
+  "Major-On-+-Dropback": {
+    "default": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "C6",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7b5/Bb",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Descending-Minor-CESH-Approach": {
+    "default": {
+      "mode": "Minor",
+      "type": "Approach",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Gm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gm/F#",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gm7/F",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On-+-Dropback": {
+    "default": {
+      "mode": "Major",
+      "type": "Dropback",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Major-On",
+          "key": "Eb",
+          "duration": "1"
+        },
+        {
+          "type": "brick",
+          "name": "Gen7",
+          "key": "C",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Dizzy-Sub-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-+-Dropback",
+          "key": "Eb",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Dizzy-Approach",
+          "key": "Eb",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Somewhere-Turnaround": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Donna-Lee-Start",
+          "key": "F",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Straight-Approach",
+          "key": "F",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Giant-Step-Turnaround": {
+    "var 2": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "Giant-Step",
+          "key": "B",
+          "duration": "6"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7sus4",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "7sus4-to-3": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Bb7sus4",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Slow-POT": {
+    "default": {
+      "mode": "Minor",
+      "type": "Turnaround",
+      "key": "D",
+      "subBlocks": [
+        {
+          "type": "brick",
+          "name": "On-Off-Minor-VI",
+          "key": "D",
+          "duration": "2"
+        },
+        {
+          "type": "brick",
+          "name": "Sad-Approach",
+          "key": "D",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "Cadence+TTFA-Dropback": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Fm7",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "EbM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Ab7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Starlight-TTFA": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "Eb",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Am7b5",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "D7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Gm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "C7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Surprise-Cadence": {
+    "default": {
+      "mode": "Minor",
+      "type": "Cadence",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "Dm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "G7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Cm7/Bb",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "On+Nobody's-Approach": {
+    "default": {
+      "mode": "Major",
+      "type": "Approach",
+      "key": "G",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "GM7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "B7",
+          "duration": "1"
+        }
+      ]
+    }
+  },
+  "Turnaround-to-VI": {
+    "var": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "F",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F#m7b5",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "Fm7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Bb7",
+          "duration": "1"
+        },
+        {
+          "type": "chord",
+          "name": "Em7",
+          "duration": "2"
+        },
+        {
+          "type": "chord",
+          "name": "A7",
+          "duration": "2"
+        }
+      ]
+    }
+  },
+  "IV-to-II": {
+    "default": {
+      "mode": "Major",
+      "type": "Turnaround",
+      "key": "C",
+      "subBlocks": [
+        {
+          "type": "chord",
+          "name": "F",
+          "duration": "*"
+        },
+        {
+          "type": "brick",
+          "name": "Turnaround-to-VI",
+          "key": "F",
+          "duration": "*"
+        }
+      ]
+    }
+  }
+}
