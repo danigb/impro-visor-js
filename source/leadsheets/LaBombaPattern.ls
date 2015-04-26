@@ -1,4 +1,4 @@
-(title )
+(title La Bomba Pattern)
 (composer )
 (show )
 (year )
@@ -36,12 +36,12 @@
 )
 
 
-(section (style labomba)) 
+(section (style labomba))
 
-C F | G F | C F | G F | 
-C F | G F | C F | G F | 
-C F | G F | C F | G F | 
-C F | G F | C F | G F | 
+C F | G F | C F | G F |
+C F | G F | C F | G F |
+C F | G F | C F | G F |
+C F | G F | C F | G F |
 
 (part
     (type melody)

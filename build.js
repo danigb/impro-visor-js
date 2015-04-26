@@ -10,6 +10,7 @@ var directives = require('./lib/directives.js');
 var builder = require('./lib/builder.js');
 
 var indexer = require('./lib/metalsmith-index.js');
+var arrayToHash = require('./lib/array-to-hash.js');
 
 var noFile = function() {
   return {};
@@ -29,10 +30,20 @@ Metalsmith(__dirname)
     '**/My.themes': noFile
   }))
   .use(indexer({
-    "leadsheets.index.json": {
+    "leadsheets-index.json": {
       pattern: "**/*.ls.json",
       key: "title"
   }}))
+  .use(arrayToHash({
+    "scales.json": {
+      source: "vocab/My.voc.scales.json",
+      key: "name"
+    },
+    "chords.json": {
+      source: "vocab/My.voc.chords.json",
+      key: "name"
+    }
+  }))
   .build(function(err) {
     if (err) throw err;
     console.log("Done!!");
