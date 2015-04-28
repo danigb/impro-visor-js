@@ -12,6 +12,10 @@ output are in `./build`.
 To process the files I used metalsmith. If you want to
 do the conversion process: `node start`
 
+See also:
+  - http://www.cs.hmc.edu/~keller/jazz/improvisor/LeadsheetNotation.pdf
+  - http://www.cs.hmc.edu/~keller/jazz/improvisor/papers.html
+
 ### License
 
 The same license as impro-visor: GNU Public License 2.0
