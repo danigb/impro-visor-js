@@ -44,6 +44,21 @@ Metalsmith(__dirname)
       key: "name"
     }
   }))
+  .use(function(files, metalsmith, done) {
+    var obj = JSON.parse(files['chords.json'].contents.toString());
+    for(var name in obj) {
+      var chord = obj[name];
+      if(chord.voicings) {
+        chord.voicings = chord.voicings[0];
+      }
+      if(chord.scales) {
+        chord.scales = chord.scales[0];
+      }
+    }
+    var json = JSON.stringify(obj, null, 2);
+    files['chords.json'] = { contents: new Buffer(json) };
+    done();
+  })
   .build(function(err) {
     if (err) throw err;
     console.log("Done!!");

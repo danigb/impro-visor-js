@@ -55,13 +55,9 @@
     "approach": {
       "c8": "b8 c#8 d8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {}
-    ],
+    "scales": {},
     "avoid": "",
     "substitute": ""
   },
@@ -74,26 +70,22 @@
     "color": "",
     "priority": "c8",
     "approach": "",
-    "voicings": [
-      {
-        "all": [
-          {
-            "type": "closed",
-            "notes": "c8",
-            "extension": ""
-          },
-          {
-            "type": "open",
-            "notes": "c8",
-            "extension": ""
-          }
-        ]
-      }
-    ],
+    "voicings": {
+      "all": [
+        {
+          "type": "closed",
+          "notes": "c8",
+          "extension": ""
+        },
+        {
+          "type": "open",
+          "notes": "c8",
+          "extension": ""
+        }
+      ]
+    },
     "extensions": "",
-    "scales": [
-      {}
-    ],
+    "scales": {},
     "avoid": "",
     "substitute": ""
   },
@@ -110,65 +102,61 @@
       "e8": "eb8 f8",
       "g8": "f#8 g#8 a8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 c+8 e+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "e8 c+8 g+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g8 c+8 e+8",
-          "extension": ""
-        },
-        "open-C": {
-          "type": "open",
-          "notes": "g8 e+8 c++8",
-          "extension": ""
-        },
-        "open-D": {
-          "type": "open",
-          "notes": "c8 g8 e+8 c++8",
-          "extension": ""
-        },
-        "open-E": {
-          "type": "open",
-          "notes": "e-8 g-8 c8 e8 g8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 c+8 e+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "e8 c+8 g+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g8 c+8 e+8",
+        "extension": ""
+      },
+      "open-C": {
+        "type": "open",
+        "notes": "g8 e+8 c++8",
+        "extension": ""
+      },
+      "open-D": {
+        "type": "open",
+        "notes": "c8 g8 e+8 c++8",
+        "extension": ""
+      },
+      "open-E": {
+        "type": "open",
+        "notes": "e-8 g-8 c8 e8 g8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM6 CM7 CMadd9",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "bebop major",
-          "major pentatonic",
-          "ionian pentatonic",
-          "harmonic major",
-          "augmented",
-          "double harmonic major",
-          "double harmonic lydian",
-          "major blues"
-        ],
-        "G": "major pentatonic",
-        "E": "harmonic minor",
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "bebop major",
+        "major pentatonic",
+        "ionian pentatonic",
+        "harmonic major",
+        "augmented",
+        "double harmonic major",
+        "double harmonic lydian",
+        "major blues"
+      ],
+      "G": "major pentatonic",
+      "E": "harmonic minor",
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -186,70 +174,66 @@
       "g8": "f#8 g#8",
       "a8": "g#8 bb8"
     },
-    "voicings": [
-      {
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "a-8 c8 e8 g8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 a8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 c+8 e+8 a+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "e8 a8 c+8 g+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g8 e+8 a+8 c++8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "a--8 e-8 g-8 c8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "c-8 g-8 a-8 e8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "e-8 a-8 c8 g8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "g-8 c8 e8 a8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "a-8 c8 e8 g8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 a8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 c+8 e+8 a+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "e8 a8 c+8 g+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g8 e+8 a+8 c++8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "a--8 e-8 g-8 c8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "c-8 g-8 a-8 e8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "e-8 a-8 c8 g8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "g-8 c8 e8 a8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM69",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "bebop major",
-          "major pentatonic",
-          "major blues"
-        ],
-        "G": "major pentatonic",
-        "E": "harmonic minor",
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "bebop major",
+        "major pentatonic",
+        "major blues"
+      ],
+      "G": "major pentatonic",
+      "E": "harmonic minor",
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": "Am7"
   },
@@ -273,50 +257,46 @@
       "a8": "g#8 bb8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 a8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 d+8 e+8 a+8",
-          "extension": ""
-        },
-        "quartal": {
-          "type": "open",
-          "notes": "e8 a8 d+8 g+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 g8 a8 d+8",
-          "extension": "d++8 g++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "g8 d+8 e+8 a+8",
-          "extension": "d++8 g++8 d+++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 a8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 d+8 e+8 a+8",
+        "extension": ""
+      },
+      "quartal": {
+        "type": "open",
+        "notes": "e8 a8 d+8 g+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 g8 a8 d+8",
+        "extension": "d++8 g++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "g8 d+8 e+8 a+8",
+        "extension": "d++8 g++8 d+++8"
       }
-    ],
+    },
     "extensions": "CM69#11",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "bebop major",
-          "major pentatonic",
-          "major blues"
-        ],
-        "G": "major pentatonic",
-        "D": "major pentatonic",
-        "E": "in-sen"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "bebop major",
+        "major pentatonic",
+        "major blues"
+      ],
+      "G": "major pentatonic",
+      "D": "major pentatonic",
+      "E": "in-sen"
+    },
     "avoid": "",
     "substitute": "CM7 CM9 CM69#11"
   },
@@ -340,16 +320,12 @@
       "a8": "g#8 bb8",
       "f#8": "f8 g8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {
-        "C": "lydian",
-        "G": "major"
-      }
-    ],
+    "scales": {
+      "C": "lydian",
+      "G": "major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -384,49 +360,45 @@
       "d8": "c#8 eb8",
       "f#8": "f8 g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 d+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "a8 d+8 e+8 f#+8 a+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "e8 g8 d+8 f#+8 a+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 a8 d+8 f#+8",
-          "extension": "d++8 g++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "a8 d+8 e+8 f#+8 a+8",
-          "extension": "d++8 g++8 d+++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 d+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "a8 d+8 e+8 f#+8 a+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "e8 g8 d+8 f#+8 a+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 a8 d+8 f#+8",
+        "extension": "d++8 g++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "a8 d+8 e+8 f#+8 a+8",
+        "extension": "d++8 g++8 d+++8"
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "lydian",
-          "major pentatonic"
-        ],
-        "G": [
-          "major",
-          "major pentatonic"
-        ],
-        "D": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian",
+        "major pentatonic"
+      ],
+      "G": [
+        "major",
+        "major pentatonic"
+      ],
+      "D": "major pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -444,41 +416,37 @@
       "g8": "f#8 g#8 a8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "d8 e8 g8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 d+8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "e8 c+8 g+8 d++8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 c+8 d+8 g+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "d8 e8 g8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 d+8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "e8 c+8 g+8 d++8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 c+8 d+8 g+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM69",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "major pentatonic",
-          "major blues"
-        ],
-        "G": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "major pentatonic",
+        "major blues"
+      ],
+      "G": "major pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -505,36 +473,32 @@
       "g8": "f#8 g#8 a8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "d8 g8 c+8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "g8 c+8 d+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 c++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "d8 g8 c+8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "g8 c+8 d+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 c++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CMadd9",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "major pentatonic",
-          "major blues"
-        ],
-        "G": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "major pentatonic",
+        "major blues"
+      ],
+      "G": "major pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -572,31 +536,27 @@
       "d8": "c#8 eb8",
       "f8": "e8 f#8"
     },
-    "voicings": [
-      {
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "d8 f8 g8 c+8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "g8 c+8 d+8 f+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 c++8 f++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "d8 f8 g8 c+8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "g8 c+8 d+8 f+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 c++8 f++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "major"
-      }
-    ],
+    "scales": {
+      "C": "major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -619,60 +579,56 @@
       "g8": "f#8 g#8",
       "b8": "bb8 c8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 e+8 g+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "g8 b8 e+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 e+8 b+8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "b8 g+8 e++8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "e-8 b-8 g8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 e+8 g+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "g8 b8 e+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 e+8 b+8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "b8 g+8 e++8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "e-8 b-8 g8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9 CM7#11 CM7add13",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "bebop major",
-          "major pentatonic",
-          "ionian pentatonic",
-          "major blues"
-        ],
-        "G": "major pentatonic",
-        "E": [
-          "harmonic minor",
-          "minor bebop",
-          "bebop minor"
-        ],
-        "B": "augmented"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "bebop major",
+        "major pentatonic",
+        "ionian pentatonic",
+        "major blues"
+      ],
+      "G": "major pentatonic",
+      "E": [
+        "harmonic minor",
+        "minor bebop",
+        "bebop minor"
+      ],
+      "B": "augmented"
+    },
     "avoid": "c8",
     "substitute": "CM69 Em7 Am9"
   },
@@ -702,113 +658,109 @@
       "d8": "c#8 eb8",
       "b8": "bb8 c8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 b8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 d+8 e+8 g+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "g8 b8 d+8 e+8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "b-8 e8 g8 d+8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "g-8 d8 e8 b8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "e-8 b-8 d8 g8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "d8 g8 b8 e+8",
-          "extension": ""
-        },
-        "drop-3-A": {
-          "type": "open",
-          "notes": "g-8 e8 b8 d+8",
-          "extension": ""
-        },
-        "drop-3-B": {
-          "type": "open",
-          "notes": "e-8 d8 g8 b8",
-          "extension": ""
-        },
-        "drop-3-C": {
-          "type": "open",
-          "notes": "b-8 g8 d+8 e+8",
-          "extension": ""
-        },
-        "drop-2-3-A": {
-          "type": "open",
-          "notes": "g-8 b-8 e8 d+8",
-          "extension": ""
-        },
-        "drop-2-3-B": {
-          "type": "open",
-          "notes": "e-8 g-8 d+8 b+8",
-          "extension": ""
-        },
-        "drop-2-3-C": {
-          "type": "open",
-          "notes": "d-8 e-8 b-8 g8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 b+8 e++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "b8 e+8 g+8 d++8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "e-8 b-8 d8 g8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 g8 b8 d+8",
-          "extension": "g++8 d+++8 g+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "b8 e+8 g+8",
-          "extension": "g++8 d+++8 g+++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 b8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 d+8 e+8 g+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "g8 b8 d+8 e+8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "b-8 e8 g8 d+8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "g-8 d8 e8 b8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "e-8 b-8 d8 g8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "d8 g8 b8 e+8",
+        "extension": ""
+      },
+      "drop-3-A": {
+        "type": "open",
+        "notes": "g-8 e8 b8 d+8",
+        "extension": ""
+      },
+      "drop-3-B": {
+        "type": "open",
+        "notes": "e-8 d8 g8 b8",
+        "extension": ""
+      },
+      "drop-3-C": {
+        "type": "open",
+        "notes": "b-8 g8 d+8 e+8",
+        "extension": ""
+      },
+      "drop-2-3-A": {
+        "type": "open",
+        "notes": "g-8 b-8 e8 d+8",
+        "extension": ""
+      },
+      "drop-2-3-B": {
+        "type": "open",
+        "notes": "e-8 g-8 d+8 b+8",
+        "extension": ""
+      },
+      "drop-2-3-C": {
+        "type": "open",
+        "notes": "d-8 e-8 b-8 g8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 b+8 e++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "b8 e+8 g+8 d++8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "e-8 b-8 d8 g8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 g8 b8 d+8",
+        "extension": "g++8 d+++8 g+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "b8 e+8 g+8",
+        "extension": "g++8 d+++8 g+++8"
       }
-    ],
+    },
     "extensions": "CM9#11 CM13",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "bebop major",
-          "major pentatonic",
-          "major blues"
-        ],
-        "G": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "bebop major",
+        "major pentatonic",
+        "major blues"
+      ],
+      "G": "major pentatonic"
+    },
     "avoid": "c8",
     "substitute": "CM69 Em7 Am11"
   },
@@ -836,60 +788,56 @@
       "g8": "g#8",
       "f#8": "f8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 f#8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 e+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "g8 b8 e+8 f#+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 e+8 b+8 f#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "g8 f#+8 b+8 e++8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "e-8 g-8 b-8 e8 f#8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 f#8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 e+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "g8 b8 e+8 f#+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 e+8 b+8 f#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "g8 f#+8 b+8 e++8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "e-8 g-8 b-8 e8 f#8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9#11",
-    "scales": [
-      {
-        "C": [
-          "lydian",
-          "lydian pentatonic",
-          "major pentatonic"
-        ],
-        "G": "major pentatonic",
-        "D": [
-          "major pentatonic",
-          "mixolydian"
-        ],
-        "A": [
-          "minor six pentatonic",
-          "flat three pentatonic"
-        ],
-        "E": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian",
+        "lydian pentatonic",
+        "major pentatonic"
+      ],
+      "G": "major pentatonic",
+      "D": [
+        "major pentatonic",
+        "mixolydian"
+      ],
+      "A": [
+        "minor six pentatonic",
+        "flat three pentatonic"
+      ],
+      "E": "flat six pentatonic"
+    },
     "avoid": "c8 g8",
     "substitute": "CM69#11"
   },
@@ -918,50 +866,46 @@
       "d8": "c#8 eb8",
       "f#8": "g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 f#8 b8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 d+8 e+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "g8 b8 d+8 e+8 f#8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 e+8 b+8 f#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "g8 d+8 f#+8 b+8 e++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 f#8 b8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 d+8 e+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "g8 b8 d+8 e+8 f#8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 e+8 b+8 f#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "g8 d+8 f#+8 b+8 e++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM13#11",
-    "scales": [
-      {
-        "C": [
-          "lydian",
-          "lydian pentatonic",
-          "major pentatonic"
-        ],
-        "G": "major pentatonic",
-        "D": [
-          "major pentatonic",
-          "mixolydian"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian",
+        "lydian pentatonic",
+        "major pentatonic"
+      ],
+      "G": "major pentatonic",
+      "D": [
+        "major pentatonic",
+        "mixolydian"
+      ]
+    },
     "avoid": "c8 g8",
     "substitute": "CM69#11"
   },
@@ -991,56 +935,52 @@
       "d8": "c#8 eb8",
       "b8": "bb8 c8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 b8 d+8 a+8 g++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "b8 d+8 a+8 e++8 g++8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "e8 g8 b8 d+8 a+8",
-          "extension": ""
-        },
-        "quartal-A": {
-          "type": "open",
-          "notes": "b-8 e8 a8 d+8 g+8",
-          "extension": ""
-        },
-        "so-what": {
-          "type": "open",
-          "notes": "e8 a8 d+8 g+8 b+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 b8 d+8 a+8",
-          "extension": "d++8 g++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "b8 d+8 a+8 e++8",
-          "extension": "d++8 g++8 d+++8"
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 b8 d+8 a+8 g++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "b8 d+8 a+8 e++8 g++8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "e8 g8 b8 d+8 a+8",
+        "extension": ""
+      },
+      "quartal-A": {
+        "type": "open",
+        "notes": "b-8 e8 a8 d+8 g+8",
+        "extension": ""
+      },
+      "so-what": {
+        "type": "open",
+        "notes": "e8 a8 d+8 g+8 b+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 b8 d+8 a+8",
+        "extension": "d++8 g++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "b8 d+8 a+8 e++8",
+        "extension": "d++8 g++8 d+++8"
       }
-    ],
+    },
     "extensions": "CM13#11",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "major pentatonic"
-        ],
-        "G": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "major pentatonic"
+      ],
+      "G": "major pentatonic"
+    },
     "avoid": "c8",
     "substitute": "CM69#11"
   },
@@ -1070,41 +1010,37 @@
       "d8": "c#8 eb8",
       "b8": "bb8 c8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e-8 g-8 b-8 a8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "g-8 b-8 e8 a8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 e+8 a+8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e-8 g-8 b-8 a8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "g-8 b-8 e8 a8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 e+8 a+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM13#11",
-    "scales": [
-      {
-        "C": [
-          "major",
-          "lydian",
-          "major pentatonic"
-        ],
-        "G": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "major",
+        "lydian",
+        "major pentatonic"
+      ],
+      "G": "major pentatonic"
+    },
     "avoid": "c8",
     "substitute": ""
   },
@@ -1124,60 +1060,56 @@
       "d8": "c#8 eb8",
       "b8": "bb8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 b8 d+8 a+8 f#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "e-8 b-8 d8 f#8 a8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "e-8 a-8 b-8 d8 f#8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 b8 d+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "e8 b8 d+8 f#+8 a+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 a8 b8 d+8 f#+8",
-          "extension": "d++8 g++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "b8 d+8 e+8 f#+8 a+8",
-          "extension": "d++8 g++8 d+++8"
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 b8 d+8 a+8 f#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "e-8 b-8 d8 f#8 a8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "e-8 a-8 b-8 d8 f#8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 b8 d+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "e8 b8 d+8 f#+8 a+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 a8 b8 d+8 f#+8",
+        "extension": "d++8 g++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "b8 d+8 e+8 f#+8 a+8",
+        "extension": "d++8 g++8 d+++8"
       }
-    ],
+    },
     "extensions": "CM13#11",
-    "scales": [
-      {
-        "C": [
-          "lydian",
-          "lydian pentatonic",
-          "major pentatonic"
-        ],
-        "G": "major pentatonic",
-        "D": [
-          "major pentatonic",
-          "mixolydian"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian",
+        "lydian pentatonic",
+        "major pentatonic"
+      ],
+      "G": "major pentatonic",
+      "D": [
+        "major pentatonic",
+        "mixolydian"
+      ]
+    },
     "avoid": "c8 g8",
     "substitute": ""
   },
@@ -1207,55 +1139,51 @@
       "d8": "c#8 eb8",
       "f#8": "f8"
     },
-    "voicings": [
-      {
-        "two-hand-B": {
-          "type": "open",
-          "notes": "e-8 b-8 d8 a8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 d+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "e8 d+8 f#+8 a+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 d+8 a+8 f#++8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 a8 d+8 f#+8",
-          "extension": "d++8 g++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "d+8 e+8 f#+8 a+8",
-          "extension": "d++8 g++8 d+++8"
-        }
+    "voicings": {
+      "two-hand-B": {
+        "type": "open",
+        "notes": "e-8 b-8 d8 a8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 d+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "e8 d+8 f#+8 a+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 d+8 a+8 f#++8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 a8 d+8 f#+8",
+        "extension": "d++8 g++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "d+8 e+8 f#+8 a+8",
+        "extension": "d++8 g++8 d+++8"
       }
-    ],
+    },
     "extensions": "CM13#11",
-    "scales": [
-      {
-        "C": [
-          "lydian",
-          "lydian pentatonic",
-          "major pentatonic"
-        ],
-        "G": "major pentatonic",
-        "D": [
-          "major pentatonic",
-          "mixolydian"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian",
+        "lydian pentatonic",
+        "major pentatonic"
+      ],
+      "G": "major pentatonic",
+      "D": [
+        "major pentatonic",
+        "mixolydian"
+      ]
+    },
     "avoid": "c8 g8",
     "substitute": ""
   },
@@ -1272,31 +1200,27 @@
       "e8": "eb8 f8",
       "gb8": "f8 g8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e-8 c8 f#8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f#8 c+8 e+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "e-8 f#-8 c8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e-8 c8 f#8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f#8 c+8 e+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "e-8 f#-8 c8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM7b5",
-    "scales": [
-      {
-        "C": "lydian"
-      }
-    ],
+    "scales": {
+      "C": "lydian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1313,27 +1237,23 @@
       "e8": "eb8 f8",
       "gb8": "f8 g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 b8 gb+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "gb8 e+8 b+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 b8 gb+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "gb8 e+8 b+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9b5",
-    "scales": [
-      {
-        "C": "lydian",
-        "Gb": "locrian pentatonic"
-      }
-    ],
+    "scales": {
+      "C": "lydian",
+      "Gb": "locrian pentatonic"
+    },
     "avoid": "c8",
     "substitute": ""
   },
@@ -1350,26 +1270,22 @@
       "e8": "eb8 f8",
       "gb8": "f8 g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 b8 d+8 gb+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 d+8 e+8 gb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 b8 d+8 gb+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 d+8 e+8 gb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "lydian"
-      }
-    ],
+    "scales": {
+      "C": "lydian"
+    },
     "avoid": "c8",
     "substitute": ""
   },
@@ -1388,39 +1304,35 @@
       "d#8": "d8 e8",
       "f#8": "g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 f#8 b8 d#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 d#+8 e+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "g8 b8 d#+8 e+8 f#8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d#+8 e+8 b+8 f#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "g8 d#+8 f#+8 b+8 e++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 f#8 b8 d#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 d#+8 e+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "g8 b8 d#+8 e+8 f#8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d#+8 e+8 b+8 f#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "g8 d#+8 f#+8 b+8 e++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {}
-    ],
+    "scales": {},
     "avoid": "",
     "substitute": ""
   },
@@ -1437,32 +1349,28 @@
       "f8": "f#8",
       "g8": "f#8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "c-8 f-8 g-8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 c+8 f+8",
-          "extension": ""
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "c-8 f-8 g-8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 c+8 f+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7sus4",
-    "scales": [
-      {
-        "F": "major pentatonic",
-        "C": "minor six pentatonic"
-      }
-    ],
+    "scales": {
+      "F": "major pentatonic",
+      "C": "minor six pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1485,26 +1393,22 @@
       "g8": "f#8",
       "ab8": "a8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 e+8 ab+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 e+8 ab+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": "harmonic major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1522,24 +1426,20 @@
       "bb8": "a8 b8",
       "eb8": "db8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 bb8 eb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 bb8 eb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7sus4",
-    "scales": [
-      {
-        "C": [
-          "aeolian",
-          "mixolydian"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "aeolian",
+        "mixolydian"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1582,25 +1482,21 @@
       "bb8": "a8 b8",
       "d8": "eb8 c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 bb8 d+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 bb8 d+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9 C7b9 C7#5#9",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "whole tone"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "whole tone"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": "Gb7 Dbo7"
   },
@@ -1617,49 +1513,45 @@
       "e8": "eb8 f8",
       "g#8": "g8 a8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g#8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g#8 c+8 e+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "e8 c+8 g#+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g#8 e+8 c++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g#8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g#8 c+8 e+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "e8 c+8 g#+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g#8 e+8 c++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM7#5",
-    "scales": [
-      {
-        "C": [
-          "lydian augmented",
-          "augmented",
-          "lydian augmented"
-        ],
-        "E": [
-          "harmonic major",
-          "flat six pentatonic"
-        ],
-        "B": "minor six pentatonic",
-        "A": [
-          "minor #7 pentatonic",
-          "flat three pentatonic"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian augmented",
+        "augmented",
+        "lydian augmented"
+      ],
+      "E": [
+        "harmonic major",
+        "flat six pentatonic"
+      ],
+      "B": "minor six pentatonic",
+      "A": [
+        "minor #7 pentatonic",
+        "flat three pentatonic"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1687,43 +1579,39 @@
       "g#8": "g8 a8",
       "b8": "c8 bb8"
     },
-    "voicings": [
-      {
-        "closed-1": {
-          "type": "closed",
-          "notes": "e8 g#8 b8",
-          "extension": ""
-        },
-        "open-1": {
-          "type": "open",
-          "notes": "e8 b8 g#+8",
-          "extension": ""
-        },
-        "open-2": {
-          "type": "open",
-          "notes": "b8 e+8 g#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "closed-1": {
+        "type": "closed",
+        "notes": "e8 g#8 b8",
+        "extension": ""
+      },
+      "open-1": {
+        "type": "open",
+        "notes": "e8 b8 g#+8",
+        "extension": ""
+      },
+      "open-2": {
+        "type": "open",
+        "notes": "b8 e+8 g#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9#5",
-    "scales": [
-      {
-        "C": [
-          "lydian augmented",
-          "augmented"
-        ],
-        "E": [
-          "harmonic major",
-          "flat six pentatonic"
-        ],
-        "B": "minor six pentatonic",
-        "A": [
-          "minor #7 pentatonic",
-          "flat three pentatonic"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian augmented",
+        "augmented"
+      ],
+      "E": [
+        "harmonic major",
+        "flat six pentatonic"
+      ],
+      "B": "minor six pentatonic",
+      "A": [
+        "minor #7 pentatonic",
+        "flat three pentatonic"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1752,41 +1640,37 @@
       "g#8": "g8 a8",
       "b8": "c8 bb8"
     },
-    "voicings": [
-      {
-        "closed-1": {
-          "type": "closed",
-          "notes": "e8 g#8 b8 d+8",
-          "extension": ""
-        },
-        "closed-2": {
-          "type": "closed",
-          "notes": "b8 d+8 e+8 g#+8",
-          "extension": ""
-        },
-        "open-1": {
-          "type": "open",
-          "notes": "e8 b8 d+8 g#+8",
-          "extension": ""
-        },
-        "open-2": {
-          "type": "open",
-          "notes": "b8 e+8 g#+8 d++8",
-          "extension": ""
-        }
+    "voicings": {
+      "closed-1": {
+        "type": "closed",
+        "notes": "e8 g#8 b8 d+8",
+        "extension": ""
+      },
+      "closed-2": {
+        "type": "closed",
+        "notes": "b8 d+8 e+8 g#+8",
+        "extension": ""
+      },
+      "open-1": {
+        "type": "open",
+        "notes": "e8 b8 d+8 g#+8",
+        "extension": ""
+      },
+      "open-2": {
+        "type": "open",
+        "notes": "b8 e+8 g#+8 d++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "lydian augmented",
-          "augmented"
-        ],
-        "B": "minor six pentatonic",
-        "E": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian augmented",
+        "augmented"
+      ],
+      "B": "minor six pentatonic",
+      "E": "flat six pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1814,41 +1698,37 @@
       "g#8": "g8 a8",
       "d8": "eb8 c#8"
     },
-    "voicings": [
-      {
-        "closed-1": {
-          "type": "closed",
-          "notes": "e8 g#8 d+8",
-          "extension": ""
-        },
-        "closed-2": {
-          "type": "closed",
-          "notes": "d8 e8 g#8",
-          "extension": ""
-        },
-        "open-1": {
-          "type": "open",
-          "notes": "e8 d+8 g#+8",
-          "extension": ""
-        },
-        "open-2": {
-          "type": "open",
-          "notes": "e8 g#8 d+8",
-          "extension": ""
-        }
+    "voicings": {
+      "closed-1": {
+        "type": "closed",
+        "notes": "e8 g#8 d+8",
+        "extension": ""
+      },
+      "closed-2": {
+        "type": "closed",
+        "notes": "d8 e8 g#8",
+        "extension": ""
+      },
+      "open-1": {
+        "type": "open",
+        "notes": "e8 d+8 g#+8",
+        "extension": ""
+      },
+      "open-2": {
+        "type": "open",
+        "notes": "e8 g#8 d+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9#5",
-    "scales": [
-      {
-        "C": [
-          "lydian augmented",
-          "augmented"
-        ],
-        "B": "minor six pentatonic",
-        "E": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian augmented",
+        "augmented"
+      ],
+      "B": "minor six pentatonic",
+      "E": "flat six pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1866,26 +1746,22 @@
       "g8": "g#8 f#8 a8",
       "b8": "c8 bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g8 b8",
-          "extension": ""
-        },
-        "open-1": {
-          "type": "open",
-          "notes": "g8 b8 f+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g8 b8",
+        "extension": ""
+      },
+      "open-1": {
+        "type": "open",
+        "notes": "g8 b8 f+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9sus4",
-    "scales": [
-      {
-        "C": "major"
-      }
-    ],
+    "scales": {
+      "C": "major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1904,26 +1780,22 @@
       "d8": "c#8 eb8",
       "b8": "c8 bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g8 b8 d+8",
-          "extension": ""
-        },
-        "open-1": {
-          "type": "open",
-          "notes": "g8 d+8 f+8 b8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g8 b8 d+8",
+        "extension": ""
+      },
+      "open-1": {
+        "type": "open",
+        "notes": "g8 d+8 f+8 b8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9sus4",
-    "scales": [
-      {
-        "C": "major"
-      }
-    ],
+    "scales": {
+      "C": "major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1941,26 +1813,22 @@
       "g#8": "g8 a8",
       "b8": "c8 bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g#8 b8 d+8",
-          "extension": ""
-        },
-        "open-1": {
-          "type": "open",
-          "notes": "g#8 d+8 f+8 b8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g#8 b8 d+8",
+        "extension": ""
+      },
+      "open-1": {
+        "type": "open",
+        "notes": "g#8 d+8 f+8 b8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "CM9#5",
-    "scales": [
-      {
-        "C": "diminished"
-      }
-    ],
+    "scales": {
+      "C": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -1979,31 +1847,27 @@
       "g#8": "g8 a8",
       "b8": "c8 bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g#8 b8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 d+8 f+8 g#+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "g#8 d+8 f+8 b+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g#8 b8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 d+8 f+8 g#+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "g#8 d+8 f+8 b+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "diminished"
-      }
-    ],
+    "scales": {
+      "C": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2041,31 +1905,27 @@
       "g#8": "g8 a8",
       "d#8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g#8 d#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "d#+8 e+8 g#+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "e8 g#8 d#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g#8 d#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "d#+8 e+8 g#+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "e8 g#8 d#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "augmented"
-      }
-    ],
+    "scales": {
+      "C": "augmented"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2084,26 +1944,22 @@
       "b8": "c8 bb8",
       "db8": "c8 d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 b8 db+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 db+8 e+8 g+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 b8 db+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 db+8 e+8 g+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "lydian augmented"
-      }
-    ],
+    "scales": {
+      "C": "lydian augmented"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2120,26 +1976,22 @@
       "e8": "eb8 f8",
       "ab8": "g8 a8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 c8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 e+8 ab+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 c8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 e+8 ab+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": "harmonic major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2156,59 +2008,55 @@
       "eb8": "d8 e8 f8",
       "g8": "f#8 g#8 a8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 c+8 eb+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 c+8 g+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g8 eb+8 c++8",
-          "extension": ""
-        },
-        "open-C": {
-          "type": "open",
-          "notes": "eb-8 c8 g8",
-          "extension": ""
-        },
-        "open-D": {
-          "type": "open",
-          "notes": "c-8 g-8 eb8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 c+8 eb+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 c+8 g+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g8 eb+8 c++8",
+        "extension": ""
+      },
+      "open-C": {
+        "type": "open",
+        "notes": "eb-8 c8 g8",
+        "extension": ""
+      },
+      "open-D": {
+        "type": "open",
+        "notes": "c-8 g-8 eb8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm6 Cm7 Cmadd9",
-    "scales": [
-      {
-        "C": [
-          "dorian",
-          "aeolian",
-          "melodic minor",
-          "harmonic minor",
-          "minor pentatonic",
-          "minor six diminished",
-          "bebop minor",
-          "minor bebop",
-          "phrygian",
-          "kumoi"
-        ],
-        "A": "ionian pentatonic",
-        "G": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": [
+        "dorian",
+        "aeolian",
+        "melodic minor",
+        "harmonic minor",
+        "minor pentatonic",
+        "minor six diminished",
+        "bebop minor",
+        "minor bebop",
+        "phrygian",
+        "kumoi"
+      ],
+      "A": "ionian pentatonic",
+      "G": "harmonic major"
+    },
     "avoid": "",
     "substitute": "Co F9 AbM7"
   },
@@ -2226,77 +2074,73 @@
       "g8": "f#8 g#8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "open",
-          "notes": "d#-8 g-8 a#-8 c8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "open",
-          "notes": "a#-8 c8 d#8 g8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "open",
-          "notes": "g-8 a#-8 d#8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 c+8 eb+8 bb+8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "eb8 bb8 c+8 g+8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "a#-8 c8 d#8 g8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "bb--8 eb-8 g-8 c8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "eb-8 bb-8 c8 g8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "open",
+        "notes": "d#-8 g-8 a#-8 c8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "open",
+        "notes": "a#-8 c8 d#8 g8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "open",
+        "notes": "g-8 a#-8 d#8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 c+8 eb+8 bb+8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "eb8 bb8 c+8 g+8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "a#-8 c8 d#8 g8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "bb--8 eb-8 g-8 c8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "eb-8 bb-8 c8 g8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm9 Cm11 Cm13",
-    "scales": [
-      {
-        "C": [
-          "dorian",
-          "minor pentatonic",
-          "flat three pentatonic",
-          "aeolian",
-          "phrygian",
-          "bebop minor",
-          "minor bebop"
-        ],
-        "F": [
-          "mixolydian",
-          "major pentatonic"
-        ],
-        "Bb": [
-          "major",
-          "major pentatonic",
-          "melodic minor"
-        ],
-        "D": "augmented",
-        "Eb": "major pentatonic",
-        "G": "harmonic minor",
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "dorian",
+        "minor pentatonic",
+        "flat three pentatonic",
+        "aeolian",
+        "phrygian",
+        "bebop minor",
+        "minor bebop"
+      ],
+      "F": [
+        "mixolydian",
+        "major pentatonic"
+      ],
+      "Bb": [
+        "major",
+        "major pentatonic",
+        "melodic minor"
+      ],
+      "D": "augmented",
+      "Eb": "major pentatonic",
+      "G": "harmonic minor",
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": "Am7b5 EbM Cm7b5 AbM9"
   },
@@ -2314,63 +2158,59 @@
       "g8": "f#8 g#8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "a8 eb+8 c++8 g++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "a--8 eb-8 g-8 c8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb-8 g-8 a-8 c8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "a--8 c-8 eb8 g-8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "a--8 eb-8 g-8 c8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "c-8 g-8 a-8 eb8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "eb-8 a-8 c8 g8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "g-8 c8 eb8 a8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "a8 eb+8 c++8 g++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "a--8 eb-8 g-8 c8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb-8 g-8 a-8 c8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "a--8 c-8 eb8 g-8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "a--8 eb-8 g-8 c8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "c-8 g-8 a-8 eb8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "eb-8 a-8 c8 g8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "g-8 c8 eb8 a8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm69",
-    "scales": [
-      {
-        "C": [
-          "melodic minor",
-          "minor six diminished",
-          "bebop minor",
-          "minor six pentatonic",
-          "kumoi"
-        ],
-        "A": "locrian pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "melodic minor",
+        "minor six diminished",
+        "bebop minor",
+        "minor six pentatonic",
+        "kumoi"
+      ],
+      "A": "locrian pentatonic"
+    },
     "avoid": "",
     "substitute": "Am7b5 CmM7"
   },
@@ -2389,42 +2229,38 @@
       "a8": "g#8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 a8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "a8 d+8 eb+8 g+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "a8 eb+8 d++8 g++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "eb8 a8 d+8 g+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 a8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "a8 d+8 eb+8 g+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "a8 eb+8 d++8 g++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "eb8 a8 d+8 g+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "melodic minor",
-          "bebop minor",
-          "minor six diminished",
-          "kumoi"
-        ],
-        "G": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": [
+        "melodic minor",
+        "bebop minor",
+        "minor six diminished",
+        "kumoi"
+      ],
+      "G": "harmonic major"
+    },
     "avoid": "",
     "substitute": "Am7b5 CmM7"
   },
@@ -2442,37 +2278,33 @@
       "g8": "f#8 g#8 a8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "d8 eb8 g8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "eb+8 d++8 g++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "d8 eb8 g8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "eb+8 d++8 g++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm69",
-    "scales": [
-      {
-        "C": [
-          "dorian",
-          "melodic minor",
-          "aeolian",
-          "bebop minor"
-        ],
-        "G": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": [
+        "dorian",
+        "melodic minor",
+        "aeolian",
+        "bebop minor"
+      ],
+      "G": "harmonic major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2490,31 +2322,27 @@
       "g8": "f#8 g#8 a8",
       "f8": "f#8 e8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 f+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "eb8 f8 g8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "eb+8 f8 d++8 g++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 f+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "eb8 f8 g8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "eb+8 f8 d++8 g++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "dorian"
-      }
-    ],
+    "scales": {
+      "C": "dorian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2532,40 +2360,36 @@
       "g8": "f#8 g#8",
       "b8": "bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 eb+8 g+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 eb+8 g+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "melodic minor",
-          "harmonic minor",
-          "minor six diminished",
-          "augmented",
-          "minor hexatonic",
-          "flat three pentatonic",
-          "minor #7 pentatonic"
-        ],
-        "F": "major pentatonic",
-        "G": [
-          "harmonic major",
-          "flat six pentatonic"
-        ],
-        "B": "whole tone pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "melodic minor",
+        "harmonic minor",
+        "minor six diminished",
+        "augmented",
+        "minor hexatonic",
+        "flat three pentatonic",
+        "minor #7 pentatonic"
+      ],
+      "F": "major pentatonic",
+      "G": [
+        "harmonic major",
+        "flat six pentatonic"
+      ],
+      "B": "whole tone pentatonic"
+    },
     "avoid": "",
     "substitute": "Cm69"
   },
@@ -2589,34 +2413,30 @@
       "b8": "bb8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 b8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b+8 d+8 eb+8 g+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 b8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b+8 d+8 eb+8 g+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "melodic minor",
-          "harmonic minor",
-          "minor six diminished",
-          "bebop minor",
-          "minor #7 pentatonic"
-        ],
-        "G": "harmonic major",
-        "F": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "melodic minor",
+        "harmonic minor",
+        "minor six diminished",
+        "bebop minor",
+        "minor #7 pentatonic"
+      ],
+      "G": "harmonic major",
+      "F": "major pentatonic"
+    },
     "avoid": "",
     "substitute": "Cm69"
   },
@@ -2640,29 +2460,25 @@
       "ab8": "a8",
       "b8": "bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 ab8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 eb+8 ab+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 ab8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 eb+8 ab+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "harmonic minor",
-          "minor six diminished"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "harmonic minor",
+        "minor six diminished"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2686,29 +2502,25 @@
       "ab8": "a8",
       "b8": "bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 ab8 b8 d8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "b8 d8 eb+8 ab+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 ab8 b8 d8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "b8 d8 eb+8 ab+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "harmonic minor",
-          "minor six diminished"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "harmonic minor",
+        "minor six diminished"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2732,111 +2544,107 @@
       "bb8": "a8 b8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 eb+8 g+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 bb+8 eb++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "eb8 bb8 d+8 g+8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "bb-8 eb8 g8 d+8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "g8 d+8 eb+8 bb+8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "eb8 bb8 d+8 g+8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "d8 g8 bb8 eb+8",
-          "extension": ""
-        },
-        "drop-3-A": {
-          "type": "open",
-          "notes": "g-8 eb8 bb8 d+8",
-          "extension": ""
-        },
-        "drop-3-B": {
-          "type": "open",
-          "notes": "eb-8 d8 g8 bb8",
-          "extension": ""
-        },
-        "drop-3-C": {
-          "type": "open",
-          "notes": "bb-8 g8 d+8 eb+8",
-          "extension": ""
-        },
-        "drop-2-3-A": {
-          "type": "open",
-          "notes": "g-8 bb-8 eb8 d+8",
-          "extension": ""
-        },
-        "drop-2-3-B": {
-          "type": "open",
-          "notes": "eb-8 g-8 d8 bb8",
-          "extension": ""
-        },
-        "drop-2-3-C": {
-          "type": "open",
-          "notes": "d8 eb8 bb8 g+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "eb8 g8 bb8 d+8",
-          "extension": "g++8 d+++8 g+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "bb8 d+8 eb+8 g+8",
-          "extension": "g++8 d+++8 g+++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 eb+8 g+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 bb+8 eb++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "eb8 bb8 d+8 g+8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "bb-8 eb8 g8 d+8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "g8 d+8 eb+8 bb+8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "eb8 bb8 d+8 g+8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "d8 g8 bb8 eb+8",
+        "extension": ""
+      },
+      "drop-3-A": {
+        "type": "open",
+        "notes": "g-8 eb8 bb8 d+8",
+        "extension": ""
+      },
+      "drop-3-B": {
+        "type": "open",
+        "notes": "eb-8 d8 g8 bb8",
+        "extension": ""
+      },
+      "drop-3-C": {
+        "type": "open",
+        "notes": "bb-8 g8 d+8 eb+8",
+        "extension": ""
+      },
+      "drop-2-3-A": {
+        "type": "open",
+        "notes": "g-8 bb-8 eb8 d+8",
+        "extension": ""
+      },
+      "drop-2-3-B": {
+        "type": "open",
+        "notes": "eb-8 g-8 d8 bb8",
+        "extension": ""
+      },
+      "drop-2-3-C": {
+        "type": "open",
+        "notes": "d8 eb8 bb8 g+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "eb8 g8 bb8 d+8",
+        "extension": "g++8 d+++8 g+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "bb8 d+8 eb+8 g+8",
+        "extension": "g++8 d+++8 g+++8"
       }
-    ],
+    },
     "extensions": "Cm11 Cm13",
-    "scales": [
-      {
-        "C": [
-          "dorian",
-          "bebop minor",
-          "minor bebop",
-          "aeolian"
-        ],
-        "F": [
-          "mixolydian",
-          "major pentatonic"
-        ],
-        "Bb": [
-          "major",
-          "major pentatonic"
-        ],
-        "Eb": "major pentatonic",
-        "G": "harmonic minor"
-      }
-    ],
+    "scales": {
+      "C": [
+        "dorian",
+        "bebop minor",
+        "minor bebop",
+        "aeolian"
+      ],
+      "F": [
+        "mixolydian",
+        "major pentatonic"
+      ],
+      "Bb": [
+        "major",
+        "major pentatonic"
+      ],
+      "Eb": "major pentatonic",
+      "G": "harmonic minor"
+    },
     "avoid": "",
     "substitute": "Am7b5 EbM7"
   },
@@ -2856,35 +2664,31 @@
       "d8": "c#8",
       "f8": "e8 f#8"
     },
-    "voicings": [
-      {
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb--8 g-8 bb-8 d8 f8",
-          "extension": ""
-        },
-        "so-what": {
-          "type": "open",
-          "notes": "g--8 c-8 f-8 bb-8 d8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 eb+8 bb+8 f++8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb--8 g-8 bb-8 d8 f8",
+        "extension": ""
+      },
+      "so-what": {
+        "type": "open",
+        "notes": "g--8 c-8 f-8 bb-8 d8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 eb+8 bb+8 f++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm13",
-    "scales": [
-      {
-        "C": [
-          "dorian",
-          "aeolian"
-        ],
-        "F": "mixolydian"
-      }
-    ],
+    "scales": {
+      "C": [
+        "dorian",
+        "aeolian"
+      ],
+      "F": "mixolydian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2903,25 +2707,21 @@
       "bb8": "a8 b8",
       "f8": "e8 f#8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 eb+8 bb+8 f++8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 eb+8 bb+8 f++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm11",
-    "scales": [
-      {
-        "C": [
-          "dorian",
-          "aeolian"
-        ],
-        "F": "mixolydian"
-      }
-    ],
+    "scales": {
+      "C": [
+        "dorian",
+        "aeolian"
+      ],
+      "F": "mixolydian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2947,21 +2747,17 @@
       "f8": "e8 f#8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 f+8 a+8 bb+8 eb++8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 f+8 a+8 bb+8 eb++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "dorian"
-      }
-    ],
+    "scales": {
+      "C": "dorian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -2979,52 +2775,48 @@
       "gb8": "f8 g8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 gb8 bb8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 c+8 eb+8 gb+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "gb8 c+8 eb+8 bb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 gb8 bb8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 c+8 eb+8 gb+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "gb8 c+8 eb+8 bb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm9b5",
-    "scales": [
-      {
-        "C": [
-          "locrian #2",
-          "locrian",
-          "locrian pentatonic",
-          "diminished",
-          "bebop locrian",
-          "minor blues"
-        ],
-        "Eb": [
-          "melodic minor",
-          "minor six pentatonic",
-          "flat three pentatonic"
-        ],
-        "Ab": "mixolydian",
-        "Bb": [
-          "harmonic minor",
-          "harmonic major"
-        ],
-        "Db": [
-          "melodic minor",
-          "diminished"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "locrian #2",
+        "locrian",
+        "locrian pentatonic",
+        "diminished",
+        "bebop locrian",
+        "minor blues"
+      ],
+      "Eb": [
+        "melodic minor",
+        "minor six pentatonic",
+        "flat three pentatonic"
+      ],
+      "Ab": "mixolydian",
+      "Bb": [
+        "harmonic minor",
+        "harmonic major"
+      ],
+      "Db": [
+        "melodic minor",
+        "diminished"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3058,37 +2850,33 @@
       "bb8": "a8 b8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 gb8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 eb+8 gb+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "gb8 eb+8 bb+8 d++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 gb8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 eb+8 gb+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "gb8 eb+8 bb+8 d++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm11b5",
-    "scales": [
-      {
-        "C": [
-          "locrian #2",
-          "minor blues"
-        ],
-        "Eb": "melodic minor",
-        "Ab": "mixolydian",
-        "Bb": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": [
+        "locrian #2",
+        "minor blues"
+      ],
+      "Eb": "melodic minor",
+      "Ab": "mixolydian",
+      "Bb": "harmonic major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3113,23 +2901,19 @@
       "bb8": "a8 b8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "gb8 eb+8 bb+8 d++8 f++8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "gb8 eb+8 bb+8 d++8 f++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "locrian #2",
-        "Eb": "melodic minor",
-        "Bb": "harmonic major"
-      }
-    ],
+    "scales": {
+      "C": "locrian #2",
+      "Eb": "melodic minor",
+      "Bb": "harmonic major"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3151,40 +2935,36 @@
       "eb8": "d8 e8 f8",
       "g#8": "a8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g#8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g#8 c+8 eb+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 c+8 g#+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g#8 eb+8 c++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g#8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g#8 c+8 eb+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 c+8 g#+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g#8 eb+8 c++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "aeolian",
-          "harmonic minor",
-          "pelog"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "aeolian",
+        "harmonic minor",
+        "pelog"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3212,36 +2992,32 @@
       "ab8": "a8",
       "db8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 ab8 db+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "ab8 db+8 eb+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 c+8 g#+8 db++8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g#8 db+8 eb+8 c++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 ab8 db+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "ab8 db+8 eb+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 c+8 g#+8 db++8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g#8 db+8 eb+8 c++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "phrygian"
-      }
-    ],
+    "scales": {
+      "C": "phrygian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3259,36 +3035,32 @@
       "ab8": "a8",
       "b8": "bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 ab8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "ab8 b8 eb+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 b8 c+8 g#+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "g#8 eb+8 b+8 c++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 ab8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "ab8 b8 eb+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 b8 c+8 g#+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "g#8 eb+8 b+8 c++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "harmonic minor"
-      }
-    ],
+    "scales": {
+      "C": "harmonic minor"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3306,29 +3078,25 @@
       "ab8": "g8 a8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g#8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g#8 bb8 eb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g#8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g#8 bb8 eb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm9#5",
-    "scales": [
-      {
-        "C": [
-          "aeolian",
-          "harmonic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "aeolian",
+        "harmonic minor"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3346,29 +3114,25 @@
       "ab8": "g8 a8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g#8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g#8 bb8 d+8 eb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g#8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g#8 bb8 d+8 eb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Cm11#5",
-    "scales": [
-      {
-        "C": [
-          "aeolian",
-          "harmonic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "aeolian",
+        "harmonic minor"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3386,29 +3150,25 @@
       "ab8": "g8 a8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 g#8 bb8 d+8 f+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "f8 g#8 bb8 d+8 eb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 g#8 bb8 d+8 f+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "f8 g#8 bb8 d+8 eb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "aeolian",
-          "harmonic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "aeolian",
+        "harmonic minor"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3426,36 +3186,32 @@
       "g8": "f#8 g#8 a8",
       "db8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 db+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "db8 e8 g8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 c+8 db+8 g+8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "e8 c+8 g+8 db++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 db+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "db8 e8 g8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 c+8 db+8 g+8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "e8 c+8 g+8 db++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3473,94 +3229,90 @@
       "g8": "f#8 g#8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "two-hand-C": {
-          "type": "open",
-          "notes": "bb--8 g-8 bb-8 e8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "e--8 bb--8 g-8 e8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g--8 bb--8 e-8 g-8 bb-8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8 g+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "open",
-          "notes": "g--8 bb--8 e-8 g-8",
-          "extension": ""
-        },
-        "left-hand-D": {
-          "type": "open",
-          "notes": "bb--8 e-8 g-8 bb-8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "a#-8 e8 g8 c+8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "c-8 g-8 a#-8 e8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "e-8 a#-8 c8 g8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "g-8 c8 e8 a#8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-C": {
+        "type": "open",
+        "notes": "bb--8 g-8 bb-8 e8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "e--8 bb--8 g-8 e8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g--8 bb--8 e-8 g-8 bb-8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8 g+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "open",
+        "notes": "g--8 bb--8 e-8 g-8",
+        "extension": ""
+      },
+      "left-hand-D": {
+        "type": "open",
+        "notes": "bb--8 e-8 g-8 bb-8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "a#-8 e8 g8 c+8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "c-8 g-8 a#-8 e8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "e-8 a#-8 c8 g8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "g-8 c8 e8 a#8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9 C7b9 C7#9 C7b13",
-    "scales": [
-      {
-        "C": [
-          "mixolydian",
-          "lydian dominant",
-          "bebop dominant",
-          "whole tone",
-          "major pentatonic",
-          "mixolydian pentatonic",
-          "major flat two pentatonic",
-          "major blues",
-          "minor pentatonic",
-          "minor blues",
-          "composite blues"
-        ],
-        "F": "major",
-        "G": [
-          "dorian",
-          "minor pentatonic",
-          "minor six pentatonic"
-        ],
-        "Db": "diminished",
-        "E": "locrian pentatonic",
-        "Eb": "major flat two pentatonic",
-        "A": "major flat two pentatonic",
-        "Gb": "major flat two pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "mixolydian",
+        "lydian dominant",
+        "bebop dominant",
+        "whole tone",
+        "major pentatonic",
+        "mixolydian pentatonic",
+        "major flat two pentatonic",
+        "major blues",
+        "minor pentatonic",
+        "minor blues",
+        "composite blues"
+      ],
+      "F": "major",
+      "G": [
+        "dorian",
+        "minor pentatonic",
+        "minor six pentatonic"
+      ],
+      "Db": "diminished",
+      "E": "locrian pentatonic",
+      "Eb": "major flat two pentatonic",
+      "A": "major flat two pentatonic",
+      "Gb": "major flat two pentatonic"
+    },
     "avoid": "",
     "substitute": "Gb7 Gm7 Dbo7 GmM7 C7#5"
   },
@@ -3577,36 +3329,32 @@
       "e8": "f8 eb8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "open",
-          "notes": "e-8 bb-8 c8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "bb--8 e-8 c8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "open",
+        "notes": "e-8 bb-8 c8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "bb--8 e-8 c8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9no5 C7b9 C7#5#9",
-    "scales": [
-      {
-        "C": [
-          "mixolydian",
-          "lydian dominant",
-          "whole tone"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "mixolydian",
+        "lydian dominant",
+        "whole tone"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": "Gb7 Dbo7"
   },
@@ -3625,39 +3373,35 @@
       "bb8": "a8 b8",
       "db8": "d8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 bb8 db+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 db+8 e+8 g+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 e+8 bb+8 db++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 bb8 db+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 db+8 e+8 g+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 e+8 bb+8 db++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7b9#11 C13b9#11 C7b9b13",
-    "scales": [
-      {
-        "F": [
-          "minor six diminished",
-          "harmonic minor"
-        ],
-        "Db": [
-          "diminished",
-          "flat three pentatonic",
-          "augmented"
-        ]
-      }
-    ],
+    "scales": {
+      "F": [
+        "minor six diminished",
+        "harmonic minor"
+      ],
+      "Db": [
+        "diminished",
+        "flat three pentatonic",
+        "augmented"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3677,34 +3421,30 @@
       "db8": "d8 eb8",
       "d#8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 bb8 db+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 e+8 bb+8 db++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 bb8 db+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 e+8 bb+8 db++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7b9#11 C13b9#11 C7b9b13",
-    "scales": [
-      {
-        "F": [
-          "minor six diminished",
-          "harmonic minor"
-        ],
-        "Db": [
-          "diminished",
-          "flat three pentatonic",
-          "augmented"
-        ]
-      }
-    ],
+    "scales": {
+      "F": [
+        "minor six diminished",
+        "harmonic minor"
+      ],
+      "Db": [
+        "diminished",
+        "flat three pentatonic",
+        "augmented"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3724,47 +3464,43 @@
       "d8": "c#8 eb8",
       "f#8": "f8 g8"
     },
-    "voicings": [
-      {
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e--8 bb--8 c-8 g#-8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "g#--8 bb--8 c-8 e-8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "c-8 e-8 ab-8 bb-8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8 g#+8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb--8 e-8 ab-8 c8",
-          "extension": ""
-        }
+    "voicings": {
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e--8 bb--8 c-8 g#-8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "g#--8 bb--8 c-8 e-8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "c-8 e-8 ab-8 bb-8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8 g#+8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb--8 e-8 ab-8 c8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7#5#9 C7#5b9",
-    "scales": [
-      {
-        "C": [
-          "whole tone",
-          "augmented",
-          "hindu",
-          "spanish"
-        ],
-        "Ab": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "whole tone",
+        "augmented",
+        "hindu",
+        "spanish"
+      ],
+      "Ab": "flat six pentatonic"
+    },
     "avoid": "",
     "substitute": "Db9b5"
   },
@@ -3803,36 +3539,32 @@
       "bb8": "a8 b8",
       "d#8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 bb8 d#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d#+8 e+8 g+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 e+8 bb+8 d#++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 bb8 d#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d#+8 e+8 g+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 e+8 bb+8 d#++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7#9#11",
-    "scales": [
-      {
-        "Db": [
-          "diminished",
-          "melodic minor",
-          "flat three pentatonic"
-        ],
-        "Ab": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "Db": [
+        "diminished",
+        "melodic minor",
+        "flat three pentatonic"
+      ],
+      "Ab": "flat six pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3852,48 +3584,44 @@
       "f#8": "f8 g8",
       "g8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "bb--8 c-8 e-8 gb-8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb--8 e-8 gb-8 g-8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e--8 g--8 bb--8 gb-8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb--8 e-8 gb-8 c8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "bb--8 c-8 e-8 gb-8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb--8 e-8 gb-8 g-8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e--8 g--8 bb--8 gb-8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb--8 e-8 gb-8 c8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9#11 C7#9#11",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "whole tone"
-        ],
-        "G": [
-          "melodic minor",
-          "minor hexatonic",
-          "flat three pentatonic"
-        ],
-        "Db": "diminished",
-        "A": "minor six pentatonic",
-        "D": "flat six pentatonic",
-        "Gb": "whole tone pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "whole tone"
+      ],
+      "G": [
+        "melodic minor",
+        "minor hexatonic",
+        "flat three pentatonic"
+      ],
+      "Db": "diminished",
+      "A": "minor six pentatonic",
+      "D": "flat six pentatonic",
+      "Gb": "whole tone pentatonic"
+    },
     "avoid": "",
     "substitute": "Gb7#5#9"
   },
@@ -3913,18 +3641,14 @@
       "d#8": "d8",
       "f#8": "f8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "C7#9#11b13",
-    "scales": [
-      {
-        "Db": [
-          "diminished",
-          "melodic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "Db": [
+        "diminished",
+        "melodic minor"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3948,18 +3672,14 @@
       "d#8": "d8",
       "ab8": "a8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {
-        "Db": [
-          "diminished",
-          "melodic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "Db": [
+        "diminished",
+        "melodic minor"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -3979,18 +3699,14 @@
       "f#8": "f8",
       "ab8": "a8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {
-        "Db": [
-          "diminished",
-          "melodic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "Db": [
+        "diminished",
+        "melodic minor"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4008,19 +3724,15 @@
       "gb8": "g8 f8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "C9b5",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "whole tone"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "whole tone"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": "Gb7b5b9"
   },
@@ -4039,45 +3751,41 @@
       "bb8": "a8 b8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "shout-A": {
-          "type": "shout",
-          "notes": "bb--8 e-8 g-8 bb-8 g8 c+8 g+8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb--8 d-8 e-8 g-8 bb-8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 g+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "g8 d+8 e+8 bb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "shout-A": {
+        "type": "shout",
+        "notes": "bb--8 e-8 g-8 bb-8 g8 c+8 g+8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb--8 d-8 e-8 g-8 bb-8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 g+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "g8 d+8 e+8 bb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9#11 C13",
-    "scales": [
-      {
-        "C": [
-          "mixolydian",
-          "lydian dominant",
-          "whole tone"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "mixolydian",
+        "lydian dominant",
+        "whole tone"
+      ]
+    },
     "avoid": "",
     "substitute": "Gb7 Em7b5"
   },
@@ -4096,40 +3804,36 @@
       "d8": "c#8 eb8",
       "f#8": "f8 g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 f#8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 f#+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 d+8 bb+8 f#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb8 e+8 f#+8 d++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 f#8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 f#+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 d+8 bb+8 f#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb8 e+8 f#+8 d++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13#11",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "whole tone"
-        ],
-        "G": "melodic minor"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "whole tone"
+      ],
+      "G": "melodic minor"
+    },
     "avoid": "",
     "substitute": "Gb7#5#9 GmM7"
   },
@@ -4148,39 +3852,35 @@
       "bb8": "a8 b8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 gb8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 gb+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "d+8 e+8 bb+8 gb++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb8 e+8 gb+8 d++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 gb8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 gb+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "d+8 e+8 bb+8 gb++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb8 e+8 gb+8 d++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13b5",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "whole tone"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "whole tone"
+      ]
+    },
     "avoid": "",
     "substitute": "Db9b5"
   },
@@ -4199,36 +3899,32 @@
       "bb8": "a8 b8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g#8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 g#+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "d+8 e+8 bb+8 g#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb8 e+8 g#+8 d++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g#8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 g#+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "d+8 e+8 bb+8 g#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb8 e+8 g#+8 d++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9#5#11",
-    "scales": [
-      {
-        "C": "whole tone"
-      }
-    ],
+    "scales": {
+      "C": "whole tone"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4253,34 +3949,30 @@
       "d8": "c#8 eb8",
       "f#8": "f8 g8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g#8 bb8 d+8 f#+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "e8 bb8 g#+8 f#++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "bb8 e+8 g#+8 f#++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g#8 bb8 d+8 f#+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "e8 bb8 g#+8 f#++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "bb8 e+8 g#+8 f#++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "whole tone",
-          "diminished"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "whole tone",
+        "diminished"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4299,15 +3991,11 @@
       "bb8": "a8 b8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {
-        "C": "mixolydian"
-      }
-    ],
+    "scales": {
+      "C": "mixolydian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4326,15 +4014,11 @@
       "bb8": "a8 b8",
       "db8": "d8 eb8 c#8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {
-        "C": "phrygian"
-      }
-    ],
+    "scales": {
+      "C": "phrygian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4354,95 +4038,91 @@
       "d8": "c#8 eb8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 a+8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "e8 bb8 d+8 a+8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "d8 a8 bb8 e+8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "bb-8 e8 a8 d+8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "a-8 d8 e8 bb8",
-          "extension": ""
-        },
-        "drop-3-A": {
-          "type": "open",
-          "notes": "d8 bb8 e+8 a+8",
-          "extension": ""
-        },
-        "drop-3-B": {
-          "type": "open",
-          "notes": "bb-8 a8 d+8 e+8",
-          "extension": ""
-        },
-        "drop-3-C": {
-          "type": "open",
-          "notes": "e8 d+8 a+8 bb+8",
-          "extension": ""
-        },
-        "drop-2-3-A": {
-          "type": "open",
-          "notes": "d8 e8 bb8 a+8",
-          "extension": ""
-        },
-        "drop-2-3-B": {
-          "type": "open",
-          "notes": "bb-8 d8 a8 e+8",
-          "extension": ""
-        },
-        "drop-2-3-C": {
-          "type": "open",
-          "notes": "a8 bb8 e+8 d++8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "a8 d+8 e+8 bb+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 a8 bb8 d+8",
-          "extension": "d++8 a++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "bb8 e+8 a+8",
-          "extension": "d++8 a++8 d+++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 a+8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "e8 bb8 d+8 a+8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "d8 a8 bb8 e+8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "bb-8 e8 a8 d+8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "a-8 d8 e8 bb8",
+        "extension": ""
+      },
+      "drop-3-A": {
+        "type": "open",
+        "notes": "d8 bb8 e+8 a+8",
+        "extension": ""
+      },
+      "drop-3-B": {
+        "type": "open",
+        "notes": "bb-8 a8 d+8 e+8",
+        "extension": ""
+      },
+      "drop-3-C": {
+        "type": "open",
+        "notes": "e8 d+8 a+8 bb+8",
+        "extension": ""
+      },
+      "drop-2-3-A": {
+        "type": "open",
+        "notes": "d8 e8 bb8 a+8",
+        "extension": ""
+      },
+      "drop-2-3-B": {
+        "type": "open",
+        "notes": "bb-8 d8 a8 e+8",
+        "extension": ""
+      },
+      "drop-2-3-C": {
+        "type": "open",
+        "notes": "a8 bb8 e+8 d++8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "a8 d+8 e+8 bb+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 a8 bb8 d+8",
+        "extension": "d++8 a++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "bb8 e+8 a+8",
+        "extension": "d++8 a++8 d+++8"
       }
-    ],
+    },
     "extensions": "C13#11",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "mixolydian"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "mixolydian"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4461,85 +4141,81 @@
       "bb8": "b8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8 a+8",
-          "extension": ""
-        },
-        "drop-2-A": {
-          "type": "open",
-          "notes": "e8 bb8 a+8",
-          "extension": ""
-        },
-        "drop-2-B": {
-          "type": "open",
-          "notes": "d8 a8 bb8 e+8",
-          "extension": ""
-        },
-        "drop-2-C": {
-          "type": "open",
-          "notes": "bb-8 e8 a8",
-          "extension": ""
-        },
-        "drop-2-D": {
-          "type": "open",
-          "notes": "a-8 e8 bb8",
-          "extension": ""
-        },
-        "drop-3-A": {
-          "type": "open",
-          "notes": "bb8 e+8 a+8",
-          "extension": ""
-        },
-        "drop-3-B": {
-          "type": "open",
-          "notes": "bb-8 a8 e+8",
-          "extension": ""
-        },
-        "drop-3-C": {
-          "type": "open",
-          "notes": "e8 a+8 bb+8",
-          "extension": ""
-        },
-        "drop-2-3-A": {
-          "type": "open",
-          "notes": "e8 bb8 a+8",
-          "extension": ""
-        },
-        "drop-2-3-B": {
-          "type": "open",
-          "notes": "bb-8 a8 e+8",
-          "extension": ""
-        },
-        "drop-2-3-C": {
-          "type": "open",
-          "notes": "a8 bb8 e+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "a8 e+8 bb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8 a+8",
+        "extension": ""
+      },
+      "drop-2-A": {
+        "type": "open",
+        "notes": "e8 bb8 a+8",
+        "extension": ""
+      },
+      "drop-2-B": {
+        "type": "open",
+        "notes": "d8 a8 bb8 e+8",
+        "extension": ""
+      },
+      "drop-2-C": {
+        "type": "open",
+        "notes": "bb-8 e8 a8",
+        "extension": ""
+      },
+      "drop-2-D": {
+        "type": "open",
+        "notes": "a-8 e8 bb8",
+        "extension": ""
+      },
+      "drop-3-A": {
+        "type": "open",
+        "notes": "bb8 e+8 a+8",
+        "extension": ""
+      },
+      "drop-3-B": {
+        "type": "open",
+        "notes": "bb-8 a8 e+8",
+        "extension": ""
+      },
+      "drop-3-C": {
+        "type": "open",
+        "notes": "e8 a+8 bb+8",
+        "extension": ""
+      },
+      "drop-2-3-A": {
+        "type": "open",
+        "notes": "e8 bb8 a+8",
+        "extension": ""
+      },
+      "drop-2-3-B": {
+        "type": "open",
+        "notes": "bb-8 a8 e+8",
+        "extension": ""
+      },
+      "drop-2-3-C": {
+        "type": "open",
+        "notes": "a8 bb8 e+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "a8 e+8 bb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "mixolydian"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "mixolydian"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4569,45 +4245,41 @@
       "d8": "c#8 eb8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 a+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "a8 d+8 e+8 bb+8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "e8 a8 bb8 d+8",
-          "extension": "d++8 a++8 d+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "bb8 e+8 a+8",
-          "extension": "d++8 a++8 d+++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 a+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "a8 d+8 e+8 bb+8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "e8 a8 bb8 d+8",
+        "extension": "d++8 a++8 d+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "bb8 e+8 a+8",
+        "extension": "d++8 a++8 d+++8"
       }
-    ],
+    },
     "extensions": "C13#11",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "mixolydian"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "mixolydian"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4625,37 +4297,33 @@
       "ab8": "g8 a8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 ab+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "ab8 d+8 e+8 bb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 ab+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "ab8 d+8 e+8 bb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9b13",
-    "scales": [
-      {
-        "C": [
-          "altered",
-          "diminished",
-          "hindu"
-        ],
-        "Bb": "flat three pentatonic",
-        "F": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "altered",
+        "diminished",
+        "hindu"
+      ],
+      "Bb": "flat three pentatonic",
+      "F": "flat six pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4673,31 +4341,27 @@
       "ab8": "a8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8 ab+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "ab8 e+8 bb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8 ab+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "ab8 e+8 bb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "melodic minor fifth mode"
-      }
-    ],
+    "scales": {
+      "C": "melodic minor fifth mode"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4716,34 +4380,30 @@
       "bb8": "a8 b8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 ab+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "ab8 e+8 bb+8 d++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 ab+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "ab8 e+8 bb+8 d++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "altered",
-          "diminished"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "altered",
+        "diminished"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4764,34 +4424,30 @@
       "f#8": "f8 g8",
       "g8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 bb8 f#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8 f#+8 ab+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "ab8 e+8 bb+8 f#++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 bb8 f#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8 f#+8 ab+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "ab8 e+8 bb+8 f#++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9#11b13",
-    "scales": [
-      {
-        "C": [
-          "altered",
-          "diminished"
-        ]
-      }
-    ],
+    "scales": {
+      "C": [
+        "altered",
+        "diminished"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4812,31 +4468,27 @@
       "f#8": "f8 g8",
       "g8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 ab8 bb8 d+8 f#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 f#+8 ab+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "ab8 e+8 bb+8 d++8 f#++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 ab8 bb8 d+8 f#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 f#+8 ab+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "ab8 e+8 bb+8 d++8 f#++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "diminished"
-      }
-    ],
+    "scales": {
+      "C": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4860,52 +4512,48 @@
       "bb8": "b8",
       "db8": "d8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "bb8 db+8 e+8 a+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "bb8 a+8 e+8 db++8",
-          "extension": ""
-        },
-        "two-hand-B": {
-          "type": "open",
-          "notes": "e8 bb8 db+8 a+8",
-          "extension": ""
-        },
-        "two-hand-C": {
-          "type": "open",
-          "notes": "e-8 bb8 db8 a8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "bb8 a+8 e+8 db++8",
-          "extension": "g++8 c+++8 g+++8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "e8 bb8 db+8 a+8",
-          "extension": "c++8 g++8 c+++8"
-        },
-        "shout-C": {
-          "type": "shout",
-          "notes": "e-8 bb-8 db8 a8",
-          "extension": "c+8 g+8 c++8"
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "bb8 db+8 e+8 a+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "bb8 a+8 e+8 db++8",
+        "extension": ""
+      },
+      "two-hand-B": {
+        "type": "open",
+        "notes": "e8 bb8 db+8 a+8",
+        "extension": ""
+      },
+      "two-hand-C": {
+        "type": "open",
+        "notes": "e-8 bb8 db8 a8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "bb8 a+8 e+8 db++8",
+        "extension": "g++8 c+++8 g+++8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "e8 bb8 db+8 a+8",
+        "extension": "c++8 g++8 c+++8"
+      },
+      "shout-C": {
+        "type": "shout",
+        "notes": "e-8 bb-8 db8 a8",
+        "extension": "c+8 g+8 c++8"
       }
-    ],
+    },
     "extensions": "C13b9#11",
-    "scales": [
-      {
-        "Db": "diminished",
-        "F": "harmonic minor"
-      }
-    ],
+    "scales": {
+      "Db": "diminished",
+      "F": "harmonic minor"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4925,35 +4573,31 @@
       "d8": "c#8 eb8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 gb8 a8 bb8 d8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 e+8 gb+8 a+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "bb8 e+8 a+8 d++8 gb++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 gb8 a8 bb8 d8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 e+8 gb+8 a+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "bb8 e+8 a+8 d++8 gb++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "lydian dominant",
-          "whole tone"
-        ],
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": [
+        "lydian dominant",
+        "whole tone"
+      ],
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -4972,31 +4616,27 @@
       "bb8": "b8",
       "db8": "eb8 c8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 a8 bb8 d#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d#+8 a+8 e++8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 a8 d#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 a8 bb8 d#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d#+8 a+8 e++8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 a8 d#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13#9#11",
-    "scales": [
-      {
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5017,38 +4657,34 @@
       "a8": "g#8",
       "g8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 f#8 a8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 e+8 f#+8 a+8 d++8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "bb8 e+8 d+8 d++8 f#++8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb8 e+8 a+8 d++8 f#++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 f#8 a8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 e+8 f#+8 a+8 d++8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "bb8 e+8 d+8 d++8 f#++8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb8 e+8 a+8 d++8 f#++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "lydian dominant",
-        "G": "melodic minor",
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "C": "lydian dominant",
+      "G": "melodic minor",
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5069,31 +4705,27 @@
       "f#8": "f8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 f#8 a8 bb8 d#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d#+8 e+8 f#+8 a+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "bb8 e+8 f#+8 d#++8 a++8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 f#8 a8 bb8 d#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d#+8 e+8 f#+8 a+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "bb8 e+8 f#+8 d#++8 a++8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13b9#11 C7b9#11b13",
-    "scales": [
-      {
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5111,38 +4743,34 @@
       "g8": "f#8 g#8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "g8 bb8 f+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "f8 bb8 g+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "g8 bb8 f+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "f8 bb8 g+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C9sus4",
-    "scales": [
-      {
-        "C": "mixolydian",
-        "D": "aeolian",
-        "F": "major pentatonic",
-        "Bb": "major pentatonic",
-        "G": [
-          "minor six pentatonic",
-          "flat three pentatonic"
-        ]
-      }
-    ],
+    "scales": {
+      "C": "mixolydian",
+      "D": "aeolian",
+      "F": "major pentatonic",
+      "Bb": "major pentatonic",
+      "G": [
+        "minor six pentatonic",
+        "flat three pentatonic"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5166,39 +4794,35 @@
       "bb8": "a8 b8",
       "d8": "c#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 bb8 d+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 f+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "f8 d+8 bb+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 f8 d+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 bb8 d+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 f+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "f8 d+8 bb+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 f8 d+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13sus4",
-    "scales": [
-      {
-        "C": "mixolydian",
-        "D": "aeolian",
-        "F": "major pentatonic",
-        "Bb": "major pentatonic"
-      }
-    ],
+    "scales": {
+      "C": "mixolydian",
+      "D": "aeolian",
+      "F": "major pentatonic",
+      "Bb": "major pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5222,31 +4846,27 @@
       "bb8": "a8 b8",
       "d8": "c#8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "f8 g#8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 f+8 g#+8",
-          "extension": ""
-        },
-        "two-hand-A": {
-          "type": "open",
-          "notes": "f8 bb8 g#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "f8 g#8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 f+8 g#+8",
+        "extension": ""
+      },
+      "two-hand-A": {
+        "type": "open",
+        "notes": "f8 bb8 g#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "Ab": "minor pentatonic"
-      }
-    ],
+    "scales": {
+      "Ab": "minor pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5265,42 +4885,38 @@
       "bb8": "a8 b8",
       "db8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "bb8 db+8 f+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "f8 bb8 db+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 f8 db+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "bb8 db+8 f+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "f8 bb8 db+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 f8 db+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": [
-          "phrygian",
-          "melodic minor second mode",
-          "in-sen",
-          "major flat two pentatonic"
-        ],
-        "Bb": [
-          "melodic minor",
-          "minor six pentatonic",
-          "flat three pentatonic"
-        ],
-        "F": "flat six pentatonic"
-      }
-    ],
+    "scales": {
+      "C": [
+        "phrygian",
+        "melodic minor second mode",
+        "in-sen",
+        "major flat two pentatonic"
+      ],
+      "Bb": [
+        "melodic minor",
+        "minor six pentatonic",
+        "flat three pentatonic"
+      ],
+      "F": "flat six pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5320,36 +4936,32 @@
       "bb8": "a8 b8",
       "db8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "ab8 bb8 db+8 f+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 db+8 f+8 ab+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "f8 bb8 db+8 ab+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 f8 db+8 ab+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "ab8 bb8 db+8 f+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 db+8 f+8 ab+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "f8 bb8 db+8 ab+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 f8 db+8 ab+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "phrygian"
-      }
-    ],
+    "scales": {
+      "C": "phrygian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5374,36 +4986,32 @@
       "d8": "c#8",
       "a8": "g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "a8 bb8 d+8 f+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d+8 f+8 a+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "f8 bb8 d+8 a+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 f8 d+8 a+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "a8 bb8 d+8 f+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d+8 f+8 a+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "f8 bb8 d+8 a+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 f8 d+8 a+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "mixolydian"
-      }
-    ],
+    "scales": {
+      "C": "mixolydian"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5428,29 +5036,25 @@
       "f#8": "f8",
       "g8": "g#8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 db+8 f#+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 db+8 e+8 f#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 db+8 f#+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 db+8 e+8 f#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C13b9#11 C7b9#11b13",
-    "scales": [
-      {
-        "Db": [
-          "diminished",
-          "melodic minor"
-        ]
-      }
-    ],
+    "scales": {
+      "Db": [
+        "diminished",
+        "melodic minor"
+      ]
+    },
     "avoid": "",
     "substitute": "Db7b5"
   },
@@ -5490,26 +5094,22 @@
       "f#8": "f8",
       "g8": "g#8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "bb8 e+8 a+8 db++8 f#++8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "bb8 a+8 db++8 f#++8",
-          "extension": "e+++8"
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "bb8 e+8 a+8 db++8 f#++8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "bb8 a+8 db++8 f#++8",
+        "extension": "e+++8"
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "Db": "diminished"
-      }
-    ],
+    "scales": {
+      "Db": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5529,27 +5129,23 @@
       "db8": "d8 eb8",
       "ab8": "a8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 ab8 db+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 ab8 db+8 e+8",
-          "extension": ""
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 ab8 db+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 ab8 db+8 e+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7b9b13#11",
-    "scales": [
-      {
-        "F": "minor six diminished",
-        "Db": "melodic minor"
-      }
-    ],
+    "scales": {
+      "F": "minor six diminished",
+      "Db": "melodic minor"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5569,27 +5165,23 @@
       "db8": "d8 eb8",
       "ab8": "a8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 ab8 db+8 f#+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 ab8 db+8 e+8 f#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 ab8 db+8 f#+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 ab8 db+8 e+8 f#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "F": "minor six diminished",
-        "Db": "melodic minor"
-      }
-    ],
+    "scales": {
+      "F": "minor six diminished",
+      "Db": "melodic minor"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5608,29 +5200,25 @@
       "bb8": "a8 b8",
       "d#8": "d8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 g#8 db+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 g#8 db+8 e+8",
-          "extension": ""
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 g#8 db+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 g#8 db+8 e+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "C7#5b9#11",
-    "scales": [
-      {
-        "Db": [
-          "melodic minor",
-          "minor six pentatonic"
-        ]
-      }
-    ],
+    "scales": {
+      "Db": [
+        "melodic minor",
+        "minor six pentatonic"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5650,29 +5238,25 @@
       "bb8": "a8 b8",
       "d#8": "d8"
     },
-    "voicings": [
-      {
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 g#8 db+8 f#+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "bb-8 g#8 db+8 e+8 f#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 g#8 db+8 f#+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "bb-8 g#8 db+8 e+8 f#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "Db": [
-          "melodic minor",
-          "minor six pentatonic"
-        ]
-      }
-    ],
+    "scales": {
+      "Db": [
+        "melodic minor",
+        "minor six pentatonic"
+      ]
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5691,42 +5275,38 @@
       "bb8": "a8 b8",
       "d#8": "d8"
     },
-    "voicings": [
-      {
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "bb--8 eb-8 e-8 ab-8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "e8 g#8 bb8 d#+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "bb8 d#+8 e+8 g#+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "bb-8 e8 g#8 d#+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "bb--8 eb-8 e-8 ab-8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "e8 g#8 bb8 d#+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "bb8 d#+8 e+8 g#+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "bb-8 e8 g#8 d#+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "Db": "melodic minor",
-        "Gb": "major pentatonic",
-        "F#": "mixolydian",
-        "Eb": "minor six pentatonic",
-        "Ab": "flat six pentatonic",
-        "Bb": "locrian pentatonic",
-        "C": "whole tone pentatonic"
-      }
-    ],
+    "scales": {
+      "Db": "melodic minor",
+      "Gb": "major pentatonic",
+      "F#": "mixolydian",
+      "Eb": "minor six pentatonic",
+      "Ab": "flat six pentatonic",
+      "Bb": "locrian pentatonic",
+      "C": "whole tone pentatonic"
+    },
     "avoid": "",
     "substitute": "DbmM7 Gb7#11"
   },
@@ -5748,44 +5328,40 @@
       "eb8": "d8 e8 f8",
       "gb8": "f8 g8 g#8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 gb8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "gb8 c+8 eb+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "c8 eb8 gb8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 c+8 gb+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "gb8 c+8 eb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 gb8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "gb8 c+8 eb+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "c8 eb8 gb8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 c+8 gb+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "gb8 c+8 eb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "Co7 Cm7b5",
-    "scales": [
-      {
-        "C": "diminished",
-        "Db": "harmonic minor",
-        "F#": "mixolydian pentatonic",
-        "Ab": "mixolydian pentatonic"
-      }
-    ],
+    "scales": {
+      "C": "diminished",
+      "Db": "harmonic minor",
+      "F#": "mixolydian pentatonic",
+      "Ab": "mixolydian pentatonic"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5803,92 +5379,88 @@
       "gb8": "f8 g8 g#8",
       "a8": "g#8 bb8 b8"
     },
-    "voicings": [
-      {
-        "open-G": {
-          "type": "open",
-          "notes": "a-8 c8 d#8 f#8 a8",
-          "extension": ""
-        },
-        "open-F": {
-          "type": "open",
-          "notes": "d#-8 f#-8 c8 f#8 a8",
-          "extension": ""
-        },
-        "open-E": {
-          "type": "open",
-          "notes": "eb--8 a--8 c-8 gb-8",
-          "extension": ""
-        },
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 gb8 a8 c+8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "gb8 a8 c+8 eb+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "a8 c+8 eb+8 gb+8",
-          "extension": ""
-        },
-        "left-hand-D": {
-          "type": "closed",
-          "notes": "c-8 eb-8 gb-8 a-8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 a8 gb+8 c++8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "gb8 eb+8 a+8 c++8",
-          "extension": ""
-        },
-        "open-C": {
-          "type": "open",
-          "notes": "a--8 gb-8 c8 eb8",
-          "extension": ""
-        },
-        "open-D": {
-          "type": "open",
-          "notes": "c-8 gb-8 a-8 eb8",
-          "extension": ""
-        },
-        "shout-A": {
-          "type": "shout",
-          "notes": "eb8 gb8 a8 c+8",
-          "extension": "gb+8 eb+8"
-        },
-        "shout-B": {
-          "type": "shout",
-          "notes": "gb8 a8 c+8 eb+8",
-          "extension": "a+8 c++8"
-        },
-        "shout-C": {
-          "type": "shout",
-          "notes": "a8 c+8 eb+8 gb+8",
-          "extension": "c++8 a++8"
-        },
-        "shout-D": {
-          "type": "shout",
-          "notes": "c-8 eb-8 gb-8 a-8",
-          "extension": "eb8 c+8"
-        }
+    "voicings": {
+      "open-G": {
+        "type": "open",
+        "notes": "a-8 c8 d#8 f#8 a8",
+        "extension": ""
+      },
+      "open-F": {
+        "type": "open",
+        "notes": "d#-8 f#-8 c8 f#8 a8",
+        "extension": ""
+      },
+      "open-E": {
+        "type": "open",
+        "notes": "eb--8 a--8 c-8 gb-8",
+        "extension": ""
+      },
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 gb8 a8 c+8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "gb8 a8 c+8 eb+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "a8 c+8 eb+8 gb+8",
+        "extension": ""
+      },
+      "left-hand-D": {
+        "type": "closed",
+        "notes": "c-8 eb-8 gb-8 a-8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 a8 gb+8 c++8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "gb8 eb+8 a+8 c++8",
+        "extension": ""
+      },
+      "open-C": {
+        "type": "open",
+        "notes": "a--8 gb-8 c8 eb8",
+        "extension": ""
+      },
+      "open-D": {
+        "type": "open",
+        "notes": "c-8 gb-8 a-8 eb8",
+        "extension": ""
+      },
+      "shout-A": {
+        "type": "shout",
+        "notes": "eb8 gb8 a8 c+8",
+        "extension": "gb+8 eb+8"
+      },
+      "shout-B": {
+        "type": "shout",
+        "notes": "gb8 a8 c+8 eb+8",
+        "extension": "a+8 c++8"
+      },
+      "shout-C": {
+        "type": "shout",
+        "notes": "a8 c+8 eb+8 gb+8",
+        "extension": "c++8 a++8"
+      },
+      "shout-D": {
+        "type": "shout",
+        "notes": "c-8 eb-8 gb-8 a-8",
+        "extension": "eb8 c+8"
       }
-    ],
+    },
     "extensions": "CoM7",
-    "scales": [
-      {
-        "C": "diminished",
-        "Db": "harmonic minor"
-      }
-    ],
+    "scales": {
+      "C": "diminished",
+      "Db": "harmonic minor"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5916,15 +5488,11 @@
       "gb8": "f8 g8 g#8",
       "b8": "bb8"
     },
-    "voicings": [
-      {}
-    ],
+    "voicings": {},
     "extensions": "",
-    "scales": [
-      {
-        "C": "diminished"
-      }
-    ],
+    "scales": {
+      "C": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5943,41 +5511,37 @@
       "a8": "g#8 bb8 b8",
       "b8": "bb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 gb8 a8 b8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "gb8 a8 b8 eb+8",
-          "extension": ""
-        },
-        "left-hand-C": {
-          "type": "closed",
-          "notes": "b8 eb+8 gb+8 a+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 a8 gb+8 b+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "gb8 b8 eb+8 a+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 gb8 a8 b8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "gb8 a8 b8 eb+8",
+        "extension": ""
+      },
+      "left-hand-C": {
+        "type": "closed",
+        "notes": "b8 eb+8 gb+8 a+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 a8 gb+8 b+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "gb8 b8 eb+8 a+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "diminished"
-      }
-    ],
+    "scales": {
+      "C": "diminished"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -5997,36 +5561,32 @@
       "g8": "gb8 ab8",
       "bb8": "a8 b8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "closed",
-          "notes": "eb8 f8 gb8 bb8",
-          "extension": ""
-        },
-        "left-hand-B": {
-          "type": "closed",
-          "notes": "f8 gb8 bb8 eb+8",
-          "extension": ""
-        },
-        "open-A": {
-          "type": "open",
-          "notes": "eb8 gb8 bb8 f+8",
-          "extension": ""
-        },
-        "open-B": {
-          "type": "open",
-          "notes": "f8 gb8 eb+8 bb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "closed",
+        "notes": "eb8 f8 gb8 bb8",
+        "extension": ""
+      },
+      "left-hand-B": {
+        "type": "closed",
+        "notes": "f8 gb8 bb8 eb+8",
+        "extension": ""
+      },
+      "open-A": {
+        "type": "open",
+        "notes": "eb8 gb8 bb8 f+8",
+        "extension": ""
+      },
+      "open-B": {
+        "type": "open",
+        "notes": "f8 gb8 eb+8 bb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {
-        "C": "minor blues"
-      }
-    ],
+    "scales": {
+      "C": "minor blues"
+    },
     "avoid": "",
     "substitute": ""
   },
@@ -6042,19 +5602,15 @@
       "c8": "b8 c#8 d8",
       "g8": "f#8 g#8"
     },
-    "voicings": [
-      {
-        "left-hand-B": {
-          "type": "open",
-          "notes": "c8 g8 c+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-B": {
+        "type": "open",
+        "notes": "c8 g8 c+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {}
-    ],
+    "scales": {},
     "avoid": "",
     "substitute": ""
   },
@@ -6071,19 +5627,15 @@
       "g8": "f#8 g#8",
       "e8": "f8 eb8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "open",
-          "notes": "c8 g8 e+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "open",
+        "notes": "c8 g8 e+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {}
-    ],
+    "scales": {},
     "avoid": "",
     "substitute": ""
   },
@@ -6100,19 +5652,15 @@
       "g8": "f#8 g#8",
       "eb8": "e8 d8"
     },
-    "voicings": [
-      {
-        "left-hand-A": {
-          "type": "open",
-          "notes": "c8 g8 eb+8",
-          "extension": ""
-        }
+    "voicings": {
+      "left-hand-A": {
+        "type": "open",
+        "notes": "c8 g8 eb+8",
+        "extension": ""
       }
-    ],
+    },
     "extensions": "",
-    "scales": [
-      {}
-    ],
+    "scales": {},
     "avoid": "",
     "substitute": ""
   },
