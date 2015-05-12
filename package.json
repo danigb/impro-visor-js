@@ -1,6 +1,7 @@
 {
-  "name": "impro-visor-js",
-  "version": "0.1.0",
+  "name": "impro-visor-js-tools",
+  "private": true,
+  "version": "0.2.0",
   "description": "\"Impro-visor data converted to json\"",
   "main": "build.js",
   "repository": {
@@ -14,7 +15,8 @@
   "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "metalsmith": "~1.6.0"
+    "metalsmith": "~1.6.0",
+    "teoria": "^1.9.0"
   },
   "dependencies": {
     "lista": "~0.1.0",

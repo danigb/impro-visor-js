@@ -16,6 +16,12 @@ See also:
   - http://www.cs.hmc.edu/~keller/jazz/improvisor/LeadsheetNotation.pdf
   - http://www.cs.hmc.edu/~keller/jazz/improvisor/papers.html
 
+### Build
+
+```js
+node build
+```
+
 ### License
 
 The same license as impro-visor: GNU Public License 2.0

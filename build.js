@@ -35,30 +35,17 @@ Metalsmith(__dirname)
       key: "title"
   }}))
   .use(arrayToHash({
-    "scales.json": {
+    "scales-impro.json": {
       source: "vocab/My.voc.scales.json",
       key: "name"
     },
-    "chords.json": {
+    "chords-impro.json": {
       source: "vocab/My.voc.chords.json",
       key: "name"
     }
   }))
-  .use(function(files, metalsmith, done) {
-    var obj = JSON.parse(files['chords.json'].contents.toString());
-    for(var name in obj) {
-      var chord = obj[name];
-      if(chord.voicings) {
-        chord.voicings = chord.voicings[0];
-      }
-      if(chord.scales) {
-        chord.scales = chord.scales[0];
-      }
-    }
-    var json = JSON.stringify(obj, null, 2);
-    files['chords.json'] = { contents: new Buffer(json) };
-    done();
-  })
+  .use(require('./lib/build-scales.js'))
+  .use(require('./lib/build-chords.js'))
   .build(function(err) {
     if (err) throw err;
     console.log("Done!!");
