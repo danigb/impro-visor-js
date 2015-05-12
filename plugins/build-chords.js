@@ -5,7 +5,7 @@ module.exports = function(files, metalsmith, done) {
   var clean = cleanChords(obj);
   files['chords.json'] = serialize(clean, 2);
   var teoria = teorizeChords(clean);
-  files['chords-teoria.json'] = serialize(teoria);
+  files['chords-teoria.json'] = serialize(teoria, 2);
   done();
 }
 
