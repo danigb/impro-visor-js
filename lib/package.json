@@ -1,9 +1,8 @@
 {
-  "name": "impro-visor-js-tools",
-  "private": true,
+  "name": "impro-visor-js",
   "version": "0.2.0",
-  "description": "\"Impro-visor data converted to json\"",
-  "main": "build.js",
+  "description": "\"Impro-visor data exposed as javascript library\"",
+  "main": "lib/improvisor.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/danigb/impro-visor-js.git"
@@ -16,8 +15,7 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "metalsmith": "~1.6.0",
-    "teoria": "^1.9.0",
-    "vows": "^0.8.1"
+    "teoria": "^1.9.0"
   },
   "dependencies": {
     "lista": "~0.1.0",
