@@ -16,8 +16,11 @@ function teorizeChords(chords) {
     var noKeyName = name.toString().substring(1);
     var chord = dest["X" + noKeyName] = {};
 
-    if(src.family) chord.family = src.family;
     if(src.same) chord.same = src.same.replace(/C/g, 'X');
+    else chord.name = src.name.replace(/C/g, 'X');
+
+
+    if(src.family) chord.family = src.family;
     if(src.pronounce) chord.pronounce = src.pronounce.replace(/C\s*/g, '');
     var key = src.key || 'c';
     var root = teoria.note(key + "8");
@@ -96,7 +99,6 @@ function intervals(root, notes) {
 function cleanChords(obj) {
   for(var name in obj) {
     var chord = obj[name];
-    delete chord.name;
     if(chord.pronounce == "") delete chord.pronounce;
     if(chord.voicings) {
       chord.voicings = chord.voicings[0];
