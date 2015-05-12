@@ -4,13 +4,13 @@
 var extname = require('path').extname;
 var Metalsmith = require('metalsmith');
 
-var extractComments = require('./lib/comments-to-markdown');
-var toJSON = require('./lib/toJSON');
-var directives = require('./lib/directives.js');
-var builder = require('./lib/builder.js');
+var extractComments = require('./plugins/comments-to-markdown');
+var toJSON = require('./plugins/toJSON');
+var directives = require('./plugins/directives.js');
+var builder = require('./plugins/builder.js');
 
-var indexer = require('./lib/metalsmith-index.js');
-var arrayToHash = require('./lib/array-to-hash.js');
+var indexer = require('./plugins/metalsmith-index.js');
+var arrayToHash = require('./plugins/array-to-hash.js');
 
 var noFile = function() {
   return {};
@@ -22,7 +22,7 @@ Metalsmith(__dirname)
   .concurrency(100)
   .use(extractComments())
   .use(toJSON({
-    '**/My.dictionary': directives(require('./lib/dictio.js')),
+    '**/My.dictionary': directives(require('./plugins/dictio.js')),
     '**/My.voc': builder('vocab'),
     '**/My.substitutions': builder('vocab'),
     '**/*.ls': builder('leadsheet'),
@@ -44,8 +44,8 @@ Metalsmith(__dirname)
       key: "name"
     }
   }))
-  .use(require('./lib/build-scales.js'))
-  .use(require('./lib/build-chords.js'))
+  .use(require('./plugins/build-scales.js'))
+  .use(require('./plugins/build-chords.js'))
   .build(function(err) {
     if (err) throw err;
     console.log("Done!!");
