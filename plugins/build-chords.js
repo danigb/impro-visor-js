@@ -14,16 +14,16 @@ function teorizeChords(chords) {
   for (var name in chords) {
     var src = chords[name];
     var noKeyName = name.toString().substring(1);
-    var chord = dest["X" + noKeyName] = {};
+    var chord = dest["_" + noKeyName] = {};
 
-    if(src.same) chord.same = src.same.replace(/C/g, 'X');
-    else chord.name = src.name.replace(/C/g, 'X');
+    if(src.same) chord.same = src.same.replace(/C/g, '_');
+    else chord.name = src.name.replace(/C/g, '_');
 
 
     if(src.family) chord.family = src.family;
     if(src.pronounce) chord.pronounce = src.pronounce.replace(/C\s*/g, '');
-    var key = src.key || 'c';
-    var root = teoria.note(key + "8");
+    if(src.key) chord.key = src.key;
+    var root = teoria.note('c' + "8");
     if(src.spell) chord.spell = intervals(root, src.spell);
     if(src.color) chord.color = intervals(root, src.color);
     if(src.priority) chord.priority = intervals(root, src.priority);
