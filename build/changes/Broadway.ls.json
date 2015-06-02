@@ -1,0 +1,11 @@
+{
+  "title": "Broadway",
+  "composer": "Bill Byard, Teddy McRae, Henri Moore",
+  "meter": "4/4",
+  "key": "-3",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "CM7 | C7 | FM7 | . | CM7 A7 | Dm7 G7 | CM7 . Bbm7 Eb7 | Am7 D7 Abm7 Db7 | CM7 | C7 | FM7 | . | CM7 A7 | Dm7 G7 | CM7 | . | Gm7 | C7 | FM7 | F#m7 B7 | Fm7 | Bb7 | EbM7 | D7 G7 | CM7 | C7 | FM7 | . | CM7 A7 | Dm7 G7 | CM7 A7 | Dm7 G7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

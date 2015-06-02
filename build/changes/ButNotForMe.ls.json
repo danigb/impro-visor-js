@@ -1,0 +1,11 @@
+{
+  "title": "But Not For Me",
+  "composer": "George Gershwin",
+  "meter": "4/4",
+  "key": "-3",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "F7 | Fm7 Bb7 | EbM7 | Gm7 C7 | F7 | Fm7 Bb7 | EbM7 | Bbm7 Eb7 | AbM7 | Abm7 Db7 | Gm7 | Cm7 | Fm7 | C7 | B7#11 | Bb7 | F7 | Fm7 Bb7 | EbM7 | Gm7 C7 | F7 | Fm7 Bb7 | EbM7 | Bbm7 Eb7 | AbM7 | Abm7 Db7 | EbM7 | Cm7 | Fm7.Bb | . Bb7 | EbM7 | . | ",
+    "melody1": "r/1+1 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

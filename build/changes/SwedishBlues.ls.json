@@ -1,0 +1,11 @@
+{
+  "title": "Swedish Blues",
+  "composer": "Charlie Parker",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "168.0",
+  "parts": {
+    "chords": "FM7 | Em7b5 A7 | Dm7 G7 | Cm7 F7 | BbM7 | Bbm7 Eb7 | Am7 D7 | Abm7 Db7 | Gm7 | C7 | Am7 D7 | Gm7 C7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

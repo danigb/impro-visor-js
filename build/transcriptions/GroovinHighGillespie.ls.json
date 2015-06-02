@@ -1,0 +1,11 @@
+{
+  "title": "Groovin' High",
+  "composer": "Dizzy Gillespie",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "180.0",
+  "parts": {
+    "chords": "NC | . | . | . | FM7 | . | Bm7 | E7 | FM7 | . | Am7 | D7 | G7 | . | Gm7 | C7 | Am7 | Abm7 | Gm7 | C7b9 | FM7 | . | Bm7 | E7 | FM7 | . | Am7 | D7 | G7 | . | Gm7 | C7 | Gm7 | Eb7 | FM7 | Gm7 C7b9 | ",
+    "Chorus 1": "r/8 c++/8 f++/8 eb++/8 d++/8 c++/8 bb+/8 a+/8 c++/8 a+/8 bb+/8 c++/8 a+/8 f+/8 d+/8 db+/8 g+/8 gb+/8 f+/8 eb+/8 f#+/16t g+/16t f#+/16t e+/8 g#/8 b/8 d#+/8 d+/8 c#+/8 c+/8 bb/16t c+/16t bb/16t g/8 f#/4 g/8 g/8 f/8 c+/8 e+/8 g+/8 f#+/8 e+/8 f+/8 c+/8 a/8 bb/8 c+/8 a/8 bb/8 c+/8 d+/16 e+/16 d+/16 c+/16 b/8 a/8 g#/8 b/8 d+/8 f+/8 r/8 e+/8 r/1+2 c++/4 f++/8 e++/8 r/8 g++/8 f++/4 e++/8 d++/8 c++/8 b+/8 a+/8 g+/8 f#+/8 a/8 c+/8 eb+/4+8 d+/4 r/4 f#/8 a/8 c#+/8 e+/8 eb+/8t d+/8t c#+/4t+16t a/8 f/8 d/8 a/4 r/2+4+8 d++/16 db++/16 c++/8 bb+/8 r/8 a+/8 r/8 g+/8 f+/8 eb+/8 e+/8 d+/8 c+/8 a/8 bb/8 c+/8 r/8 f/8 e/8 d/8 g/8 e/8 f/8t a/8t c+/8t e+/8 g+/8 eb+/4 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2"
+  }
+}

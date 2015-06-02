@@ -1,0 +1,11 @@
+{
+  "title": "Just Friends",
+  "composer": "John Klenner",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "BbM7 | . | Bbm7 | Eb7 | FM7 | . | Abm7 | Db7 | Gm7 | C7 | Em7b5 A7alt | Dm7 | G7#11 | . | Gm7 C7 | Cm7 F7 | BbM7 | . | Bbm7 | Eb7 | FM7 | . | Abm7 | Db7 | Gm7 | C7 | Em7b5 A7alt | Dm | G7 | C7 | FM7 | Cm7 F7 | ",
+    "melody1": "a/1+2 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2"
+  }
+}

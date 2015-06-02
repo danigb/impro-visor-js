@@ -1,0 +1,14 @@
+{
+  "title": "Solar",
+  "composer": "",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "180.0",
+  "parts": {
+    "chords": "Dm | . | Am7 | D7 | GM7 | . | Gm7 | C7 | FM7 | Fm7 Bb7 | EbM7 | Em7 A7 | ",
+    "Chorus 1": "f+/2+4 e+/8 d+/2+8 r/2 r/4+8 f#+/8 d+/4+8 f#+/1+2 d+/8 b/8 f#/8 d/8 e/8 f#/8 a/8 f#/8 g/8 b/8 d+/8 f#+/8 d+/8 bb/2 r/8 d/8 r/4 r/4+8 c+/8 e+/4 c+/8 a/8 e/4 r/2+4 eb+/8 r/8 c+/8 ab/8 eb/4 d/4 d+/2+4 r/2+8 f+/8 e+/4+8 f+/8",
+    "Chorus 2": "e+/4 f+/8 e+/4 f+/8 e+/8 b/2t+8t r/16t c+/8t a/8t ab/8t g/8t f/8t d/8t f/8t g/4+8+16+32t e/16 c/16 b-/8 c/8 e/8t g/8t b/8t d+/8 r/8 f+/8 e+/8 eb+/8 c+/8 bb/8 g/8 b/8 r/8 e/8 a/2+8 r/2+4+8 a+/8 c++/8 b+/8 bb+/8 c++/16 bb+/16 a+/8 f+/8 d+/8 bb/8 a/8 g/8 f/8 d/8 e/4 e+/4 g+/2 r/4+8 c+/8 r/8 d+/2+8 eb+/8 f+/4+8 bb/8 c+/2+8 r/2+8 f+/8 e+/8 r/8",
+    "melody3": "f+/2+4 e+/8 r/8 f+/4 e+/8 r/8 f+/4 e+/8 r/8 r/2+8 d+/16 e+/16 f#+/8 r/4 b/16 c+/16 d+/8 f#/16 g/16 a/8 d/16 e/16 f#/4+8 r/2 f#/8 g/8t b/8t d+/8t f#+/8 a+/8 e+/8 g+/8 f#+/8 d+/8 b/8 a/8 bb/8 c#/8 d/8t f/8t a/8t g/8 r/8 c+/4 a/4 f/4 g/4+8 e+/8 c+/4 g/4 a/4+8 eb+/8 c+/8 r/2+4 eb+/8 f+/8 eb+/8 f+/8 eb+/8 bb/8 g/8 f/8 eb/8 e/4 r/2+8 a+/8",
+    "melody4": "d++/8 c++/8 a+/8 g+/8 f+/8 d+/8 g+/8 a+/8 f+/8 d+/8 c+/8 a/8 g/8 a/8 f/8 d/8 f/8 f#/8 d/8 b-/8 e/8 c#/8 d/8t f#/8t a/8t d+/8 c+/8 d+/8 c+/8 b/4+8 a/2 d+/8 b/8 r/2 d+/8 e+/8 f#+/8 a+/8 g+/8 d+/8 b/8 bb/2 r/2+8 a+/8 c++/8 b+/8 bb+/8 a+/8 g+/8 f+/8 e+/8 f+/8 f#+/8 g+/8 c+/4 bb/8 ab/2 g+/8 f+/4+8 d+/8 bb/4+8 g#/8 d/4 bb-/8 c/2 f/8 c#/4 bb-/8 a-/8"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "There Is No Greater Love",
+  "composer": "Isham Jones",
+  "meter": "4/4",
+  "key": "-2",
+  "tempo": "180.0",
+  "parts": {
+    "chords": "BbM7 | Eb7 | Ab7#11 | G7 | C7 | . | Cm7 | F7 | BbM7 | Eb7 | Ab7#11 | G7 | C7 | Cm7 F7 | BbM7 | . | Am7b5.G D7.G | Gm | Am7b5.G D7.G | Gm | Am7b5.G D7.G | Gm | C7 | F7 | BbM7 | Eb7 | Ab7#11 | G7 | C7 | Cm7 F7 | BbM7 | . | ",
+    "melody1": "bb/4+8 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+8"
+  }
+}

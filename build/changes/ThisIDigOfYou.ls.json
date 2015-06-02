@@ -1,0 +1,11 @@
+{
+  "title": "This I Dig Of You",
+  "composer": "Hank Mobley",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "180.0",
+  "parts": {
+    "chords": "BbM7.F | Cm7.F | BbM7.F | Cm7.F | BbM7.F | Cm7.F | BbM7.F | Fm7 Bb7 | Eb | Em7b5 A7alt | Dm7 | G7 | Dbm7 | Gb7 | Cm7 | F7 | BbM7.F | Cm7.F | BbM7.F | Cm7.F | BbM7.F | Cm7.F | BbM7.F | Fm7 Bb7 | Eb | Em7b5 A7alt | Dm7 | G7 | Cm7 | F7 | Bb | Cm7 F7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

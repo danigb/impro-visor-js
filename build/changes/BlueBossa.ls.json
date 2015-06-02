@@ -1,0 +1,11 @@
+{
+  "title": "Blue Bossa",
+  "composer": "Kenny Dorham",
+  "meter": "4/4",
+  "key": "-3",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Cm7 | . | Fm7 | . | Dm7b5 | G7 | CmM7 | . | Ebm7 | Ab7 | DbM7 | . | Dm7b5 | G7 | CmM7 | . | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Dear Old Stockholm",
+  "composer": "Traditional",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Dm | Em7b5 A7 | Gm7 C7 | F | Em7b5 A7 | Dm | Bb7#11 | A7 | Gm13.A | . | . | . | F Dm7 | Gm7 C7 | F | Em7b5 A7 | Dm | Em7b5 A7 | Gm7 C7 | F | Em7b5 A7 | Dm | Gm7.C | . | . | . | . | . | Gm7.C A7 | Dm | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Woody 'n You",
+  "composer": "Dizzy Gillespie",
+  "meter": "4/4",
+  "key": "-5",
+  "tempo": "192.0",
+  "parts": {
+    "chords": "Gm7b5 | C7#9 | Fm7b5 | Bb7#9 | Ebm7b5 | Ab7#9 | DbM7 | . | Gm7b5 | C7#9 | Fm7b5 | Bb7#9 | Ebm7b5 | Ab7#9 | DbM7 | . | Abm7 Db7 | Abm7 Db7 | Abm7 Db7 | GbM7 | Bbm7 Eb7 | Bbm7 Eb7 | Bbm7 Eb7 | AbM7 | Gm7b5 | C7#9 | Fm7b5 | Bb7#9 | Ebm7b5 | Ab7#9 | DbM7 | . | ",
+    "melody1": "r/8 f+/8 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4"
+  }
+}

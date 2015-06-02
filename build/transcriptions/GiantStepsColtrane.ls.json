@@ -1,0 +1,11 @@
+{
+  "title": "Giant Steps",
+  "composer": "John Coltrane",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "220.0",
+  "parts": {
+    "chords": "DbM7 E9 | AM7 C9 | FM7 | Bm9 E9 | AM7 C9 | FM7 Ab9 | DbM7 | Gm9 C9 | FM9 | Bm9 E9 | AM7 | Ebm7 Ab9 | DbM7 | Gm9 C9 | FM7 | Ebm7 Ab9 | ",
+    "melody1": "ab/2 e/2 db/2 a-/2 c/1 db/2 b-/2 e/2 c/2 a-/2 f-/2 ab-/1 a-/2 g-/2 c/1 db/2 b-/2 e/1 f/2 f/2 ab/1 a/2 a/2 c+/1 ab/4+8 ab/8 r/2"
+  }
+}

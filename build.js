@@ -1,7 +1,6 @@
 
 'use strict';
 
-var extname = require('path').extname;
 var Metalsmith = require('metalsmith');
 
 var extractComments = require('./plugins/comments-to-markdown');
@@ -12,11 +11,11 @@ var builder = require('./plugins/builder.js');
 var indexer = require('./plugins/metalsmith-index.js');
 var arrayToHash = require('./plugins/array-to-hash.js');
 
-var noFile = function() {
+var noFile = function () {
   return {};
 }
 
-console.log("Building...");
+console.log('Building...');
 Metalsmith(__dirname)
   .source('source')
   .concurrency(100)
@@ -30,23 +29,26 @@ Metalsmith(__dirname)
     '**/My.themes': noFile
   }))
   .use(indexer({
-    "leadsheets-index.json": {
-      pattern: "**/*.ls.json",
-      key: "title"
+    'leadsheets-index.json': {
+      pattern: '**/*.ls.json',
+      key: 'title'
   }}))
   .use(arrayToHash({
-    "scales-impro.json": {
-      source: "vocab/My.voc.scales.json",
-      key: "name"
+    'scales-impro.json': {
+      source: 'vocab/My.voc.scales.json',
+      key: 'name'
     },
-    "chords-impro.json": {
-      source: "vocab/My.voc.chords.json",
-      key: "name"
+    'chords-impro.json': {
+      source: 'vocab/My.voc.chords.json',
+      key: 'name'
     }
   }))
   .use(require('./plugins/build-scales.js'))
   .use(require('./plugins/build-chords.js'))
-  .build(function(err) {
+  .use(require('./plugins/build-leadsheets.js')(/changes/, 'changes'))
+  .use(require('./plugins/build-leadsheets.js')(/insights/, 'changes'))
+  .use(require('./plugins/build-leadsheets.js')(/transcriptions/, 'transcriptions'))
+  .build(function (err) {
     if (err) throw err;
-    console.log("Done!!");
+    console.log('Done!!');
   });

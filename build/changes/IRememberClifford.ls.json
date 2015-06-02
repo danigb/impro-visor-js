@@ -1,0 +1,11 @@
+{
+  "title": "I Remember Clifford",
+  "composer": "Benny Golson",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "80.0",
+  "parts": {
+    "chords": "EbM7 G7 | AbM7 Ao | Bb7 Bo | Cm7 Cm7.Bb | Am7b5 D7 | Gm7 Gm7.F | Em7b5 A7 | Fm7 Bb7 | EbM7 G7 | AbM7 Ao | Bb7 Bo | Cm7 Cm7.Bb | Am7b5 D7 | Gm7 C7 | Fm7 Bb7 | Gm7 AbM7 | Am7b5 D7 | Gm7 C7 | Fm7 Bb7 | EbM7 | Dm7b5 G7 | Cm7 Cm7.Bb | Am7b5 D7 | Gm7 C7 Fm7 Bb7 | EbM7 G7 | AbM7 Ao | Bb7 Bo | Cm7 Cm7.Bb | Am7b5 D7 | Gm7 C7 | Fm7 Bb7 | EbM7 C7 Fm7 Bb7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

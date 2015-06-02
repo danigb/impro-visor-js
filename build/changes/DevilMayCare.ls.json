@@ -1,0 +1,11 @@
+{
+  "title": "Devil May Care",
+  "composer": "Bob Dorough and Terrell Kirk",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Am7 F#m7b5 | B7b9 E7b9 | Am7 F#m7b5 | B7b9 E7b9 | Am | F#m7b5 | F7#11 | E7b9 | Am7 F#m7b5 | B7b9 E7b9 | Am Am.G | F#m7b5 | Bm7b5 | E7b9 | Am | Eb7#11 | Dm7 | G7 | CM7 | Ebo | Dm7 | G7 | CM7 | . | Cm7 | F7 | BbM7 | . | Bm7b5 | E7b9 | AM7 | F7 E7 | Am7 F#m7b5 | B7b9 E7b9 | Am7 F#m7b5 | B7b9 E7b9 | Am7 Am.G | F#m7b5 | F7#11 | . | Bm7b5 | E7b9 | Am | . | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

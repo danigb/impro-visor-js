@@ -1,0 +1,11 @@
+{
+  "title": "8-Bar Blues",
+  "composer": "",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "C | C7 | F | Fm | C Am | Dm G7 | C | G7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Avalon",
+  "composer": "Al Jolson and B.G. DeSylva",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "200.0",
+  "parts": {
+    "chords": "Gm7 | . | C7 | . | FM7 | Gm7 C7 | FM7 | Am7 D7 | Gm7 | . | C7 | . | FM7 | Gm7 C7 | FM7 | . | Am7b5 | . | D7 | . | Gm7 | . | Bbm7 | Eb7 | FM7 | . | Am7 | D7 | Gm7 | C7 | F | . | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

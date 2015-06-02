@@ -1,0 +1,11 @@
+{
+  "title": "Bemsha Swing",
+  "composer": "Thelonious Monk",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "CM7 Eb7 | AbM7 Db7 | CM7 Eb7 | D7 Db7 | CM7 Eb7 | AbM7 Db7 | CM7 Ab7 | DbM7 Gb7 | FM7 Ab7 | DbM7 Gb7 | FM7 Eb7 | AbM7 Db7 | CM7 Eb7 | AbM7 Db7 | CM7 Eb7 | AbM7 Db7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1 r/1+1+1+1"
+  }
+}

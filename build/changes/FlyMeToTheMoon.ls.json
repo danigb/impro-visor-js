@@ -1,0 +1,11 @@
+{
+  "title": "Fly Me To The Moon",
+  "composer": "Bart Howard",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Am7 | Dm7 | G7 | CM7 | FM7 | Bm7b5 | E7 | Am A7 | Dm7 | G7 | CM7 | A7 | Dm7 | G7 | CM7 | Bm7b5 E7 | Am7 | Dm7 | G7 | CM7 | FM7 | Bm7b5 | E7 | Am A7 | Dm7 | G7 | Em7b5 | A7 | Dm7 | G7 | CM7 | Bm7b5 E7b9 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Sweet Lorraine",
+  "composer": "Cliff Burwell",
+  "meter": "4/4",
+  "key": "1",
+  "tempo": "120.0",
+  "parts": {
+    "chords": "G F7 E7 . | A7 . D7 B7 | Em | C7 B7 | E7 A7 | Am7 D7 | Bm7b5 E7 | Am7 D7+ | G F7 E7 . | A7 . D7 B7 | Em | C7 B7 | E7 A7 | Am7 D7 | G | Dm7 G7 | C E7 | Am C7 | F E7 | Am C7 | F7 E7 | Eb7 D7 | F7 E7 | A7 D7 | G F7 E7 . | A7 . D7 B7 | Em | C7 B7 | E7 A7 | Am7 D7 | G | Am7 D7 | ",
+    "melody1": "b/4 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4"
+  }
+}

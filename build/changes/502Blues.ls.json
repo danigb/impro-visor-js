@@ -1,0 +1,11 @@
+{
+  "title": "502 Blues",
+  "composer": "Jimmy Rowles",
+  "meter": "3/4",
+  "key": "0",
+  "tempo": "120.0",
+  "parts": {
+    "chords": "Am7 | DbM7#5 | Bm7b5 | E7b9 | Am7 | DbM7#5 | Bm7b5 | E7b9 | Cm7 | F7 | BbM7 Am7 | Abm7 Db7 | F#m7b5 | B7b9 | EM7 | . . E7#5 | Am7 | DbM7#5 | Bm7b5 | E7b9 | Am7 | DbM7#5 | Bm7b5 | E7b9 | Cm7 | F7 | BbM7 Am7 | Abm7 Db7 | F#m7b5 | B7b9 | Em7 | . | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

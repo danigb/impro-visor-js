@@ -1,0 +1,9 @@
+[0.3.0]
+- Leadsheets compatible with ScoreJS: build-leadsheets
+
+[0.2.0]
+- Prepare chords, teoria ready: build-chords
+- Prepare scales, divide and teoria ready: build-scales
+
+[0.1.0]
+- First version, convert to JSON

@@ -1,0 +1,11 @@
+{
+  "title": "Gone With The Wind",
+  "composer": "Allie Wrubel",
+  "meter": "4/4",
+  "key": "-3",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Fm7 Bb7 | EbM7 C7 | Fm7 Bb7 | EbM7 | Am7 D7 | GM7 E7 | Am7 D7 | GM7 | Gm7 | F#o7 | Fm7 | Bb7 | Eb7 D7 | Db7 C7 | Fm7 | Bb7 | Fm7 Bb7 | EbM7 C7 | Fm7 Bb7 | EbM7 | Am7 D7 | GM7 E7 | Am7 D7 | GM7 | Fm7 | Cm | AbM7#11 | Gm7 C7 | Fm7 | Bb7 | EbM7 Ab7 | Gm7 C7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

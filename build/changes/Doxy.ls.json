@@ -1,0 +1,11 @@
+{
+  "title": "Doxy",
+  "composer": "Sonny Rollins",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "140.0",
+  "parts": {
+    "chords": "BbM7 | Dm7 G7 | C7 F7 | BbM7 | BbM7 | Dm7 G7 | C7#11 | F7 | BbM7 | Bb7 | EbM7 | Eo | BbM7 | Dm7 G7 | C7 F7 | BbM7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

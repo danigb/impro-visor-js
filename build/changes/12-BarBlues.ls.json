@@ -1,0 +1,11 @@
+{
+  "title": "12-Bar Blues",
+  "composer": "Bob Keller",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "180.0",
+  "parts": {
+    "chords": "F13_ | Bb13 Bo7 | F13_ | Cm9 F13b9 | Bb13 | Bo7 | F13_ | D7#5#9 | Gm9 | C13b9 | F13_ D7#5#9 | Gm9 C13b9 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

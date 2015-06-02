@@ -1,0 +1,11 @@
+{
+  "title": "On Green Dolphin Street",
+  "composer": "Bronislau Kaper",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "EbM7 | . | Ebm | . | F.Eb | E.Eb | EbM7 | Gm7 C7 | Fm7 | Bb7 | EbM7 | . | Abm7 | Db7 | GbM7 | Fm7 Bb7 | EbM7 | . | Ebm | . | F.Eb | E.Eb | EbM7 | Gm7 C7 | Fm7 | Dm7b5 G7 | Cm7 | Am7b5 D7 | Gm7 C7 | Fm7 Bb7 | EbM7 | . | ",
+    "melody1": "r/1+2 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2"
+  }
+}

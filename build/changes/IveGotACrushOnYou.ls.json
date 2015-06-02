@@ -1,0 +1,11 @@
+{
+  "title": "I've Got A Crush On You",
+  "composer": "George Gershwin",
+  "meter": "4/4",
+  "key": "-2",
+  "tempo": "102.0",
+  "parts": {
+    "chords": "Dm7 Dbo | Cm7 F7 | Dm7 Dbo | Cm7 F7 | BbM7 | Gm7 C7 | Gm7 C7 | Cm7 F7 | Dm7 Dbo | Cm7 F7 | Dm7 Dbo | Cm7 . Am7b5 D7 | Gm7 | Em7b5 Eb7#11 | Dm7 G7 | Cm7 F7 | BbM7 | . | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Little Willie Leaps",
+  "composer": "Miles Davis",
+  "meter": "4/4",
+  "key": "-1",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Am7 D7 | Gm7 C7 | Am7 D7 | Gm7 C7 | Am7 D7 | Gm7 C7 | Am7b5 | D7#9 | Bm7b5 E7#9 | Am7 D7 | Gm7 C7 | FM7 | Em7b5 A7#9 | Dm | G7#4 | C7#4 | Am7 D7 | Gm7 C7 | Am7 D7 | Gm7 C7 | Am7 D7 | Gm7 C7 | Am7b5 | D7#9 | Bm7b5 E7#9 | Am7 D7 | Gm7 C7 | Am7b5 D7 | G7#4 | C7#4 | FM7 | Gm7 C7 | ",
+    "melody1": "r/8 c/8 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4"
+  }
+}

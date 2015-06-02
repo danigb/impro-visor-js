@@ -1,0 +1,11 @@
+{
+  "title": "Blue Moon",
+  "composer": "Richard Rodgers",
+  "meter": "4/4",
+  "key": "-3",
+  "tempo": "100.0",
+  "parts": {
+    "chords": "EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 | . | Fm7 Bb7 | Eb C7 | Fm7 Bb7 | Eb | Abm7 Db7 | GbM7 | Cm7 F7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 Cm7 | Fm7 Bb7 | EbM7 | Fm7 Bb7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

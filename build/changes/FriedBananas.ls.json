@@ -1,0 +1,11 @@
+{
+  "title": "Fried Bananas",
+  "composer": "Dexter Gordon",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "EbM7 | Gm7b5 C7alt | Fm7 | Am7b5 D7alt | EbM7 | G#M7 | G7alt | C7alt | Fm7 | G#m7 C#7 | EbM7 | Dm7 G7 | Cm7 | F7 | Fm7 | Bb7 | EbM7 | Gm7b5 C7alt | Fm7 | Am7b5 D7alt | EbM7 | G#M7 | G7alt | C7alt | Fm7 | G#m7 C#7 | EbM7 | Gm7b5 C7alt | Fm7 | Bb7 | EbM7 C7alt | Fm7 Bb7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

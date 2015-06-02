@@ -1,0 +1,11 @@
+{
+  "title": "Ain't Misbehavin'",
+  "composer": "Thomas \"Fats\" Waller",
+  "meter": "4/4",
+  "key": "-3",
+  "tempo": "120.0",
+  "parts": {
+    "chords": "EbM7 C7 | Fm7 Bb7 | EbM7 G7 | AbM7 Db7_ | Gm7 C7 | Fm7 Bb7 | EbM7 C7 | Fm7 Bb7 | EbM7 C7 | Fm7 Bb7 | EbM7 G7 | AbM7 Db7_ | Gm7 C7 | Fm7 Bb7 | EbM7 | . G7 | Cm | Ab7 | F7 | C7 | Bb6 G7 | Cm7 F7 | Gm7 C7 | Fm7 Bb7 | EbM7 C7 | Fm7 Bb7 | EbM7 G7 | AbM7 Db7_ | Gm7 C7 | Fm7 Bb7 | EbM7 | . | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}

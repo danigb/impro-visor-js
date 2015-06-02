@@ -1,0 +1,11 @@
+{
+  "title": "Blue Lou",
+  "composer": "E. Sampson",
+  "meter": "4/4",
+  "key": "0",
+  "tempo": "160.0",
+  "parts": {
+    "chords": "Gb7 | F7 | Gb7 | F7 | BbM7 | EbM7 | C7 | F7 | Gb7 | F7 | Gb7 | F7 | BbM7 | EbM7 | C7 F7 | BbM7 | FM7 | F#o7 | Gm7 | C7 | FM7 | F#o7 | Gm7 C7 | F7 | Gb7 | F7 | Gb7 | F7 | BbM7 | EbM7 | C7 F7 | BbM7 | ",
+    "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
+  }
+}
