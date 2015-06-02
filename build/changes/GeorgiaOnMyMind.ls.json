@@ -5,7 +5,7 @@
   "key": "-1",
   "tempo": "120.0",
   "parts": {
-    "chords": "FM7 | Em7b5 A7 | Dm Dm7.C | Bm7b5 Bbm7 | Am7 D7 | Gm7 C7 | A7#9 D7 | Gm7 C7+ | FM7 | Em7b5 A7 | Dm Dm7.C | Bm7b5 Bbm7 | Am7 D7 | Gm7 C7 | FM7 . Bb Bo | FM7 . Em7b5 A7 | Dm A7 | Dm Bb7 | Dm A7 | Dm7 G7 | Dm A7 | Dm E7 | Am7 D7 | Gm7 C7 | FM7 | Em7b5 A7 | Dm Dm7.C | Bm7b5 Bbm7 | Am7 D7 | Gm7 C7 | FM7 . Bb Bo | FM7 | ",
+    "chords": "FM7 | Em7b5 A7 | Dm Dm7_C | Bm7b5 Bbm7 | Am7 D7 | Gm7 C7 | A7#9 D7 | Gm7 C7+ | FM7 | Em7b5 A7 | Dm Dm7_C | Bm7b5 Bbm7 | Am7 D7 | Gm7 C7 | FM7 _ Bb Bo | FM7 _ Em7b5 A7 | Dm A7 | Dm Bb7 | Dm A7 | Dm7 G7 | Dm A7 | Dm E7 | Am7 D7 | Gm7 C7 | FM7 | Em7b5 A7 | Dm Dm7_C | Bm7b5 Bbm7 | Am7 D7 | Gm7 C7 | FM7 _ Bb Bo | FM7 | ",
     "melody1": "r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1"
   }
 }

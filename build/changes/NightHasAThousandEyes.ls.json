@@ -5,7 +5,7 @@
   "key": "1",
   "tempo": "200.0",
   "parts": {
-    "chords": "GM9 | . | Am7.G | . | GM9 | . | Am7.G | . | Dm9 | G13b9 | CM9 | F13#11 | Bm9 Bbo7 | Am9 D13b9 | GM9 | . | GM9 | . | Am7.G | . | GM9 | . | Am7.G | . | Dm9 | G13b9 | CM9 | F13#11 | Bm9 Bbo7 | Am9 D13b9 | GM9 | . | Cm9 | F7+ | BbM9 | . | Bbm9 | Eb7+ | AbM9 | . | Am9 | D13 | Bm9 | E13 | Am9 | D13b9 | GM9 | D9sus4 | ",
+    "chords": "GM9 | _ | Am7_G | _ | GM9 | _ | Am7_G | _ | Dm9 | G13b9 | CM9 | F13#11 | Bm9 Bbo7 | Am9 D13b9 | GM9 | _ | GM9 | _ | Am7_G | _ | GM9 | _ | Am7_G | _ | Dm9 | G13b9 | CM9 | F13#11 | Bm9 Bbo7 | Am9 D13b9 | GM9 | _ | Cm9 | F7+ | BbM9 | _ | Bbm9 | Eb7+ | AbM9 | _ | Am9 | D13 | Bm9 | E13 | Am9 | D13b9 | GM9 | D9sus4 | ",
     "melody1": "a/1+2 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2"
   }
 }

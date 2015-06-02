@@ -5,7 +5,7 @@
   "key": "0",
   "tempo": "176.0",
   "parts": {
-    "chords": "CM7 | . | DbM7 | . | Bbm7 | Eb7 | AbM7 | . | Gm7 | C7 | FM7 | . | Am7 | D7 | Ebm7 Ab7 | Dm7 G7 | CM7 | . | DbM7 | . | Bbm7 | Eb7 | Gb7 | F7 | Dm7b5 | G7 | CM7 | A7 | Dm7 | G7 | CM7 | Dm7 G7 | ",
+    "chords": "CM7 | _ | DbM7 | _ | Bbm7 | Eb7 | AbM7 | _ | Gm7 | C7 | FM7 | _ | Am7 | D7 | Ebm7 Ab7 | Dm7 G7 | CM7 | _ | DbM7 | _ | Bbm7 | Eb7 | Gb7 | F7 | Dm7b5 | G7 | CM7 | A7 | Dm7 | G7 | CM7 | Dm7 G7 | ",
     "melody1": "e/8 r/1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+4+8"
   }
 }

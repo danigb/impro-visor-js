@@ -28,7 +28,7 @@ function process (name, contents) {
 
   contents.parts.forEach(function (part, index) {
     if (part.type === 'chords') {
-      obj.parts['chords'] = part.lit.replace(/\|\s*/g, '| ').replace(/\//g, '.')
+      obj.parts['chords'] = part.lit.replace(/\|\s*/g, '| ').replace(/\//g, '_')
     } else {
       var key = part.title !== '' ? part.title : part.type + index
       // obj.parts['_' + key] = part.lit
