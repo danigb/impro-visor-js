@@ -1,13 +1,17 @@
 module.exports = function (tester, path) {
   return function (files, metalsmith, done) {
+    var index = {}
     Object.keys(files).forEach(function (file) {
       if (tester.test(file)) {
         var name = file.substring(file.lastIndexOf('/') + 1)
         var content = JSON.parse(files[file].contents.toString())
-        var result = JSON.stringify(process(name, content), null, 2)
-        files[path + '/' + name] = { contents: new Buffer(result) }
+        var result = process(name, content)
+        var json = JSON.stringify(result, null, 2)
+        files[path + '/' + name] = { contents: new Buffer(json) }
+        index[result.title] = path + '/' + name
       }
     })
+    files[path + '/' + tester.toString().slice(1, -1) + '.json'] = JSON.stringify(index, null, 2)
     done()
   }
 }
